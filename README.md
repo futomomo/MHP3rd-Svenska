@@ -12,5 +12,5 @@ För att patcha spelet behövs `Athena's Translation Tool` (ATT) för MHP3rd, l�
 ### Resurser
 - Athena's MHP3 English Patch
 - [Kiranico](https://kiranico.com/)
-- [Jisho][https://jisho.org/)
+- [Jisho](https://jisho.org/)
 - Med mera
