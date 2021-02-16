@@ -1,0 +1,2420 @@
+﻿<EMPTY STRING>
+？
+個
+Z
+∞
+×
+枚
+ID
+Name：
+：
+人
+min
+No
+Yes
+人
+Amount
+Info
+Next
+Back
+Requires
+Departure Prep
+Cancel Departure
+Menu
+Status
+Unable to Rec
+Move
+Zm In
+Zm Out
+Send to Box
+?????????
+１
+２
+３
+４
+Quest Members:
+Weapon
+Armor
+Great Sword
+Long Sword
+Sword & Shield
+Dual Swords
+Hammer
+Hunting Horn
+Lance
+Gunlance
+Switch Axe
+Light Bowgun
+Heavy Bowgun
+Bow
+Helmet
+Plate
+Gauntlets
+Waist
+Leggings
+Gunner Use
+Blademaster Use
+Female Use
+Male Use
+Female Gunner Use
+Male Gunner Use
+Female Blademaster Use
+Male Blademaster Use
+Current:
+Gunner
+Blademstr
+Material Needed
+Amount Required
+/
+Scraps Given
+Scraps left over after creation.
+Level Info
+Cannot be upgraded
+Nothing to purchase
+Cannot be upgraded
+<NEWLINE>~C05$z ~C00required<NEWLINE>Ok?
+<NEWLINE>~C00That will be ~C05$z<NEWLINE>~C00Ok?
+<NEWLINE>~C05Price including Decorations<NEWLINE>will be $z. ~C00Would you<NEWLINE>like to sell these items?
+<NEWLINE>無料で引取ることになります。<NEWLINE>よろしいですか？
+<NEWLINE><NEWLINE>~C00Equip this item now?
+~C00Equip this item now?<NEWLINE>~C05Equipping this wepon will<NEWLINE>unequip your current armor.<NEWLINE>~C00Ok?
+<NEWLINE>~C05This item cannot be<NEWLINE>equipped in your current<NEWLINE>hunter type. Ok?
+Press the START button to<NEWLINE>view equipment.
+No samples available.
+<NEWLINE><NEWLINE>Ok to sort?
+~C00Please select the equipment<NEWLINE>you would like to sell.
+~C00Purchased equipment.
+~C00Sold equipment.
+~C00Purchased weapon.
+~C00Purchased armor.
+~C00Please select weapon.
+~C00Please select armor
+~C00Please select the weapon<NEWLINE>you would like to purchase.
+~C00Please select the armor<NEWLINE>you would like to purchase.
+Zm Out
+Zm In
+Move
+Weaponcraft
+Armorcraft
+Upgrade
+Decorations
+Smithing Info
+Create
+Equip/Unequip
+Level Up
+Increase Attack
+Increase Attack/Attach Parts
+Attach Parts
+Attach Silencer
+Remove Silencer
+Attach Long Barrel
+Remove Long Barrel
+Attach Zoom Scope
+Attach Fixed Scope
+Attach Shield
+Remove Shield
+Attach Power Barrel
+Remove Power Barrel
+<NEWLINE>~C00Creating this requires the<NEWLINE>raw materials necessary for<NEWLINE>creation plus ~C05$ｚ<NEWLINE>~C00Ok?
+<NEWLINE>~C00Improving requires the raw<NEWLINE>materials necessary plus<NEWLINE>~C05$ｚ ~C00Ok?
+<NEWLINE>~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. Equipped items<NEWLINE>will be removed. ~C00Improve now?
+<NEWLINE>~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. Attack increase<NEWLINE>will be removed. ~C00Ok?
+~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. ~C05Decorations and<NEWLINE>Attack increase will be<NEWLINE>removed ~C00Ok?
+<NEWLINE>~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. Bowgun parts<NEWLINE>will be removed. ~C00Ok?
+~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. ~C05Decorations and<NEWLINE>Bowgun parts will be<NEWLINE>removed ~C00Ok?
+~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. ~C05Bowgun parts and<NEWLINE>Attack increase will be<NEWLINE>removed ~C00Ok?
+~C00Improving requires materials<NEWLINE>plus ~C05$ｚ. ~C05Decorations, Bowgun<NEWLINE>parts and Attack increase<NEWLINE>will be removed ~C00Ok?
+<NEWLINE><NEWLINE>~C00Equip this item now?
+??????
+~C00Equip this item?<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor.<NEWLINE>~C00Ok?
+<NEWLINE>~C05This item cannot be<NEWLINE>equipped in your current <NEWLINE>hunter type. OK?
+<NEWLINE>~C05アイテムボックスに入らない<NEWLINE>端材は破棄されますが<NEWLINE>よろしいですか？
+~C00攻撃力上昇
+~C00店の貸し出し部品。減音化によって<NEWLINE>モンスターに狙われにくくなり、<NEWLINE>反動も少し軽減される。
+~C00サイレンサーを取り外して、<NEWLINE>ノーマルに戻す。<NEWLINE>サイレンサーは店に回収される。
+店の貸し出し部品。<NEWLINE>攻撃力が上昇する。
+~C00ロングバレルを取り外して、<NEWLINE>ノーマルに戻す。<NEWLINE>ロングバレルは店に回収される。
+~C00店の貸し出し部品。<NEWLINE>方向キーの左右で表示倍率が<NEWLINE>変更可能になる。
+~C00ノーマルの固定倍率スコープに<NEWLINE>もどす。可変倍率スコープは<NEWLINE>店に回収される。
+~C00店の貸し出し部品。<NEWLINE>シールドを取り付ける事により、<NEWLINE>オートガードが可能になる。
+~C00シールドを取り外して、<NEWLINE>ノーマルに戻す。<NEWLINE>シールドは店に回収される。
+~C00店の貸し出し部品。<NEWLINE>攻撃力が上昇する。
+~C00パワーバレルを取り外して、<NEWLINE>ノーマルに戻す。<NEWLINE>パワーバレルは店に回収される。
+<NEWLINE>~C05$ｚ ~C00refitting fee required.<NEWLINE>Ok?
+<NEWLINE>~C05$ｚ ~C00refitting fee<NEWLINE>required. ~C05Remove Silencer.<NEWLINE>~C00Ok?
+<NEWLINE>~C05$ｚ ~C00refitting fee<NEWLINE>required. ~C05Remove Long Barrel.<NEWLINE>~C00Ok?
+<NEWLINE>~C05$ｚ ~C00refitting fee<NEWLINE>required. ~C05Remove Shield.<NEWLINE>~C00Ok?
+<NEWLINE>~C05$ｚ ~C00refitting fee<NEWLINE>required. ~C05Remove Power Barrel.<NEWLINE>~C00Ok?
+Cannot be further improved.
+~C00Execute which improvement?<NEWLINE>~C05Upgrade level：
+~C02生産できる装備はありません
+素材とお金を渡して武器を<NEWLINE>生産します。
+素材とお金を渡して防具を<NEWLINE>生産します。
+素材とお金を渡して武器や防具を<NEWLINE>強化します。
+装飾品の生産、または着脱を<NEWLINE>行います。
+武器の強化について説明します。
+~C00武器の種類を選択してください。
+~C00防具の種類を選択してください。
+~C00強化する装備を選択してください。
+~C00Select the Weapon you would<NEWLINE>like to create.
+~C00Select the Armor you would<NEWLINE>like to create.
+~C00強化内容を選択してください。
+Both
+Blademaster Use
+Gunner Use
+Type:
+Current View
+Deco
+Skills
+Remove Decorations
+－－－－－－－－
+Required Slots
+No Slots
+Slot
+No decorations.
+Skill 1
+Skill 2
+~C00Attach to which piece of<NEWLINE>equipment?
+~C00Attach to which piece of<NEWLINE>equipment?<NEWLINE>~C05Open Slots:%d
+~C00Attach to which piece of<NEWLINE>equipment? ~C02There are no open<NEWLINE>Slots on this piece of<NEWLINE>equipment.
+~C02This Decoration cannot be<NEWLINE>attached to the selected<NEWLINE>equipment.
+~C02This Decoration cannot be<NEWLINE>attached because there are<NEWLINE>not enough open Slots.
+~C02The Decoration cannot be<NEWLINE>attached because you do not<NEWLINE>have enough money.
+~C00Attach which Decoration?
+~C00Attach which Decoration?<NEWLINE>~C05Open Slots: %d
+~C00Attaching requires the<NEWLINE>Decoration plus $z. OK?
+You have no decorations.
+~C00Remove Decorations from which<NEWLINE>piece of equipment?
+~C00Remove Decorations from which<NEWLINE>piece of equipment?<NEWLINE>~C02No Decorations are attached to<NEWLINE>this equipment.
+~C00Remove Decorations from which<NEWLINE>piece of equipment?
+~C00$z required.
+No Decorations can be crafted.
+Required Slots:
+素材とお金を渡して装飾品を<NEWLINE>生産します。
+装飾品の装着、解除を行います。
+~C00Select the Decoration you'd<NEWLINE>like to create.
+~C00装飾品を着脱する装備を<NEWLINE>選択してください。
+スロットを選択してください。
+装飾品を選択してください。
+装飾品を選択してください。<NEWLINE>~C02スロット数が足りません。
+装飾品を選択してください。<NEWLINE>~C02アイテムボックスがいっぱいです。
+Blacksmith
+Create Scraps
+Scraps Info
+  Weapon
+Helmet
+Plate
+From Inventory
+From Item Box
+From Scraps List
+Selected Comrade
+Press the START button to<NEWLINE>view equipment.
+オトモボックスに送る
+Amount
+Amount
+Item to be exchanged
+Exchanged Item
+Scraps
+Scrap List
+Items
+Equipment Info
+[No Info]
+[Create]
+[Enhance]
+オトモ用の武具を生産します。
+アイテムを端材と交換します。
+端材について説明します。
+装備の種類を選択してください。
+アイテムポーチのアイテムを<NEWLINE>端材と交換します。
+アイテムボックスのアイテムを<NEWLINE>端材と交換します。
+端材リストからアイテムを選び<NEWLINE>端材と交換します。
+端材にする素材を選んでください。<NEWLINE>~C05（アイテムボックスへ送られます）~C00
+端材にする素材を選んでください。<NEWLINE>~C05（アイテムボックスへ送られます）~C00<NEWLINE>~C02アイテムボックスがいっぱいです。~C00
+素材を入手していません。
+端材を選んでください。<NEWLINE>~C05（アイテムボックスへ送られます）~C00
+Select the Weapon you would<NEWLINE>like to create.
+Select the Armor you would<NEWLINE>like to create.
+オトモを選択してください。
+装備させるオトモを<NEWLINE>選択してください。
+~C02ニャンタークエストに出発中のため<NEWLINE>装備変更はできません。~C00
+<NEWLINE><NEWLINE><NEWLINE>Equipping...
+生産素材、および<NEWLINE>~C05$ｚ~C00が必要です。<NEWLINE>生産しますか？
+<NEWLINE>選択中のオトモに<NEWLINE>装備させますか？
+<NEWLINE><NEWLINE>交換してよろしいですか？
+<NEWLINE><NEWLINE>並び替えてよろしいですか？
+Item Box
+Set
+Skills
+Talismans
+Put In Item
+Take Out Item
+Combine In Box
+Combine from List
+Change Equipment
+Arrange Items
+Sell Item
+Put In Item
+Take Out Item
+Combine In Box
+Combine from List
+~C10Change Equipment~C00
+Arrange Items
+Sell Item
+<NEWLINE>Change Equipment.<NEWLINE>Are you sure?
+<NEWLINE>Change equipment.<NEWLINE>~C05Decorations will be swapped.~C00<NEWLINE>Are you sure?
+<NEWLINE>Change equipment.<NEWLINE>~C05Decorations will be moved.<NEWLINE>Some decorations are missing.~C00<NEWLINE>Are you sure?
+<NEWLINE><NEWLINE>~C02Not enough space in<NEWLINE>Item Box.<NEWLINE>Decorations not replaced.
+<NEWLINE>~C02Not enough space in<NEWLINE>Item Box.<NEWLINE>Decorations not replaced.
+<NEWLINE><NEWLINE><NEWLINE>Equipping...
+<NEWLINE>Register current equipment<NEWLINE>here?
+<NEWLINE>Remove currently registered<NEWLINE>equipment.<NEWLINE>OK?
+<NEWLINE>Change Equipment.<NEWLINE>Ok?
+<NEWLINE>Remove Equipment.<NEWLINE>Ok?
+<NEWLINE>~C05Price including Decorations<NEWLINE>will be $z. ~C00Would you<NEWLINE>like to sell these items?
+<NEWLINE>Will be sold for ~C05%dz~C00.<NEWLINE>Are you sure you want to sell?
+Sorted By
+Rarity
+Skill 1
+Skill 2
+Slots
+Value
+RARE-
+Equip this item now?
+Remove Equipment?
+Change All
+Helmet
+Plate
+Gauntlet
+Waist
+Leggings
+Revert
+COLOR
+R
+G
+B
+Move
+MENU OFF
+MENU ON
+Camera
+Items
+Equipmnt
+Items
+~C10Equipment
+~C00That will be ~C05%dz<NEWLINE>~C00Sell these items. Ok?
+This will be taken for free.<NEWLINE>Ok?
+~C00~B03Skill Info
+~C00~B03Rtrn
+~C00~B00Cfrn　~B01Cancel
+View%d/%d
+~C00~B03Status
+~C00~B03Info
+~C00Total incl. Decorations: ~C05%dz<NEWLINE>~C00Would you like to<NEWLINE>sell these items?
+Select Qty
+~B02Clear
+Value
+Amount
+Change Equipment
+Select Talisman
+Remove/Equip Deco
+Equipment Set
+Reg Curr Equip
+Move Set
+Delete Set
+Chg SU-Series Clr
+◆
+~C00◆ ~C%02d%s
+Color List
+White
+Black
+Red
+Pink
+Orange
+Yellow
+Green
+Jade Green
+Deep Blue
+Blue
+Purple
+Rainbow
+Colors
+Helmet
+Plate
+Gauntlets
+Waist
+Leggings
+[Color Set]
+S Series
+XZ Series
+[Status]
+Select item to deposit.
+<NEWLINE>Item deposit.
+~C02The Item Box is full.
+Select item to remove.
+Select where to place item.
+How many would you like to<NEWLINE>remove?
+~C02Cannot carry any more of this<NEWLINE>item.
+<NEWLINE>Item removed.
+Exchange item.<NEWLINE>Ok?
+There are not enough slots<NEWLINE>on this equipment.
+Select the Equipment to be<NEWLINE>changed.
+Change Equipment. ~C05Equipping this<NEWLINE>weapon will unequip your armor.<NEWLINE>Ok?
+~C02Cannot remove weapon.
+~C02This item cannot be equipped<NEWLINE>in your current hunter type.
+~C02Cannot Equip.
+<NEWLINE>Change Equipment.<NEWLINE>Ok?
+<NEWLINE>Remove Equipment.<NEWLINE>Ok?
+<NEWLINE>Equip.
+<NEWLINE><NEWLINE><NEWLINE>Equipping...
+Equipment Changed.
+Please select the item you would<NEWLINE>like to replace.
+Please select the equipment you<NEWLINE>would like to replace.
+Please select the item you would<NEWLINE>like to sell.
+Please select the equipment you<NEWLINE>would like to sell.
+Please select<NEWLINE>the number of items<NEWLINE>you would like to sell.
+<NEWLINE>Ok?
+~C02You cannot sell items that<NEWLINE>are currently equipped.
+Ok to sort?
+Please select the set you<NEWLINE>would like to edit.
+Please select the part you<NEWLINE>would like to edit and<NEWLINE>register.
+Register this equipment.
+You cannot equip the currently<NEWLINE>selected weapon.
+The currently selected weapon<NEWLINE>cannot be joined with certain<NEWLINE>armor. Ok?
+~C02No set is currently<NEWLINE>registered.
+Registered. Update this<NEWLINE>equipment?
+Select the weapon to be<NEWLINE>registered.
+Select the equipment to be<NEWLINE>registered.
+Cannot remove weapon.
+Remove currently registered<NEWLINE>equipment.
+Please select where to<NEWLINE>register current equipment.<NEWLINE>
+Register current equipment<NEWLINE>here?
+~C02You cannot equip this armor<NEWLINE>with your current weapon.
+Please select the set to<NEWLINE>equip.<NEWLINE>
+Change equipment?
+Put away how many items?
+＋
+Remove currently registered<NEWLINE>equipment.<NEWLINE>Ok?
+Register current equipment<NEWLINE>here? ~C05(Including currently<NEWLINE>selected colors.)
+Combine items.
+~C02You have no materials.
+<NEWLINE>~C02Item box is full.
+Please select the set to<NEWLINE>equip.<NEWLINE>
+Please select where to<NEWLINE>register current equipment.<NEWLINE>
+装飾品の変更を確認します。
+この装備は変更がありません。
+登録されている内容を解除します。<NEWLINE>マイセットを選択してください。
+マイセットの位置を変更します。<NEWLINE>移動させたいマイセットを選択して<NEWLINE>ください。
+Please select a talisman.
+~C0You have no talismans.
+マイセットの位置を変更します。<NEWLINE>移動先を選択してください。
+装飾品の変更を確認します。
+装飾品の変更を確認します。<NEWLINE>~C02この装備は変更ありません。
+装備する護石を選択してください。<NEWLINE>~C02装備中のものは売れません。
+登録されている装備の詳細を<NEWLINE>確認します。
+Item Box
+Sell
+装備変更
+Enhance
+Remove/Equip Deco
+装飾品の付け替え
+Equipment Box
+No Quest Requests
+No Slots
+Password Set:
+Recruiting Note
+Quest Member
+Reward
+Contract
+Location
+TimeLimit
+Quest Details
+Requirements
+Requirements
+Main Monster
+<D>
+<N>
+Waiting for Players
+Confirm
+Players
+Quest Details
+Quest Level
+Goal Condition
+Fail Condition
+Client
+Quest Details
+★
+★★
+★★★
+★★★★
+★★★★★
+★★★★★★
+★★★★★★★
+★★★★★★★★
+ＬＶ
+Min. HR
+1
+2
+3
+4
+5
+6
+??????
+Urgent Quest
+Event Quest
+Hot Spring Quest
+Drink Quest
+Special Quest
+Volatile
+Locale
+Low Rank Quest
+High Rank Quest
+Items
+Combine
+Combo List
+Quest Info
+Comrade
+Take Item
+Guild Card
+Status
+Equipment Detail
+Monster List
+Options
+Gestures
+Player Info
+－－－－－－－－
+Open Item Bag and check current<NEWLINE>item inventory.
+Combine items
+Examine your Combo List.
+Check current quest status and<NEWLINE>contract conditions.
+Check Felyne Comrade status.<NEWLINE>In the Online Halls, you can<NEWLINE>send and receive Comrades.
+Receive item sent by another<NEWLINE>player.
+Check/Show Guild Card.<NEWLINE>
+Check your own status information.
+Check Equipment details.<NEWLINE>
+Examine your Monster List.
+Go to Option Settings.
+Communicate using Gestures.
+Displays player info for all<NEWLINE>hunters in the Gathering Hall.
+dummy
+Check your Guild Card.
+Edit your Guild Card.
+Send your Guild Card to another<NEWLINE>player.
+Open Card List and check another<NEWLINE>player's Guild Card.<NEWLINE>
+Give your Comrade<NEWLINE>to another player.
+Exchange active and standby Felyne<NEWLINE>Fighters.
+Dismiss a Comrade.
+You don't have any Comrades.
+Buy
+Sell
+Buy
+Sell
+Send to Box
+Order
+Activate Skill
+Chance
+~C05%s~C00 skill activated!
+－－－－－－－－
+1 Free!!
+How many will you buy?<NEWLINE>
+How many will you sell?<NEWLINE>
+<NEWLINE>Do you want to sort?
+~C00That will be ~C05$ｚ<NEWLINE>~C00Ok?
+~C00That will be ~C05$z<NEWLINE>~C00Would you still like<NEWLINE>to sell these items?
+~C05Price including Decorations<NEWLINE>will be $ｚ. ~C00Would you<NEWLINE>like to sell these items?
+~C00Please select an item to<NEWLINE>purchase.
+~C00Please select an item to<NEWLINE>purchase.<NEWLINE>~C02Item Bag is full. (It can<NEWLINE>only carry 24 types of items.)
+~C00Please select the item you<NEWLINE>would like to sell.
+This item has no attached<NEWLINE>value. Would you still like<NEWLINE>to sell this item?
+~C00Please select an item to<NEWLINE>purchase.<NEWLINE>~C05Items purchased will<NEWLINE>be sent to Item Box.
+~C00Please select an item to<NEWLINE>purchase.<NEWLINE>~C02Item Box is full.<NEWLINE>
+Please select a drink<NEWLINE>to purchase.
+引き換えするドリンクを<NEWLINE>選択してください。
+引き換えます<NEWLINE>よろしいですか？
+Sale!
+Purchase items,<NEWLINE>place them in pouch.
+Sell items from your<NEWLINE>item pouch.
+Purchase items,<NEWLINE>send them to item box.
+Slaying Quest
+Gathering Quest
+Hunting Quest
+Special Quest
+Extended Quest
+Hot Spring Quest
+Drink Quest
+Special Quest
+Soak in Hot Spring
+Stand Up
+Depart on a Quest
+Check Quest Board
+Save Game Data
+Open Item Box
+Open Small Item Box
+Departure Prep Complete
+Select Target
+Enter House
+Exit
+Offline Hall
+Online Hall
+Go to Yukumo Farm
+Return to Yukumo Village
+Return to House
+Go to Hot Spring
+Go to Hall
+Return to Yukumo Village
+Open Bookshelf
+Go to Training School
+Harvest Crops
+Raise Fishnet
+Harvest Bugs
+Felyne Fishing
+Use Mining Cart
+Mine Ore
+Use Insect Seesaw
+Collect Mushrooms
+Collect Honey
+Ascend Ladder
+Descend Ladder
+Use Mega BBQ Spit
+Select Felyne
+Felyne Corps Report
+Select Destination
+Home
+Yukumo Farm
+Training School
+????????
+Check the Comrade Board
+Jump
+Lift from Spit
+~B09~B02~B01~B00Gestures
+Quest under contract.
+You got 1500z!
+No password entered.
+No message entered.
+Monster List has been updated.
+Item Box storage capacity has increased!
+Item Box has reached maximum storage capacity.
+Registration has been closed for this Quest.
+This Quest has reached the maximum number of players. 
+Item Box is full.
+Sent to Item Box
+Caution! You do not have any bullets!
+≪Heroes' Festival≫ has been added to the Gallery<NEWLINE>≪Credits≫ has been added to the Gallery
+You can now watch all game cinemas in your Gallery.
+Change Piggie's clothes at the Bookshelf.
+Equipment sent to the Item Box.
+Decoration sent to the Item Box.
+You can now change SU-Series armor color at the Item Box.
+You can now change XZ-Series armor Color at the Item Box.
+New fashions have been added for Piggie!
+Item Sent to Box.
+本棚に情報誌が追加されました
+ＧＡＬＬＥＲＹに≪魂を宿す唄≫が追加されました
+Scraps sent to Item Box.
+オトモボックスに送りました
+オトモボックスがいっぱいです
+オトモアイルーが雇用されていません
+武器が登録されていません
+控えに送りました
+Examine
+Edit
+Give
+Card List
+Send to all
+Send to one
+Send your Guild Card to all other<NEWLINE>players in the Guild Hall at once.
+Send your Guild Card to other<NEWLINE>players in the Guild Hall<NEWLINE>individually.
+カードを送るプレイヤーを<NEWLINE>選択してください。
+カードを送信します。
+Processing...
+Cancelling...
+You do not meet the requirements to initiate<NEWLINE>this Quest.
+You do not meet the requirements to join<NEWLINE>this Quest.
+An error occurred while transmitting Quest<NEWLINE>Data.
+This Quest has either been<NEWLINE>dissolved or has already begun.
+Quest joined.<NEWLINE>You can complete Quest preparations<NEWLINE>by pressing the ~B03 button in front<NEWLINE>of the departure area.
+Unable to connect.
+Password incorrect.
+This Quest is no longer accepting hunters.
+Quest has reached the maximum number of<NEWLINE>hunters.
+There are members who have not completed<NEWLINE>preparations. Would you still like to embark<NEWLINE>on the Quest?
+Would you like to embark on the Quest?
+Cancel departure<NEWLINE>preparations?
+Quest Party Dissolved.
+WLAN/WIRELESS is switched off.<NEWLINE>To connect, please switch it on.
+A communications error has occurred.<NEWLINE>WLAN/WIRELESS was switched off.
+A communications error has occurred.
+Unable to enter because the room is full.
+Join which Guild Hall?
+There are no Event Quests.
+もう一度集会浴場選択を行いますか？<NEWLINE>「いいえ」を選択すると<NEWLINE>オフライン集会浴場に移動します。
+攻撃こそ最大の防御なのニャ！
+ボクが獲物をひきつけるニャ！
+逃げたとしても役に立つニャ！
+力の限りご主人を助けるニャ！
+隙を逃さず攻め込むニャ！
+狩りとは、諦めないことニャ！
+ボクは採取とかを頑張るニャ！
+レウス
+ティガ
+ナルガ
+よろしくるぺっこ
+よろしくるぺっこ
+おろしくるぺっこ
+Recruited Attribute
+Requested Attribute
+雇用数
+あと
+匹
+スカウト中
+Press the START<NEWLINE>button to<NEWLINE>view Felyne.
+Press the START<NEWLINE>button to<NEWLINE>view Felyne.
+アイルータイプ
+メラルータイプ
+アメショータイプ
+無地タイプ１
+無地タイプ２
+ブチタイプ
+Hire
+Request
+Downloads
+Dismiss
+Atk Style
+Tendency
+Character
+Lineage
+Clear All
+近接武器の扱いを得意とします。<NEWLINE>武器が強くなるほど活躍します。
+爆弾攻撃を得意とするタイプです。<NEWLINE>打ち上げタル爆弾も扱います。
+ブーメラン攻撃を得意とします。<NEWLINE>遠くから適確に獲物を攻めます。
+旦那さんが獲物に近い時は近接で、<NEWLINE>遠い時は爆弾で攻撃を行います。
+旦那さんが獲物に近い時は近接で、<NEWLINE>遠い時はブーメランで攻撃します。
+旦那さんが獲物に近い時はブーメ<NEWLINE>ラン、遠い時は爆弾で攻撃します。
+攻撃は一切行わないタイプです。<NEWLINE>
+小型モンスターを狙います。小型<NEWLINE>がいないときのみ大型を狙います。
+大型よりも、小型モンスターを<NEWLINE>狙いやすいタイプです。
+大型モンスターも、小型モンスター<NEWLINE>も、バランス良く狙うタイプです。
+小型よりも、大型モンスターを<NEWLINE>狙いやすいタイプです。
+大型モンスターを狙います。大型<NEWLINE>がいないときのみ小型を狙います。
+大型モンスターが怒ったり、自分が<NEWLINE>痛手を受けたら、怒り、戦います。<NEWLINE>勇敢ゆえにパニックにも無縁です。
+大型モンスターが怒ったり、旦那さ<NEWLINE>んが痛手を受けたら、注意を自分に<NEWLINE>引きます。但し自分の痛手には…。
+自分が痛手を受けたり、大型モンス<NEWLINE>ターが飛んだり潜ったりしたとき、<NEWLINE>役立つモノを残して逃げます。
+旦那さんが痛手を受けたり、拘束さ<NEWLINE>れたりすると、怒り、戦います。<NEWLINE>拘束時にはこやし玉も投げます。
+大型モンスターの疲れや、めまいを<NEWLINE>見逃さず、ラッシュ攻撃をします。<NEWLINE>但しパニックになる事も多いです。
+体力の回復速度が格段に早く、<NEWLINE>大型モンスターが怒ったり、自分が<NEWLINE>痛手を受けたときが、見せ場です。
+争いごとが苦手な平和主義者です。<NEWLINE>大型モンスターが怒ったりしても、<NEWLINE>無視して採取を行います。
+ネコバァが連れてきた<NEWLINE>オトモアイルーを雇用します。
+次回ネコバァに連れてきてもらう<NEWLINE>オトモアイルーの特徴を<NEWLINE>指定します。
+データコンバートやダウンロードで<NEWLINE>入手したオトモアイルーを<NEWLINE>雇用します。
+雇用中のオトモアイルーを<NEWLINE>解雇します。
+次回ネコバァに連れてきてもらう<NEWLINE>オトモアイルーの特徴を<NEWLINE>%sの中から指定します。
+オトモスカウトの指定を<NEWLINE>解除します。
+~C02これ以上雇えません。<NEWLINE>（２５匹までしか雇えません）~C00
+~C02これ以上雇えません。<NEWLINE>（オトモボックスに１つ以上の<NEWLINE>空きが必要です。）~C00
+雇うオトモアイルーを<NEWLINE>選択してください。
+雇うオトモアイルーを<NEWLINE>選択してください。<NEWLINE>~C05このオトモアイルーは<NEWLINE>名前変更できません。~C00
+~C02このオトモアイルーは<NEWLINE>既に雇用しています。~C00
+~C02雇えるオトモアイルーがいません。~C00
+スカウトするオトモアイルーの<NEWLINE>%sを選択してください。
+~C02オトモアイルーが１匹もいません。~C00
+The headhunting fee will be.<NEWLINE>$z. Hire Comrade?
+Hire Comrade?
+オトモスカウトの指定を<NEWLINE>解除しますか？
+オトモスカウトの指定を<NEWLINE>依頼中の内容から変更しますか？
+オトモ配信で出会った<NEWLINE>オトモアイルーを雇用します。
+雇用中のオトモアイルーを<NEWLINE>解雇します。
+オトモアイルーの雇用を<NEWLINE>終了します。
+You have too much of 
+Unable to get.
+Weapon Usage
+Hunter's Log
+Felyne Companion
+Awards
+Monster Log
+Group Training Records
+~C25FS LVL~C00ｘ
+HR
+Elder Quest
+GH LowRankQuest
+GH HighRnkQuest
+HotSpring Quest
+Training School
+<EMPTY STRING>
+Intro
+Overall
+All Quest
+Training Sch
+~B03Turn Page
+Total Time
+:
+Master
+LV
+Attack
+Defense
+Master
+Lineage
+Character
+標的
+Comment
+Comrade Equipment
+Bonus Skills
+Comrade Points
+Activate Skill：Slots
+Atk Style
+Tendency：
+Comrade Records
+Sortie No.
+Comrades Sent:
+Comrades Rec:
+Name
+Length
+Hunt
+（Cap）
+Rank
+Fastest Time
+Weapon
+Guild Card
+No.
+Group
+Name
+FriendshipLV
+Updated On
+Exchange
+Comment
+Sort
+Decide
+Edit
+Give
+Decide
+Cancel
+Del
+Delete this Guild Card?<NEWLINE>
+Deleted.
+Title
+Gestures
+Send Guild Card?<NEWLINE>
+Sending...
+has received your Guild Card.
+Unable to send Guild Card.
+has sent you a Guild Card.
+File
+Slct
+Give
+Num of Guild Cards Recived: %2d
+You can file %2d more cards.
+has already received <NEWLINE>your Guild Card.
+cannot accept any more<NEWLINE>Guild Cards.
+Training Records
+Training Dtl
+Highest Pnts
+Exchange
+Comrade Progress
+Felynes Sent (Newest 5)
+Felynes Received (Newest 5)
+Date
+Sent to
+Received
+Ttl With Max Loyalty
+匹
+Basic Options
+Pose Options
+Pose
+Background
+Cfrm
+1
+2
+3
+4
+5
+~B00Exmn　~B02Group　~B03Exchange　~B04~B05Sort　~B07　Del
+~B06　Set Comment
+~B00File　　~B03Exmn　　~B01Del
+Registered
+6
+7
+8
+9
+0
+:
+Press SELECT
+to view
+character.
+~
+????
+----
+----.--
+ －
+~B03~B00Confirm　~B01Cancel
+~B02~B00Confirm　~B01Cancel
+~B00Exmn　~B02Group　　　　　　　　~B04~B05Sort　~B07　Del
+Associate
+Friend
+Classmate
+Club
+School
+OutsideSchool
+Family
+Special
+Office
+Business
+VIP
+Rival
+Elite
+Acquaintance
+INetCommunity
+MH Fiesta
+Guild
+Hunting Group
+Army/Corps
+Group 1
+Group 2
+Group 3
+You Passed!
+はーと
+ふらっと
+["%s" Clear!]
+["%s" Fail]
+["%s" Retire]
+[　  Total upgrades reached: %d!]
+["%s" Made!]
+["%s" Renovated]
+%s acquired!
+Total quests cleared: "%d"!
+%s successfully hunted %d times
+Total play time: %d hours!
+Elder Quest "%s%s"clear!
+["%s" badge acquired!]
+Attained Hunter Rank %d!
+%dx unconscious.
+Total times unconscious in quest: %d!
+"%s" title acquired!
+Quest cleared with no armor!
+Cleared within 5 minutes!
+【%s's Log…%s】
+Attacked relentlessly!
+Scored many critical attacks!
+Fired Ballista repeatedly!
+Fired Cannon repeatedly!
+Cleverly placed many traps
+Bravely used Large Barrel Bombs!!
+Used many Health Flutes!
+Greedily collected items!
+Driven to exhaustion!!
+[Felyne Chef %s recruited]
+[Comrade %s recruited]
+has been used to complete "%d" quests!
+Quest cleared after an arduous fight!
+"%s" largest size record broken!　%d.%02d
+"%s" smallest size record broken!　%d.%02d
+Used Large Barrel Bombs!
+Total quests abandoned: %d
+"%s%s" Guild Quest
+Completed all Hot Spring Quests!
+Completed all Drink Quests!
+Cleared intrusion quest!
+Yukumo Village
+Mountain Stream
+Sandy Plains
+Flooded Forest
+Deserted Island
+Tundra
+Volcano
+Mnt Strm: Blue
+Mnt Strm: Green
+Mnt Strm: Peach
+Yukumo: Red
+Yukumo: Tea
+Yukumo: Navy
+Dharma: Red
+Dharma: Blue
+Dharma: Violet
+Leaves: Red
+Leaves: Green
+Leaves: Peach
+Felynes: Blue
+Felynes: Orange
+Felynes: Yellow
+Piggie: Peach
+Piggie: Blue
+Piggie: Orange
+Stripes: Blue
+Stripes: Bee
+Stripes: Melon
+Gagua: Peach
+Gagua: Blue
+Gagua: Yellow
+Riceball: Brown
+Riceball: Green
+Riceball: Blue
+DharmaCat: Tea
+DharmaCat: Red
+DharmaCat: Grn
+Animals: Tea
+Animals: Blue
+Animals: Black
+Guild: Red
+Guild: Black
+Guild: Silver
+Jinouga: White
+Jinouga: Black
+Jinouga: Blue
+Standing
+Greeting
+Fist High
+Relaxing
+Dance Step
+Show Off
+Determined
+Angry Stomp
+Provoking
+Shadowbox
+Running
+Arms Crossed
+Shrugging
+Guts!
+Aoashira Training
+Urcusis Training
+Hapurubokka Training
+Pur Royal Ludroth Training
+Sand Barioth Training
+Doboruberuku Training
+MH Fiesta 01 
+MH Fiesta 02
+MH Fiesta 03
+MH Fiesta 04
+Challenge Quest 01
+Challenge Quest 02
+Challenge Quest 03
+Challenge Quest 04
+Challenge Quest 05
+Challenge Quest 06
+Challenge Quest 07
+Challenge Quest 08
+Challenge Quest 09
+Challenge Quest 10
+Dummy 00
+Dummy 01
+Dummy 02
+none
+ Beginner
+ Experienced
+ Braggart
+ Nobody
+ Novice
+ Helper
+ Courageous
+ Hunter
+ First Grade
+ Newbie
+ Expectant
+ Hunt
+ Maestro
+ Mistress
+ Collector
+ Chevalier
+ Man
+ Girl
+ I
+ Me
+ Yukumo
+ Comrade
+ Caretaker
+ Huntsman
+ Beacon
+ Master
+ Guild
+ Knight
+ Trump Card
+ Ace
+ General
+ Imperial
+ Ultimate Hero
+ Pinnacle
+ Exceed
+ Bath
+ Drink
+ Perfect
+ Replay
+ Overpowering
+ Celebrity
+ Sage
+ Book
+ Beautiful
+ Model
+ Coordinate
+ Customer
+ Taste
+ Sip
+ Fever
+ Hot Spring
+ Egg
+ Hard-Boiled
+ Barrel Cat
+ Messenger
+ Roll
+ Piggie
+ Walk
+ Rodeo
+ Favorite
+ Field
+ Companion
+ Accomplice
+ Nya
+ Mascot
+ Lovestruck
+ Love
+ Affection
+ Amour
+ Smitten
+ Friendly
+ Excited
+ Thrilled
+ Wanderer
+ Aimless
+ Parent
+ Breeder
+ Jaggi
+ Leader
+ Don
+ Threat
+ Baggi
+ Freedom
+ Looter
+ Trance
+ Froggi
+ Sly
+ Venom
+ Miasma
+ Aoashira
+ Mountain
+ Azure
+ Champion
+ Urcusis
+ Bright White
+ Slick
+ White Rabbit
+ Rangurotora
+ Taunt
+ Blood Red
+ Bullet
+ Bullfango
+ Brute
+ Fang
+ Reckless
+ Rathian
+ Earth
+ Princess
+ Wyverness
+ Tiara
+ Gold
+ Luna 
+ Maiden
+ Rathalos
+ Heaven
+ Prince
+ King
+ Crown
+ Silver
+ Sol 
+ Wyvern
+ Qurupeco
+ Prism
+ Rainbow
+ Flashy
+ Dance
+ Thunder
+ Flash
+ Light
+ Gigginox
+ Dark
+ Vampire
+ Death God
+ Fear
+ Crimson
+ Ripper
+ Lightning
+ Barioth
+ White
+ Speed
+ Absolute Zero
+ Saber
+ Sandstorm
+ Twister
+ Cavalier
+ Diablos
+ Turbulence
+ Desert
+ Demon Pair
+ Black
+ Darkness
+ Dual
+ Courage
+ Barroth
+ Charge
+ Tyrant
+ Hercules
+ Ice
+ Iceberg
+ Glacier
+ Pulverize
+ Uragaan
+ Destruction
+ Rolling
+ Smash
+ Steel
+ Explode
+ Bomber
+ Blast
+ Royal Ludroth
+ Rapids
+ Sailing
+ Crocodile
+ Purple
+ Mist
+ Bane
+ Poison
+ Agnaktor
+ Flame
+ Fire
+ Hellfire
+ Zero
+ Snowstorm
+ Aqua
+ Snowflake
+ Tigrex
+ Absolute
+ Wild
+ Evil Tiger
+ Rex
+ Battle Cry
+ Muscle
+ Roar
+ Nargacuga
+ Ambush
+ Sonic
+ Death
+ Ghillie
+ Shadow
+ Rival
+ Ninja
+ Jinouga
+ Transform
+ Burst
+ Thunderclap
+ Hapurubokka
+ Gluttony
+ Chomp
+ Latent
+ Doboruberuku
+ Swing
+ Rotate
+ Earthquake
+ Deviljho
+ Demon
+ Destroy
+ Despot
+ Akantor
+ Hero
+ Tycoon
+ Overlord
+ Ukanlos
+ Ice Breaker
+ Blizzard
+ Avalanche
+ Jhen
+ Battle
+ Juggernaut
+ God of War
+ Alatreon
+ Dragon
+ Hard Luck
+ Finale
+ Amatsu
+ Falling Sky
+ Eternal
+ Doom
+ Queen
+ Ruler
+ Chicken
+ Professor
+ Bounty Hunter
+ Ace King
+ Strongest
+ Transporter
+ Lazy
+ Timid
+ Angler
+ War
+ Burnt
+ Grilled
+ Rare
+ Well Done
+ Grill Master
+ Secret
+ Hidden
+ Stream
+ Desert
+ Swamp
+ Island
+ Tundra
+ Volcano
+ Guide
+ Seeker
+ Deity
+ Arcadia
+ Dedicated
+ Black Belt
+ Expert
+ Powerhouse
+ Instructor
+ Rookie
+ Stranger
+ Vagrant
+ Walker
+ Thief
+ Beast
+ Fighter
+ Warrior
+ Berserker
+ Mercenary
+ Archer
+ Veteran
+ Attacker
+ Iron
+ Breaker
+ Samurai
+ Sniper
+ Assassin
+ Grand
+ Buster
+ Strider
+ Saver
+ Slayer
+ Guardian
+ Lord
+ Brave
+ Champion
+ Heroic
+ Monster
+ Legend
+ Third Best
+ Number Two
+ First Class
+ Farmer
+ Fisher
+ Mechanic
+ Miner
+ Break
+ Cart
+ Entomologist
+ Bug
+ Wing
+ Mushroom
+ Honey
+ Expedition
+ Traveller
+ Freedom
+ Dream
+ Sword
+ Cutlass
+ Shank
+ Blade
+ Great Sword
+ Cleaver
+ Lance
+ Spear
+ Steady
+ Hammer
+ Mallet
+ Spin
+ Dual Sword
+ Dual Blades
+ Wild Dance
+ Light Bowgun
+ Crossbow
+ Quick Draw
+ Heavy Bowgun
+ Ballista
+ Arbalest
+ Katana
+ Long Sword
+ Dazzle
+ Bow
+ Longbow
+ Meteor
+ Gunlance
+ Cannon
+ Blaster
+ Hunting Horn
+ Horn
+ Melody
+ Axe
+ Switch-Axe
+ Transformer
+ Weapon
+ Head
+ Body
+ Arm
+ Waist
+ Leg
+ Armor
+ Mask
+ Mail
+ Guard
+ Coat
+ Feet
+ Mania 
+ Slash
+ All
+ Collector
+ Complete
+ Kokoto
+ Jumbo
+ Minegarde
+ Dondruma
+ Moga
+ Loc Lac
+ MH
+ Scribe
+ University
+ Researcher
+ Schrade
+ Spirit
+ Diva
+ Magazine
+ JUMP
+ Famitsu
+ Shock
+ Baki
+ Sunday
+ Crows
+ Poka Poka
+ Pokke
+ none
+ of
+ and
+ for
+ by
+ or
+ from
+ to
+ with
+ than
+ is
+ the
+ becomes
+ which
+ so
+ that
+ to the
+ of the 
+ who
+ but
+ was
+ Colored
+ Lacking
+ Wearing
+ Called
+ Dancing
+ Wind of
+ Village
+ Dwelling
+ using
+ an
+ Lineage
+ however
+ like
+ Limited
+ Seldom
+ VS
+ Person
+ Joined
+ Lacks
+ Round
+ in
+ Bearing
+ Less
+ to be
+ that is
+ Against
+ Though
+ a
+＆
+＋
+－
+ｘ
+？
+！
+＝
+～
+・
+／
+：
+￥
+＄
+★
+Ａ
+Ｂ
+Ｃ
+Ｄ
+Ｅ
+Ｆ
+Ｇ
+Ｈ
+Ｉ
+Ｊ
+Ｋ
+Ｌ
+Ｍ
+Ｎ
+Ｏ
+Ｐ
+Ｑ
+Ｒ
+Ｓ
+Ｔ
+Ｕ
+Ｖ
+Ｗ
+Ｘ
+Ｙ
+Ｚ
+０
+１
+２
+３
+４
+５
+６
+７
+８
+９
+α	
+β
+γ
+Beginning Hunter's Title
+Cleared all of the Village<NEWLINE>Chief's 1★ Quests.
+Cleared all of the Village<NEWLINE>Chief's 2★ Quests.
+Cleared all of the Village<NEWLINE>Chief's 3★ Quests.
+Cleared all of the Village<NEWLINE>Chief's 4★ Quests.
+Cleared all of the Village<NEWLINE>Chief's 5★ Quests.
+Cleared all of the Village<NEWLINE>Chief's 6★ Quests.
+Cleared all of the<NEWLINE>1★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>2★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>3★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>4★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>5★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>6★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>7★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>8★ Gathering<NEWLINE>Hall Quests.
+Cleared all quests from the<NEWLINE>Yukumo Village Elder and from<NEWLINE>the Gathering Hall.
+Cleared all Hot Spring Quests.
+Cleared all Drink Quests.
+Earned all awards.
+Played for more than 100<NEWLINE>hours.
+Possesses more than 200000z.
+Possesses more than 999999z.
+Completed Combo List.
+Acquired all books.
+SU series armor now capable<NEWLINE>of changing Symbol Color.
+レインボーカラーに変更が<NEWLINE>できるようになった
+ＳＵ系防具のＲＧＢ変更が<NEWLINE>できるようになった
+数多くの特殊な武具生産を<NEWLINE>行った
+ドリンクを%2d回飲んだ
+温泉に%2d回入った
+タル配便で%2d回送った
+プーギーを%2d回撫でた
+オトモがクエストに<NEWLINE>%2d回出撃した
+村で手に入るプーギーの服を<NEWLINE>全種類集めた
+オトモのなつき度合計%2d以上
+オトモスキルを全種類開放した<NEWLINE>オトモアイルーがいる
+農場にいるオトモに<NEWLINE>１００回話しかけた
+%2d Great Jaggi hunted<NEWLINE>down.
+%2d Great Baggi hunted<NEWLINE>down.
+%2d Great Froggi hunted<NEWLINE>down.
+%2d Aoashira hunted down.
+%2d Urcusis hunted down.
+%2d Rangurotora hunted<NEWLINE>down.
+%2d Bulldrome hunted down.
+%2d Rathian hunted down.
+%2d Gold Rathian hunted<NEWLINE>down.
+%2d Rathalos hunted down.
+%2d Silver Rathalos hunted<NEWLINE>down.
+%2d Qurupeco hunted<NEWLINE>down.
+%2d Red Qurupeco hunted<NEWLINE>down.
+%2d Gigginox hunted down.
+%2d Thunder Gigginox hunted<NEWLINE>down.
+%2d Barioth hunted down.
+%2d Sand Barioth hunted<NEWLINE>down.
+%2d Diablos hunted down.
+%2d Black Diablos hunted<NEWLINE>down.
+%2d Barroth hunted<NEWLINE>down.
+%2d Ice Barroth hunted<NEWLINE>down.
+%2d Uragaan hunted<NEWLINE>down.
+%2d Steel Uragaan hunted<NEWLINE>down.
+%2d Royal Ludroth hunted<NEWLINE>down.
+%2d Purple Royal Ludroth<NEWLINE>hunted down.
+%2d Agnaktor hunted<NEWLINE>down.
+%2d Ice Agnaktor hunted<NEWLINE>down.
+%2d Tigrex hunted down.
+%2d Black Tigrex hunted<NEWLINE>down.
+%2d Nargacuga hunted<NEWLINE>down.
+%2d Green Nargacuga hunted<NEWLINE>down.
+%2d Jinouga hunted down.
+%2d Hapurubokka hunted<NEWLINE>down.
+%2d Doboruberuku hunted<NEWLINE>down.
+%2d Deviljho hunted down.
+%2d Akantor slayed.
+%2d Ukanlos slayed.
+%2d Jhen Mohran slayed.
+%2d Alatreon slayed.
+%2d Amatsumagatsuchi slayed.
+Hunted down all monsters<NEWLINE>worthy of a Silver Crown<NEWLINE>for their size.
+Hunted down all monsters<NEWLINE>worthy of a Gold Crown<NEWLINE>for their size.
+Hunted down all monsters<NEWLINE>worthy of a Small Crown<NEWLINE>for their size.
+Hunted all monster color<NEWLINE>variations.
+Captured all capture target<NEWLINE>monsters.
+Completed all Epic Quests.
+Defeat 10 intruding monsters.
+Successfully carried many<NEWLINE>objects.
+Abandoned %3d Quests.
+Fished up Hapurubokka.
+Caught 50 fish.
+Perfectly BBQ'd meat %2d times.
+Started in secret area %2d times.
+Cleared 20 Quests in the<NEWLINE>Mountain Stream.
+Cleared 20 Quests in the<NEWLINE>Sandy Plains.
+Cleared 20 Quests in the<NEWLINE>Flooded Forest.
+Cleared 20 Quests in the<NEWLINE>Deserted Island.
+Cleared 20 Quests in the<NEWLINE>Tundra.
+Cleared 20 Quests in the<NEWLINE>Volcano.
+Cleared over 100 Quests.
+Cleared over 1000 Quests.
+Earned a certain number of<NEWLINE>Guild Points.
+Upgraded the Fields Row +1,<NEWLINE>Fishing Pier +1, and Mining<NEWLINE>Point +1 at the Yukumo Farm.
+Upgraded Yukumo Farm with Royal<NEWLINE>Perfume, Production Beehive, and<NEWLINE>Mushroom Tree +1.
+Completed all Yukumo Farm renovations.
+Upgraded Yukumo Farm with<NEWLINE>Field Row +2.
+Upgraded Yukumo Farm with<NEWLINE>Fishing Pier +2.
+Upgraded Yukumo Farm with<NEWLINE>Fishing Basket.
+Upgraded Yukumo Farm with<NEWLINE>Mining Point +2.
+Upgraded Yukumo Farm with<NEWLINE>Mining Point +3.
+Upgraded Yukumo Farm with<NEWLINE>the Mining Cart.
+Upgraded Yukumo Farm with<NEWLINE>Rare Perfume.
+Upgraded Yukumo Farm with<NEWLINE>Hi Bug Perfume.
+Upgraded Yukumo Farm with<NEWLINE>the Bug Tree Seesaw.
+Upgraded Yukumo Farm with<NEWLINE>Mushroom Tree +2.
+Upgraded Yukumo Farm with<NEWLINE>a Modified Bee Hive.
+Upgraded Yukumo Farm with<NEWLINE>the Felyne Corps wagon.
+Received a perfect report<NEWLINE>from the Felyne Corps with<NEWLINE>only 1 Felyne.
+Received 20 perfect reports<NEWLINE>from the Felyne Corps.
+Received 50 perfect reports<NEWLINE>from the Felyne Corps.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Great Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Lances.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Hammers.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Dual Blades.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Light Bowguns.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Heavy Bowguns.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Long Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Bows.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Gunlances.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Hunting Horns.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Switch Axes.
+Acquired all weapon titles.
+In possession of a number<NEWLINE>of hard to obtain<NEWLINE>Helms.
+In possession of a number<NEWLINE>of hard to obtain<NEWLINE>Plates.
+In possession of a number<NEWLINE>of hard to obtain<NEWLINE>Gauntlets.
+In possession of a number<NEWLINE>of hard to obtain<NEWLINE>Waist.
+In possession of a number<NEWLINE>of hard to obtain<NEWLINE>Leggings.
+Acquired armor titles for<NEWLINE>all armor pieces.
+Acquired all armor titles.
+In possession of a large number<NEWLINE>of hard-to-obtain Felyne Comrade<NEWLINE>weapons.
+In possession of a large number<NEWLINE>of hard-to-obtain Felyne Comrade<NEWLINE>helms.
+In possession of a large number<NEWLINE>of hard-to-obtain Felyne Comrade<NEWLINE>armor.
+Obtained all Felyne Comrade<NEWLINE>equipment titles.
+Download Title
+Bonus/Download Title
+Bonus/Download Title
+Received more than %2d Guild Cards<NEWLINE>from other players.
+Sent at least 10 Felyne<NEWLINE>Comrades to other players.
+Received at least 10 Felyne<NEWLINE>Comrades from other players.
+Completed 20 quests in the<NEWLINE>Great Desert.
+Completed 20 quests in the Snowy<NEWLINE>Mountain Peak, Battleground,<NEWLINE>Sacred Lands, and Mountain Summit.
+Cleared over 100 quests with<NEWLINE>a single weapon class.
+Cleared all Group Training<NEWLINE>Quests. (B-Rank)
+Cleared all Group Training<NEWLINE>Quests. (A-Rank)
+Cleared one Group Training<NEWLINE>Quest with S-Rank.
+Cleared all Group Training<NEWLINE>Quests. (S-Rank)
+In possession of a large number<NEWLINE>of hard-to-obtain helms.
+In possession of a large number<NEWLINE>of hard-to-obtain plates.
+In possession of a large number<NEWLINE>of hard-to-obtain gauntlets.
+In possession of a large number<NEWLINE>of hard-to-obtain tassets.
+In possession of a large number<NEWLINE>of hard-to-obtain greaves.
+Proof of completing all basic<NEWLINE>Yukumo quests. A colorful<NEWLINE>charm from the Village Elder.
+Proof of completing every<NEWLINE>intermediate Yukumo quest.<NEWLINE>A delicate, quality item.
+Proof of passing the final<NEWLINE>Yukumo Village challenge. A<NEWLINE>beautifully crafted antique.
+Proof of completing all<NEWLINE>Village Quests. Proves one<NEWLINE>is a first-class hunter.
+For defeating the Jinouga.<NEWLINE>It sparkles in two colors<NEWLINE>with fierce ambition.
+Defeated Amatsumagatsuchi.<NEWLINE>Nothing in the world can<NEWLINE>match its ethereal beauty.
+Symbol of continued hunting<NEWLINE>success against giant<NEWLINE>monsters.
+Symbol of continued hunting<NEWLINE>success against small<NEWLINE>beasts.
+Proof of mastering all<NEWLINE>Gathering Hall 1★～2★<NEWLINE>Quests. No longer a novice.
+Proof of mastering all<NEWLINE>Gathering Hall 3★～5★<NEWLINE>Quests. Shows true courage.
+Proof of mastering all<NEWLINE>Gathering Hall 6★～8★<NEWLINE>Quests. A true achievement.
+A document detailing secret<NEWLINE>arts achieved through intense<NEWLINE>dedication and training.
+Report created from records<NEWLINE>of captured monsters.<NEWLINE>Proves successful captures.
+Map recording your hunting<NEWLINE>trek. Proof of travel to<NEWLINE>most game areas.
+A charm in the shape of a<NEWLINE>Yukumo Farm scarecrow. Proof<NEWLINE>of fully upgrading the Farm.
+For donating vast Yukumo<NEWLINE>points to the Felyne Corps.<NEWLINE>Symbol of hope and courage.
+Awarded for completing all<NEWLINE>Drink and Hot Spring Quests,<NEWLINE>and for upgrading the baths.
+Dirt-specked, divine smithing<NEWLINE>hammer of a famed Wyverian.<NEWLINE>A weapon collector's prize.
+For forging many excellent<NEWLINE>Felyne Comrade armors. Chosen<NEWLINE>by the Blacksmith himself.
+A sign of appreciation by<NEWLINE>a Comrade who has<NEWLINE>unlocked all skills.
+A letter from a Felyne<NEWLINE>Fighter saying, "I am happy<NEWLINE>you are my master, nya!"
+Proves dominance over the 3<NEWLINE>mighty rulers of this world.<NEWLINE>Filled with chaos power.
+Proof of completing every<NEWLINE>Village and Guild Quest.<NEWLINE>For the ultimate Hunter.
+Proof of beginning the<NEWLINE>Hunter's journey in MHP3rd.<NEWLINE>A shining badge of courage.
+~C25Play time:~C00%d:%02d <NEWLINE>~C25Quests completed:~C00%d<NEWLINE>~C25%s usage:~C00%d 
+  Set %2d
+Select 【%s】
+%3d/%3d
+Equipment
+Register
+There is no equipment.
+Leggings
+Helmet
+Plate
+Gauntlets
+Waist
+Renovate
+Point Exchange
+Explain Points
+Select an area to renovate.
+That will be ~C05$pts~C00.<NEWLINE>Are you sure?
+Purchased
+~C00Select the item you'd like<NEWLINE>to exchange for Yukumo Points.
+~C00Select the item you'd like<NEWLINE>to exchange for Yukumo Points.<NEWLINE>~C02Item Bag is full. (It can<NEWLINE>only carry 24 types of items.)
+Exchange how many items?
+Upgrade the facilities of the Farm.
+Exchange Yukumo Points for<NEWLINE>various items.
+An explanation of Yukumo Points<NEWLINE>and exchanging them.
+~B04Show List
+~B04Hide List
+Select OnlineGthrngH
+Sound
+Media Install
+Items
+Select items to plant.
+Select a row to plant<NEWLINE>this item in.
+Plant the fields as specified.<NEWLINE>Are you sure?
+Yes
+No
+Row Level
+None
+1
+2
+3
+Use an item, attracting more<NEWLINE>insects into the trap.
+Change the incense to change<NEWLINE>which insects are caught.
+Select an item to use.
+This item will be consumed.<NEWLINE>Are you sure?
+Choose which incense to use.
+Change to this incense.<NEWLINE>Are you sure?
+Bait
+Selected Incense
+No
+Selected Item
+Use Item
+Change Incense
+Select Felyne
+Select Quest
+Felyne Corps departure<NEWLINE>will cost %dpts.<NEWLINE>~C05Selected Comrades may<NEWLINE>not be set to join<NEWLINE>you. Training effect<NEWLINE>will also be skipped.<NEWLINE>~C00Are you sure?
+Not enough points.
+New Felyne Corps quests added!
+Rewards
+Quest Reports
+冒険は大成功だったのニャ！<NEWLINE>このお宝を見てくれニャ！！
+やったニャ！　まさに絶好調！<NEWLINE>今回の報酬は、お宝づくしニャ！
+お宝を見つけてきたニャ！　ボク<NEWLINE>だって、やればできるんだニャ！
+旦那さん！　ボク、お宝見つけて<NEWLINE>きたのニャ！　頑張ったニャ！
+お宝だけを持って帰ったのニャ。<NEWLINE>これぞ、ネコの目利きニャ！
+フンフン、お宝のニオイは<NEWLINE>嗅ぎ逃さなかったニャ！
+こうやってお宝を見つけ出すのが<NEWLINE>モンニャン隊の醍醐味ニャ！
+ニャハハ！　ボクの手にかかれば<NEWLINE>この通り、お宝づくしだニャ！
+いいアイテムは１個も見つけられ<NEWLINE>なかったのニャ…。
+旦那さん、ごめんニャ…。採取も<NEWLINE>ぶんどりもダメだったニャ。
+いいモノを見つけてないのニャ。<NEWLINE>お役に立てなかったかもニャ。
+せっかく冒険に行ったのに、いい<NEWLINE>モノは見つからなかったニャ…。
+う～ん、いいモノが見つからな<NEWLINE>かったニャ。情けないニャ～。
+ニャんと…、こんなモノしか<NEWLINE>見つけられなかったニャ…。
+失敗したニャ…。ふがいない<NEWLINE>ボクを許してほしいのニャ。
+ボクって、大器晩成なのニャ。<NEWLINE>ダメだったけど気にしないニャ！
+旦那さんの動きをマネれば、大き<NEWLINE>いヤツからも、ぶんどれたニャ！
+ぶんどったニャー！　大きい<NEWLINE>ヤツだって、怖くなかったニャ！
+見てニャ見てニャ！　おっきい<NEWLINE>ヤツから、ぶんどったのニャ！
+大きいヤツからぶんどれたニャ！<NEWLINE>旦那さん、喜んでくれるかニャ？
+大きいヤツからぶんどれたのも、<NEWLINE>旦那さんの指導のたまものニャ！
+あの、で～っかいヤツから！<NEWLINE>ぶんどってきたのニャ！！
+ボクだって、でっかいヤツから<NEWLINE>ぶんどるくらい、できるのニャ！
+見せたかったニャ、大きなヤツ<NEWLINE>からぶんどる、ボクの勇姿…。
+大きいヤツは手強くて…。残念<NEWLINE>だけど、ぶんどれなかったニャ。
+いつか必ず、あのでっかいヤツに<NEWLINE>リベンジするのニャ！！
+大きいヤツは見つけたけど…。<NEWLINE>ボク、勇気が出せなかったニャ。
+旦那さん、ごめんニャ。でっかい<NEWLINE>ヤツからぶんどれなかったニャ。
+でっかいヤツに見つかって、<NEWLINE>ひどい目にあったニャ…。
+あの大きいヤツからぶんどるのは<NEWLINE>一筋縄ではいかなそうニャ…。
+でっかいヤツはひと味違うニャ。<NEWLINE>頑張ったけど、ダメだったニャ。
+大きいヤツからぶんどるには、<NEWLINE>実力が不足してたニャー。
+あっちこっちで採取してきたの<NEWLINE>ニャ！　いろいろ見つけたニャ！
+アイテムを採取してきたのニャ。<NEWLINE>遠慮なく使ってほしいニャー！
+モンスターに邪魔されても、<NEWLINE>頑張って採取してきたニャ！
+今回は採取がはかどったニャ。<NEWLINE>ささ、受け取ってくれニャ。
+採取でアイテムを見つけたニャ。<NEWLINE>自慢の嗅覚が役にたったのニャ！
+アイテムをすぐに見つけられた<NEWLINE>ニャ。採取の勘が冴えてたニャ！
+いいモノを採取で見つけてきた<NEWLINE>ニャ。役に立つアイテムかニャ？
+お宝探しの基本は、やっぱり採取<NEWLINE>ニャ！　いっぱい頑張ったニャ！
+ぶんどりの調子が良かったニャ！<NEWLINE>次もこの調子で頑張るニャ！
+ぶんどりならボクに任せてくれ<NEWLINE>ニャ。次もぶんどってくるニャ！
+モンスターをたくさん見つけた<NEWLINE>から、ぶんどりを頑張ったニャ！
+勇気を出してぶんどってきた<NEWLINE>ニャ！　ドキドキしたニャー。
+ぶんどりには、コツがいるニャ。<NEWLINE>狙いすましてポカッといくニャ！
+イッパイぶんどれたニャ。今回は<NEWLINE>ぶんどりの腕が冴えてたのニャ！
+ボクの手にかかれば、ぶんどり<NEWLINE>だって、この通りニャ！
+素材集めの基本は、やっぱり<NEWLINE>ぶんどりだニャ！
+今回は調子が良かったニャ！<NEWLINE>また冒険に行きたいニャー！
+精一杯、頑張ったのニャ！！<NEWLINE>これからも、任せてくれニャ！
+採取もしたし、ぶんどりもした<NEWLINE>ニャ。頑張ったのニャ！
+旦那さんと一緒に行ったときも<NEWLINE>これぐらい活躍したいニャ！
+いろいろやってみたのニャ！<NEWLINE>採取もぶんどりも成功したニャ！
+イイ感じだったニャ！　次もイイ<NEWLINE>報告が出来るように頑張るニャ！
+色々集めてきたから、旦那さんの<NEWLINE>気に入るモノもきっとあるニャ！
+いい冒険だったニャ。アイテムも<NEWLINE>いろいろ見つけられたニャ！
+今回はちょっと調子が悪かった<NEWLINE>ニャ…。いいモノが少ないニャ。
+うまくいかなかったニャ。<NEWLINE>冒険って、なかなか難しいニャ。
+ごめんニャ、あんまり良いものを<NEWLINE>見つけられなかったニャ…。
+旦那さんがいないと心細くて、<NEWLINE>いつもの調子が出なかったニャ。
+採取もぶんどりもイマイチだった<NEWLINE>ニャ。ボクもまだまだだニャー。
+あまりパッとしないアイテムが<NEWLINE>多いかもしれないニャ…。
+ボクの実力不足だニャ。ちょっと<NEWLINE>残念な結果だニャ。
+お宝って、やっぱりなかなか見つ<NEWLINE>からないものニャね。
+まずまずの成果だニャ。玉石入り<NEWLINE>交じってるけど勘弁してニャ。
+いいモノばっかり！…とは、<NEWLINE>いかなかったのニャ。
+一応、いいモノも見つけてきた<NEWLINE>ニャ。まぁまぁの結果だニャ。
+普通だニャー。いいモノも、大し<NEWLINE>たことないモノもあるニャ。
+いいアイテムと、大したことない<NEWLINE>アイテムと半々ってとこだニャ。
+一応、いいモノも見つけてきた<NEWLINE>ニャ。まぁまぁの結果だニャ。
+無難な結果と言えるのニャ。<NEWLINE>なんとか面目はたもてたニャ。
+世の中うまい話ってなかなかない<NEWLINE>ニャ。この程度が関の山ニャ。
+ニャンとも驚きの量を持って<NEWLINE>帰れたのニャ。ニャヘー。
+どうかニャ旦那さん？　これだけ<NEWLINE>あれば、よりどりみどりニャ！
+自分でも驚きの量ニャ！　旦那さ<NEWLINE>んに育ててもらったおかげニャ。
+イッパイ集めたニャ！　旦那さん<NEWLINE>のためを思えば、何のそのニャ！
+どうかニャ、このボリューム！<NEWLINE>もっと褒めてもいいニャよ。
+それはそれとして、どうニャ、<NEWLINE>この報酬の量。文句なしニャ。
+この量の報酬を持って帰れる<NEWLINE>オトモは、そういないニャ。
+ボクの成長の証が、この報酬の量<NEWLINE>ニャ。なんてニャンダフル！
+ダメだとは思ってたんだけど、<NEWLINE>ついサボってしまったニャ。
+報酬が少ないんじゃないかって？<NEWLINE>サ、サボってなんかいないニャ！
+あんまり天気がよかったから、<NEWLINE>ついつい昼寝しちゃったニャ。
+ちょっとだけ、のんびりさせて<NEWLINE>もらったのニャ。ブニャ～。
+チョットだけ寝過ごしたのニャ。<NEWLINE>…チョットだけニャ。
+ちょっとだけ、ガーグァと一緒に<NEWLINE>お昼寝してたニャ。ごめんニャ。
+ニャンターにも時には息抜きが<NEWLINE>必要ニャ。一休みしてたニャ。
+まぁちょっと少なくなってしまっ<NEWLINE>たけど…こんなもんニャろ？
+旦那さんとの絆が、力をかしてく<NEWLINE>れた気がして、頑張れたのニャ！
+旦那さんにほめてもらいたくて、<NEWLINE>ボク、一生懸命集めたニャ！
+旦那さんへの感謝の気持ちに、<NEWLINE>少しだけど報酬を増やしたニャ。
+大好きな旦那さんの喜ぶ顔が<NEWLINE>見たくて、たくさん集めたニャ！
+ほら、結構量があるニャ。別に、<NEWLINE>旦那さんのためじゃないニャ！
+お世話になってるお礼に、いつも<NEWLINE>より報酬を多く用意したニャ！
+もう一息、ってがんばれたのは、<NEWLINE>旦那さんのおかげニャ。
+あと少し、がんばれるかどうかは<NEWLINE>愛があるかどうかニャ。愛ニャ！
+隠れてることも多かったから、<NEWLINE>ポーチがちょっと軽いのニャ。
+んー、今のボクでは、この量が<NEWLINE>精一杯ニャ。大変だったニャ…。
+いっぱい持って帰ろうと思ったら<NEWLINE>防御力が重要だと思うニャ…。
+明らかに防御力不足だったニャ。<NEWLINE>数、少なめでごめんなさいニャ。
+モンスターの攻撃がいたくて、<NEWLINE>数を集められなかったニャ。
+モンスターが強かったから、潜っ<NEWLINE>て休んでばっかりだったニャ。
+もう少し防御力があれば、数も<NEWLINE>集められたかも知れないニャ。
+ゆっくり素材を集める余裕が<NEWLINE>なかったニャ。ニャへ～。
+これぐらいのクエストなら、<NEWLINE>また次も行きたいニャ！
+なかなか歯ごたえのある、<NEWLINE>クエストだったニャ。
+量的には、可もなく不可もなく…<NEWLINE>といったところニャ。
+とりあえず、これぐらいの量は<NEWLINE>持って帰れたニャ。
+このレベルのクエストなら、これ<NEWLINE>くらいの量は何とかなるニャ。
+まぁこの報酬の量は、ボク的には<NEWLINE>実に適正だと思うニャ。
+量的には妥当な線ニャ。これぐら<NEWLINE>いのクエストがちょうどニャ。
+一日の運動にはちょうどいい量<NEWLINE>だったニャ。心地良い疲労感！
+あんまり回復しないで平気だった<NEWLINE>ニャ。たくさん探せたのニャ。
+この程度のダメージなら耐えられ<NEWLINE>るのニャ。たくさん動けたニャ。
+キビしい感じはなかったニャ。<NEWLINE>たまに隠れて回復してたニャ。
+報酬の量については、がんばれた<NEWLINE>と思うニャ。上等だニャ。
+これだけ防御力があれば、あんま<NEWLINE>り隠れなくても平気だったニャ。
+ともかく、報酬の量は多いニャ。<NEWLINE>がんばった甲斐があるニャー。
+これだけの報酬の量ニャ。少しの<NEWLINE>ミスは目をつぶって欲しいニャ。
+ボク的には、これだけの量を集め<NEWLINE>られて、達成感を感じてるニャ。
+数の勝負なら負けないニャ！<NEWLINE>集めるのは簡単だったニャ。
+ギリギリまで粘って、アイテムを<NEWLINE>集めてきたニャ！
+やられる心配はなかったニャ。<NEWLINE>回復いらずだったのニャー。
+こんな量になっちゃったニャ。<NEWLINE>素材集めに一心不乱だったニャ。
+帰りは荷物が多くて大変だった<NEWLINE>ニャ。欲張りすぎたニャ。
+このレベルのクエストなら、これ<NEWLINE>くらい集めるのは朝飯前ニャ。
+片っ端から集めてきたのニャ。<NEWLINE>報酬、ちょっと多すぎかニャ？
+報酬、採ってきすぎたかニャー？<NEWLINE>ちょっと遠慮なさすぎかもニャ。
+さすが旦那さんニャ。この武器、<NEWLINE>でっかいヤツに有効だったニャ！
+この武器、でっかいヤツに<NEWLINE>よく効いたみたいだニャ。
+大きいヤツは、この武器の属性を<NEWLINE>いやがってたみたいだニャ。
+旦那さんの選んでくれた武器は<NEWLINE>大きいヤツに有効だったニャ。
+この武器の属性、でっかいヤツに<NEWLINE>なかなかの威力を発揮したニャ！
+でっかいヤツの苦手な属性は<NEWLINE>この武器と同じみたいだニャ。
+ボクの持ってる武器の属性は、<NEWLINE>大きいヤツに効果的だったニャ。
+でっかいヤツの相性も考えて<NEWLINE>武器を選んでくれてたのかニャ？
+さすが旦那さんニャ。この武器、<NEWLINE>小さいヤツに有効だったニャ！
+この武器は小さいモンスターに<NEWLINE>効果的だったのニャ！
+小さいヤツは、この武器の属性を<NEWLINE>いやがってたみたいだニャ。
+旦那さんの選んでくれた武器は、<NEWLINE>小さいヤツに有効だったニャ。
+この武器の属性、小さいヤツに<NEWLINE>なかなかの威力を発揮したニャ！
+ちっこいヤツら、この武器の属性<NEWLINE>が苦手みたいだニャ！
+小さいモンスターには、この武器<NEWLINE>の属性が効果的みたいだニャ。
+この武器の攻撃は、小さいヤツに<NEWLINE>効果テキメンだったニャ！
+解毒・消臭笛の術があって<NEWLINE>助かったニャ～。
+泥・雪ダルマ早割り術のおかげで<NEWLINE>何とか避けられたニャ～。
+毒無効の術があったから、毒攻撃<NEWLINE>は、へっちゃらだったのニャ！
+防音・風圧無効の術が役に立った<NEWLINE>ニャ！
+耐性強化【火】のおかげで、<NEWLINE>アッツイのは平気だったニャ！
+耐性強化【水】のおかげで、<NEWLINE>びしょ濡れは平気だったニャ！
+耐性強化【雷】のおかげで、<NEWLINE>ビリビリは平気だったニャ！
+耐性強化【氷】のおかげで、<NEWLINE>つめたいのは平気だったニャ！
+耐性強化【龍】のおかげで、<NEWLINE>凄いのも平気だったニャ！
+全耐性強化の術のおかげで、<NEWLINE>色んな攻撃が軽減できたニャ！
+風圧無効の術のおかげで、風に<NEWLINE>負けず、立ち向かえたのニャ！
+防音の術のおかげで咆哮は<NEWLINE>へっちゃらだったニャ！
+千里眼の術で、でっかいヤツを<NEWLINE>見つけ出したのニャ！
+鬼人笛の術のおかげで、いつも<NEWLINE>より力が出せた気がするニャ。
+いつもより耐えられたニャ。<NEWLINE>硬化笛の術のおかげだニャ。
+回復笛の術でいつもより、持ち<NEWLINE>こたえたニャ。
+真・回復笛の術で、いつもより<NEWLINE>ずっと持ちこたえたニャ。
+属性攻撃強化の術が効果的だった<NEWLINE>ニャ。
+状態異常攻撃【毒】で弱らせて<NEWLINE>やったのニャ。
+状態異常攻撃【麻痺】で<NEWLINE>大チャンスを演出したニャ。
+状態異常攻撃【睡眠】で眠らせて<NEWLINE>やったニャ。熟睡してたニャ。
+状態異常攻撃強化の術が効果的<NEWLINE>だったニャ。
+泥・雪ダルマ早割り術のおかげで<NEWLINE>危機一髪だったニャ～。
+体力強化術【小】で、いつもより<NEWLINE>耐えられたのニャ。
+体力強化術【大】で、いつもより<NEWLINE>イッパイ耐えられたのニャ。
+ガード確率強化【小】で、採取中<NEWLINE>もガード出来たニャ。
+ガード確率強化【大】で、採取中<NEWLINE>もしっかりガード出来たニャ。
+ぶんどり強化の術でバッチリ<NEWLINE>ぶんどってやったニャ。
+シビレ罠の術で、でっかいヤツを<NEWLINE>こらしめてやったニャ。
+マタタビ爆弾の術も、チョット<NEWLINE>だけ役に立ったニャー。
+大タル爆弾の術が炸裂したニャ。<NEWLINE>とっても勇気を出したのニャー。
+爆弾攻撃が効果的だったニャー。<NEWLINE>爆弾強化の術のおかげニャ。
+爆弾ダメージ軽減の術で、大タル<NEWLINE>爆弾を使っても耐えられたニャ。
+ビッグブーメランの術で<NEWLINE>渾身の一撃を決めたニャ。
+貫通ブーメランの術がでっかい<NEWLINE>ヤツにクリーンヒットしたニャ。
+起き上がりこぼし術で、何度も<NEWLINE>立ち上がったニャ。
+七転び八起きの術で、最後まで<NEWLINE>あきらめなかったニャ。
+背水の陣の術はパワーアップする<NEWLINE>けど、報酬が減りやすいニャ。
+高速採取の術のおかげで、採取を<NEWLINE>ジャマされにくかったニャ。
+高速回復の術のおかげで、隠れる<NEWLINE>時間が減ったのニャ。
+採取封印の術があったから、<NEWLINE>ぶんどりに力を入れたニャ。
+サボりなしの術で、いつもより<NEWLINE>努力はしたニャー。
+サボリ中・回復の術で、ゆったり<NEWLINE>じっくり集めてたニャー。
+オトモ同士の山彦笛術で、<NEWLINE>たくさん笛を吹いたニャ。
+オトモ同士の罠連携術で、<NEWLINE>大きいヤツに立ち向かったニャ。
+オトモ同士の注意術があったから<NEWLINE>サボってないか気をつけたニャ。
+オトモ同士のきずな術で、みんな<NEWLINE>から力をもらった気がするニャ。
+ぶんどり強化の術があれば小型モ<NEWLINE>ンスター素材をとりやすいニャ。
+シビレ罠の術があれば大型モンス<NEWLINE>ターにも対峙しやすいはずニャ。
+マタタビ爆弾の術があれば小型モ<NEWLINE>ンスターもメロメロらしいニャ。
+爆弾を使うオトモは、大タル爆弾<NEWLINE>の術で補強できるらしいニャ。
+ビッグブーメランの術は、小型の<NEWLINE>モンスターには有効らしいニャ。
+貫通ブーメランの術は、大型の<NEWLINE>モンスターには有効らしいニャ。
+七転び八起きの術があれば、失敗<NEWLINE>しても、めげないらしいニャ。
+実は、高速採取の術があれば採取<NEWLINE>で採れる物が入手しやすいニャ。
+高速回復の術があれば、それだけ<NEWLINE>物を多く持って帰れるはずニャ。
+採取封印の術を身につけてれば、<NEWLINE>少しだけ小型に有利になるニャ。
+サボりなしの術は、サボって報酬<NEWLINE>が少なくなる事が減るはずニャ。
+サボリ中・回復の術は条件次第で<NEWLINE>報酬が増えやすくなるかもニャ。
+オトモ同士が助け合うスキルは、<NEWLINE>オトモの組合せが鍵らしいニャ！
+オトモスキルによっては、特定の<NEWLINE>相手に有効だったりするニャ。
+クエストによって、有効なオトモ<NEWLINE>スキルが違う場合があるニャ。
+どのオトモスキルが有効かは、旦<NEWLINE>那さんにも経験でわかるはず…。
+モンスターによっては、苦手な属<NEWLINE>性があるニャ。そこを突くニャ！
+モンスターの苦手な属性の武器を<NEWLINE>持たせれば、有利になるニャ。
+旦那さんと同様、オトモにも属性<NEWLINE>武器は重要なはずニャ。
+そういえば、オトモの武器の属性<NEWLINE>にも気をつけた方がいいニャ。
+大型モンスターがいるクエストで<NEWLINE>は、オトモ武器にも注意ニャ。
+オトモの標的傾向によって、何を<NEWLINE>持って帰りやすいかが違うニャ。
+大型の素材を狙う場合は大型優先<NEWLINE>とかの傾向のオトモがいいニャ。
+小型の素材を狙う場合は小型一筋<NEWLINE>とかの傾向のオトモがいいニャ。
+フィールド素材が狙いたい場合、<NEWLINE>性格は平和主義がいいニャ。
+どんな素材が欲しいかでモンニャ<NEWLINE>ン隊の編成を考えるといいニャ。
+オトモの標的傾向によっては、入<NEWLINE>手しにくい物もあるらしいニャ。
+オトモの攻撃力はモンスターから<NEWLINE>ぶんどる確率に影響するニャ。
+オトモの防御力は報酬全体の数と<NEWLINE>かに、影響するらしいニャ。
+オトモの防御力はフィールド素材<NEWLINE>を採る確率とかに影響するニャ。
+なつき度が低いオトモはモンニャ<NEWLINE>ン隊でもサボりがちになるニャ。
+難度の高いクエストにはある程度<NEWLINE>強いオトモを行かせるべきニャ。
+ひよっ子オトモは、難度の低い<NEWLINE>クエストに行かせるべきニャ。
+というわけで、今日は疲れた<NEWLINE>ニャ。ゆっくり休みたいニャ。
+いやーモンニャン隊って、ホント<NEWLINE>に奥が深いものなんだニャ…。
+モンニャン隊にも、いろいろコツ<NEWLINE>があるみたいだニャー。
+今度は装備とかスキルとか、色々<NEWLINE>試してみてはどうかニャ？
+旦那さんと一緒にクエストに行け<NEWLINE>ないけど、こっちも楽しいニャ。
+モンニャン隊もいいけど、旦那さ<NEWLINE>んとクエストにも行きたいニャ。
+Bait
+Facilities
+Farm Info
+Yukumo Farm
+Field Rows
+Fishnet
+Mining Points
+Bug Trap
+Mushroom Tree
+Bee Hive
+Fishing Basket
+Mining Cart
+Bug Seesaw
+Mega BBQ Spit
+Hunting Cart
+Comrade Quest
+Quest Report
+Use farm facilities.
+Explain how to use the various<NEWLINE>farm facilities.
+Select which Comrades to use.
+Select which Comrades to use.<NEWLINE>~C02Comrade is away on a quest and<NEWLINE>cannot be selected.
+Select which Comrades to use.<NEWLINE>~C02This Comrade will be removed<NEWLINE>from your party.
+Let's catch some bugs!<NEWLINE>Are you ready?
+Select the pickaxes to use.<NEWLINE>~C05You must have enough pickaxes<NEWLINE>for each selected Comrade.
+~C02Not enough pickaxes.<NEWLINE>~C05You must have enough pickaxes<NEWLINE>for each selected Comrade.
+~C05%s~C00 ~C05x%d~C00 will be<NEWLINE>used. Start mining?
+Select the items you want to<NEWLINE>sprinkle as bait.
+Start fishing.<NEWLINE>Are you sure?
+Select an item to barbeque.
+Select the number of items to<NEWLINE>barbeque. You can cook at up<NEWLINE>to 10 items at once.
+Let's get cooking!<NEWLINE>Are you ready?
+Select which Comrades to send.
+Spend Yukumo Points to send<NEWLINE>Comrades on a quest.
+Felyne Comrades are required.
+No pickaxes
+No fishbait
+No items to cook
+It's still raw...
+Select
+Training
+Equipment
+Skills
+Edit Comments
+Delivery
+Dismiss
+Select
+Exchange
+Acquire
+Erase
+ChngEquipmnt
+Equipment Set
+Reg Curr Equip
+Move Set
+Delete Set
+Arrange Items
+Sell
+Rest
+Martial Arts
+Strength
+Toughness
+Fencing
+Meditation
+Marathon
+RockClimbing
+Woodcutting
+Log Push
+Waterfall
+Comrade Board
+Regular
+Note
+pts
+????????
+－－－－－－－－
+Nothing Equipped
+Unregister
+Comrade
+Comrade Box
+Equipment
+Equipment Info
+Equipment
+Set%s
+Comrade %s's Level is now %d!
+%s has mastered a skill!
+Comrade already exists.
+~C02%s~C00 has been received
+%s's loyalty has increased!
+Selected Felyne
+Comrade Training Status
+Training Detail
+Skills Info
+In Training
+Comrade Point refund
+Acquired
+Learning
+%s underway.
+~B18%s ~C04Increased~C00.
+%s at maximum.
+~B19%s ~C02decreased~C00.
+Comrade is away on a quest.
+Meditating, looking for<NEWLINE>inspiration for new skills.
+%s<NEWLINE>activated.
+Attack
+Defence
+Exp.
+Data corrupt. Delivery failed.
+Select Felyne Comrades to<NEWLINE>accompany you or exchange<NEWLINE>their list order.
+Set training schedules for<NEWLINE>your Felyne Comrades.
+Change the equipment of your<NEWLINE>Felyne Comrades.
+Acquire or remove skills from<NEWLINE>your Felyne Comrades.
+Change the comments of your<NEWLINE>Felyne COmrades.<NEWLINE>~C0514 half-width characters max.~C00
+Send and receive Felyne<NEWLINE>Comrades from other players.
+Dismiss Felyne Comrades.
+Select Felyne Comrades to<NEWLINE>accompany you on quests.
+Exchange Felyne Comrades,<NEWLINE>reordering the list.
+Change the equipment of your<NEWLINE>Felyne Comrades.
+Equip your Felyne Comrades<NEWLINE>with previously registered<NEWLINE>equipment sets.
+Register a current equipment<NEWLINE>set of a Felyne Comrade.
+Swap the locations of existing<NEWLINE>equipment sets.
+Delete a registered equipment<NEWLINE>set.
+Organize the equipment in the<NEWLINE>Comrade Box.
+Sell equipment from the<NEWLINE>Comrade Box.
+Aqcuire Felyne Comrade skills.<NEWLINE>They take some time to master.
+Remove Comrade skills. Half<NEWLINE>the Comrade Points will be<NEWLINE>refunded.
+Select a Felyne Comrade.
+Set as Comrade 1.<NEWLINE>~C05Can be taken to online GH.~C00
+Set as Comrade 2.<NEWLINE>~C05Cannot be taken to online GH.~C00
+Select Comrades to exchange.
+Select Comrades to exchange.
+Select a Felyne Comrade to<NEWLINE>train.
+Select the type of training.
+Select equipment to change.
+Select equipment to change.
+オトモ同士で装備を交換します。<NEWLINE>交換先を選択してください。
+Select slot to register an<NEWLINE>equipment set in.
+Select equipment for this set.<NEWLINE>~C05(This includes a weapon.)
+Select a Felyne Comrade to<NEWLINE>equip with a set.
+Select an equipment set to<NEWLINE>use.
+Select an equipment set to<NEWLINE>exchange.
+Select an equipment set to<NEWLINE>exchange.
+Select an equipment set to<NEWLINE>delete.
+Please select the equipment you<NEWLINE>would like to replace.
+Please select the equipment you<NEWLINE>would like to replace.
+Select equipment to sell.
+~C02ニャンタークエストに出発中のため<NEWLINE>選択できません。~C00
+~C02ニャンタークエストに出発中のため<NEWLINE>装備変更はできません。~C00
+~C02ニャンタークエストに出発中のため<NEWLINE>スキルの変更はできません。~C00
+~C02ニャンタークエストに出発中のため<NEWLINE>解雇できません。~C00
+~C05他のオトモが装備しています。~C00
+~C05別のマイセットで<NEWLINE>登録済みのパーツです。~C00
+~C02装備の種類が違うため選べません。~C00
+~C02ニャンタークエストに出発中の<NEWLINE>オトモが使用中のため選べません。~C00
+~C02この装備は外せません。~C00
+~C02オトモが雇用されていません。~C00
+~C02セットが登録されていません。~C00
+~C02ニャンタークエストに出発中の<NEWLINE>オトモが使用中のため選べません。~C00
+~C02装備中の武器は売れません。~C00
+~C02ニャンタークエストに出発中の<NEWLINE>オトモが使用中のため売れません。~C00
+修得させるオトモアイルーを<NEWLINE>選択してください。
+忘れさせるオトモアイルーを<NEWLINE>選択してください。
+修得させるスキルを<NEWLINE>選択してください。
+~C02スキル記憶力の空きが足りません。~C00
+~C02オトモポイントが足りません。~C00
+~C02スキル記憶力の空きが足りません。<NEWLINE>オトモポイントが足りません。~C00
+~C02現在、修得中のスキルです。~C00
+忘れさせるスキルを<NEWLINE>選択してください。
+忘れさせるスキルを<NEWLINE>選択してください。<NEWLINE>~C05現在、修得中のスキルです。~C00
+~C02スキルを修得していません。~C00
+コメントの編集をする<NEWLINE>オトモアイルーを<NEWLINE>選択してください。
+配信するオトモアイルーを<NEWLINE>選択してください。配信しても<NEWLINE>アイルーは手元に残ります。
+解雇するオトモアイルーを<NEWLINE>選択してください。
+オトモ配信をするには、<NEWLINE>配信に設定するオトモアイルーが<NEWLINE>１匹は必要です。
+雇用枠がいっぱいなので、これ以上<NEWLINE>オトモアイルーを受け取ることが<NEWLINE>できません。
+…本当に解雇するニャ？
+オトモアイルーが<NEWLINE>１匹もいません。
+武器が登録されていません
+トレーニングをせずに休みます。<NEWLINE>休憩中のオトモアイルーは、<NEWLINE>ふだんよりよくなつきます。
+すばやいフットワークで、<NEWLINE>足腰を鍛えるトレーニングです。<NEWLINE>実戦同様の経験が得られます。
+重しを使った筋肉トレーニング。<NEWLINE>腕力を鍛えることで、<NEWLINE>攻撃力を底上げします。
+全ての基本となるトレーニング。<NEWLINE>腹筋を鍛えることで、<NEWLINE>防御力を底上げします。
+武器を使ったトレーニングです。<NEWLINE>攻撃力と防御力が、少しずつ<NEWLINE>上昇します。
+平常心を養うトレーニングです。<NEWLINE>集中して瞑想することで、若干の<NEWLINE>オトモポイントが得られます。
+農場の敷地を走り、より多くのオト<NEWLINE>モポイントを得るトレーニング。<NEWLINE>常に１匹だけが行える特別な訓練。
+険しい岩壁をよじ登り、より多くの<NEWLINE>経験値を得るトレーニング。<NEWLINE>常に１匹だけが行える特別な訓練。
+一心不乱に薪を割り、より効率よく<NEWLINE>攻撃力を高めるトレーニング。<NEWLINE>常に１匹だけが行える特別な訓練。
+巨大な丸太を受け止めて、より効率<NEWLINE>よく防御力を高めるトレーニング。<NEWLINE>常に１匹だけが行える特別な訓練。
+激しい滝に打たれ、一度だけ効果の<NEWLINE>ある追加能力を閃くトレーニング。<NEWLINE>常に１匹だけが行える特別な訓練。
+オトモ設定が解除されます。<NEWLINE>よろしいですか？
+%sの訓練内容を、<NEWLINE>%sから休憩にします。<NEWLINE>よろしいですか？
+解雇してよろしいですか？<NEWLINE>~C05解雇後、自動的に<NEWLINE>オトモアイルーの装備を外します。~C00
+「%s」 skill<NEWLINE> will be acquired. Are you sure?
+「%s」 skill<NEWLINE> will be erased. Are you sure?
+Change equipment?
+Remove Equipment.<NEWLINE>Are you sure?
+オトモの装備を入れ替えます。<NEWLINE>~C05（武器なしの状態にはできません）<NEWLINE>~C00よろしいですか？
+~C05%sが装備中のパーツです。<NEWLINE>~C00装備を入れ替えますか？<NEWLINE>入れ替えずに装備を外しますか？
+この内容でセットを登録します。<NEWLINE>よろしいですか？
+マイセットを装備します。<NEWLINE>よろしいですか？
+このマイセットを解除します。<NEWLINE>よろしいですか？
+並び替えてよろしいですか？
+~C05%dz~C00になります。<NEWLINE>よろしいですか？
+解雇してよろしいですか？<NEWLINE>~C05解雇後、自動的に装備を外します。~C00
+プレイヤーとオトモの攻撃力が<NEWLINE>一定時間上昇します。
+プレイヤーとオトモの防御力が<NEWLINE>一定時間上昇します。
+プレイヤーとオトモの毒状態と、<NEWLINE>一部アイテム使用不可状態を解消<NEWLINE>します。
+プレイヤーとオトモの体力を<NEWLINE>回復します。
+プレイヤーとオトモの体力を<NEWLINE>大幅に回復します。
+オトモの属性攻撃<NEWLINE>（火・水・雷・氷・龍）の攻撃力が<NEWLINE>上昇します。
+オトモの近接、ブーメラン攻撃に、<NEWLINE>≪毒≫の状態異常属性が<NEWLINE>追加されます。
+オトモの近接、ブーメラン攻撃に、<NEWLINE>≪麻痺≫の状態異常属性が<NEWLINE>追加されます。
+オトモの近接、ブーメラン攻撃に、<NEWLINE>≪睡眠≫の状態異常属性が<NEWLINE>追加されます。
+オトモの状態異常攻撃<NEWLINE>（毒・麻痺・睡眠）の効果が<NEWLINE>上昇します。
+オトモが、泥ヤラレ、雪だるま<NEWLINE>ヤラレになったときに、<NEWLINE>素早く復帰します。
+オトモが毒状態になりません。
+オトモが、ごく一部を除く、<NEWLINE>モンスターの風圧に<NEWLINE>ひるまなくなります。
+オトモが、モンスターの咆哮に<NEWLINE>ひるまなくなります。
+オトモが、ごく一部を除く<NEWLINE>モンスターの風圧と、咆哮に<NEWLINE>ひるまなくなります。
+オトモの攻撃力が<NEWLINE>上昇します。
+オトモの攻撃力が<NEWLINE>大きく上昇します。
+オトモの防御力が<NEWLINE>上昇します。
+オトモの防御力が<NEWLINE>大きく上昇します。
+オトモの体力上限値が<NEWLINE>上昇します。
+オトモの体力上限値が<NEWLINE>大きく上昇します。
+オトモのガード確率が<NEWLINE>上昇します。
+オトモのガード確率が<NEWLINE>大きく上昇します。
+オトモの会心攻撃の確率が<NEWLINE>上昇します。
+オトモが、モンスターから<NEWLINE>アイテムを盗む確率が上昇します。
+オトモが、クエスト中、まれに、<NEWLINE>シビレ罠を設置します。
+≪攻撃方法≫に爆弾を持つ<NEWLINE>オトモがまれに、マタタビ爆弾を<NEWLINE>投げます。
+≪攻撃方法≫に爆弾を持つ<NEWLINE>オトモがまれに、大タル爆弾を<NEWLINE>抱えて突進攻撃を行います。
+オトモの爆弾攻撃の威力が<NEWLINE>上がります。
+全ての爆弾攻撃に対して、<NEWLINE>オトモが受けるダメージを<NEWLINE>軽減します。
+≪攻撃方法≫にブーメランを持つ<NEWLINE>オトモの放つブーメランが、<NEWLINE>巨大化し威力が上がります。
+≪攻撃方法≫にブーメランを持つ<NEWLINE>オトモの放つブーメランが、<NEWLINE>貫通するようになります。
+オトモの放つ<NEWLINE>≪大砲≫と≪バリスタ≫の<NEWLINE>攻撃力が上がります。
+オトモが地上でダメージを受けた<NEWLINE>ときに、すぐに起き上がります。
+オトモが力尽きるたびに、<NEWLINE>攻撃力が上昇します。<NEWLINE>最大８回まで上昇します。
+オトモの攻撃力と防御力が大幅に<NEWLINE>上がります。が、１度力尽きると<NEWLINE>そのクエストでは復活しません。
+オトモの火耐性が<NEWLINE>上昇します。
+オトモの水耐性が<NEWLINE>上昇します。
+オトモの雷耐性が<NEWLINE>上昇します。
+オトモの氷耐性が<NEWLINE>上昇します。
+オトモの龍耐性が<NEWLINE>上昇します。
+オトモの全耐性<NEWLINE>（火・水・雷・氷・龍）が<NEWLINE>少し上昇します。
+クエスト開始直後と、一定時間<NEWLINE>ごとに、オトモが、大型モンスター<NEWLINE>の場所を教えてくれます。
+オトモのアイテム採取速度が<NEWLINE>速くなります。
+オトモの自己回復速度が<NEWLINE>速くなります。
+オトモが採取行動を<NEWLINE>しなくなります。
+オトモがサボり行動を<NEWLINE>しなくなります。
+オトモがサボり行動中に、<NEWLINE>自分の体力を回復します。
+片方のオトモが、笛を吹いた時に、<NEWLINE>このスキルを持つオトモが、<NEWLINE>何かの笛を吹きます。
+片方のオトモがシビレ罠を設置した<NEWLINE>とき、このスキルを持つオトモが、<NEWLINE>罠の上に大タル爆弾を設置します。
+片方のオトモがサボり行動をしたら<NEWLINE>このスキルを持つオトモが、殴り、<NEWLINE>サボり行動を注意します。
+片方のオトモが力尽きたときに、<NEWLINE>このスキルを持つオトモの攻撃力と<NEWLINE>防御力が上昇します。
+オトモボックスの空きが<NEWLINE>%d 個しかありません。<NEWLINE>受け取ったオトモアイルーを%d 匹までしか<NEWLINE>雇用出来ませんがよろしいですか？
+ギルドカードリストの空きが<NEWLINE>%d 枚しかありません。<NEWLINE>受け取ったギルドカードを<NEWLINE>%d 枚までしか<NEWLINE>登録出来ませんがよろしいですか？
+<NEWLINE><NEWLINE>ギルドカードを添付しますか？
+オトモ配信中は、スリープモードとなり、<NEWLINE>画面が表示されません。ゲームに復帰するには、<NEWLINE>スリープモードを解除してください。<NEWLINE>通信相手が見つかったら、オトモアイルーを<NEWLINE>自動的にやりとりします。<NEWLINE>
+<NEWLINE><NEWLINE><NEWLINE>通信相手を探しています・・・
+<NEWLINE><NEWLINE>通信可能な相手が見つかりました。<NEWLINE><NEWLINE>現在、通信中です。
+受信に成功しました。<NEWLINE>%s から、オトモアイルーを受け取りました。<NEWLINE><NEWLINE>あと、%d匹受け取れます。<NEWLINE>%d 秒後にオトモ配信を再開します。
+<NEWLINE><NEWLINE>データが壊れていたので<NEWLINE>データを受け取れませんでした。
+受信に成功しました。<NEWLINE>%s から、オトモアイルーを受け取りました。<NEWLINE><NEWLINE>通信終了後、再びスリープモードに入ります。<NEWLINE>ゲームに復帰するには、スリープモードを<NEWLINE>解除してください。
+<NEWLINE><NEWLINE>受信したオトモアイルーを雇用したり、<NEWLINE>ギルドカードの登録ができます。
+<NEWLINE>受け取ろうとしたオトモアイルーが<NEWLINE>すでに存在していたため、受信できませんでした。<NEWLINE><NEWLINE>%d 秒後にオトモ配信を再開します。
+受け取ろうとしたオトモアイルーが<NEWLINE>すでに存在していたため、受信できませんでした。
+<NEWLINE><NEWLINE>通信エラーのため、送受信できませんでした。
+<NEWLINE><NEWLINE>通信エラーのため、送受信できませんでした。
+<NEWLINE><NEWLINE>通信相手が見つかりませんでした。
+<NEWLINE><NEWLINE><NEWLINE>通信相手が見つかりませんでした。
+通信相手が見つかりませんでした。<NEWLINE><NEWLINE>%d 匹のオトモを受信しています。<NEWLINE>あと、%d 匹のオトモを受信出来ます。
+<NEWLINE>通信エラーのため、送受信できませんでした。<NEWLINE><NEWLINE>%d 秒後にオトモ配信を再開します。
+オトモ配信を開始しますか？
+オトモ配信を続けますか？
+Press ~B01 button to cancel.
+Press the ~B00 button
+出会ったオトモ
+雇用
+Dismiss
+Exit
+<NEWLINE>No space in Comrade Box.<NEWLINE>Could not deliver Comrade.
+No space in Guild Card list.<NEWLINE>Received card will not be<NEWLINE>registered. OK?<NEWLINE>
+Felyne Dismantle
+Felyne Lucky Cat
+Attack Up
+Defense Up
+Felyne Skill Set ①
+Felyne Skill Set ②
+Felyne Skill Set ③
+Felyne Skill Set ④
+Felyne Skill Set ⑤
+Short Range Set 1
+Short Range Set 2
+Short Range Set 3
+Long Range Set 1
+Long Range Set 2
+Long Range Set 3
+Support Set 1
+Support Set 2
+まろやかな味わいのドリンク。<NEWLINE>剥ぎ取り回数が増えそう。
+コクのある風味のドリンク。<NEWLINE>剥ぎ取り回数が増えそう。
+ほんのりとした酸味が特徴の<NEWLINE>ドリンク。<NEWLINE>幸運が訪れそう。
+さっぱりとした甘みの<NEWLINE>ドリンク。<NEWLINE>幸運が訪れそう。
+セレブな香りの<NEWLINE>フレーバードリンク。<NEWLINE>金運がアップしそう。
+キレのあるうまさのドリンク。<NEWLINE>運搬能力が普段よりも上がる。
+爽やかな甘みのあるドリンク。<NEWLINE>採取能力が普段よりも上がる。
+目が覚めるドリンク。<NEWLINE>攻撃力がアップする。<NEWLINE>剣士好みの味付け。
+スッキリした味のドリンク。<NEWLINE>攻撃力がアップする。<NEWLINE>剣士好みの味付け。
+トロピカルな味のドリンク。<NEWLINE>攻撃力がアップする。<NEWLINE>ガンナー好みの味付け。
+パンチの効いたドリンク。<NEWLINE>攻撃力がアップする。<NEWLINE>ガンナー好みの味付け。
+香ばしい味のドリンク。<NEWLINE>防御力がアップする。<NEWLINE>剣士好みの味付け。
+深みのある味わいのドリンク。<NEWLINE>防御力がアップする。<NEWLINE>剣士好みの味付け。
+リラックスできるドリンク。<NEWLINE>防御力がアップする。<NEWLINE>ガンナー好みの味付け。
+香り豊かなドリンク。<NEWLINE>防御力がアップする。<NEWLINE>ガンナー好みの味付け。
+体の芯から温まるしるこ。<NEWLINE>白玉餅がうまい。<NEWLINE>火耐性がアップする。
+ユクモ村の生活を支えている<NEWLINE>天然の水。<NEWLINE>水耐性がアップする。
+刺激の強いドリンク。<NEWLINE>雷耐性がアップする。
+栄養価が高く、シャキシャキ<NEWLINE>しているドリンク。<NEWLINE>氷耐性がアップする。
+強い苦みがあるが、<NEWLINE>勇気があふれてくるドリンク。<NEWLINE>龍耐性がアップする。
+みんな大好き<NEWLINE>ユクモミルクコーヒー。<NEWLINE>攻撃力がすこしアップする。
+みんな大好きユクモラムネ。<NEWLINE>飲み方にコツがある。<NEWLINE>防御力がすこしアップする。
+独特な風味が特徴の<NEWLINE>懐かしい味がするドリンク。<NEWLINE>狩りの助けになりそう。
+新鮮な素材をブレンドして<NEWLINE>提供させて頂く日替わり<NEWLINE>ドリンクニャ。
+An exquisitely divine flavor!
+An exquisitely divine flavor!
+The epitome of flavor!
+The epitome of flavor!
+Rich and sweet!
+Spicy and satisfying!
+A perfect amount of sweetness!
+A powerful flavor!
+A powerful flavor!
+A powerful flavor!
+A powerful flavor!
+A tough taste!
+A tough taste!
+A tough taste!
+A tough taste!
+What a relief!
+Overflowing with flavor!
+A dangerous taste!
+It tasted crisp and cool!
+Such mysterious zest!
+A classic vintage!
+What an invigorating flavor!
+It's strangely delicious!
+An exciting taste!
+Piggie
+Carry
+Pet
+Rodeo
+Pick up Piggie and carry him<NEWLINE>around.
+Pet Piggie.
+Let a Felyne Comrade ride on<NEWLINE>Piggie's back.
+Select a Comrade to ride on<NEWLINE>Piggie.
+Both Felynes
+Comrade Quest
+Fee
+Dest.
+Main Monster
+Client
+Quest Details
+Per Comrade
+Status
+Health
+Stamina
+%d
+%d(+%d)
+Quality of Hot Spring Upgraded!
+It was an awesome bath!!
+Stamina and Health increased!
+Health increased!
+Stamina increased!
+No Skills
+Increases number of carves.
+Occasionally increases number<NEWLINE>of carves.
+Increased Stamina recovery.<NEWLINE>Herb and Bitterbug max rate<NEWLINE>of combine success.
+Reduces Stamina consumption<NEWLINE>during guarding and evading.
+Increases the damage of Large<NEWLINE>Barrel Bombs.
+Increases effectiveness of<NEWLINE>Abnormal Status Attacks.
+High chance of reducing<NEWLINE>damage taken.
+Low chance of reducing<NEWLINE>damage taken.
+Reduces chance of Flute<NEWLINE>breaking.
+Reduces chance of Pickaxe<NEWLINE>and Bugnet breaking.
+Increases the number of<NEWLINE>conversations possible with<NEWLINE>the Veggie Elder.
+Increases the success rate of<NEWLINE>combinations by 20%.
+Increases the success rate of<NEWLINE>combinations by 10%.
+Increases the amount of times<NEWLINE>of gathering from mining<NEWLINE>and gathering points.
+Increases the power of<NEWLINE>Normal S.
+Higher chance of more Quest<NEWLINE>Rewards.
+Chance of more Quest Rewards.
+Increases Attack Power<NEWLINE>when Health is low.
+Reduces consumption of<NEWLINE>Sharpness when Attack bounces.
+Reduces Stamina consumption<NEWLINE>when running away from<NEWLINE>Monsters.
+Increases the damage of all<NEWLINE>thrown items.
+Negates cringing when<NEWLINE>first seeing a Monster.
+Reduces Stamina consumption<NEWLINE>and flinching when transporting<NEWLINE>carried items. 
+Reduces flinching when<NEWLINE>transporting carried items.
+Decreases chance of Large-size<NEWLINE>monsters appearing in quests.
+Increases chance of starting a<NEWLINE>quest in the Hidden area.
+Increases amount of Yukumo<NEWLINE>points received after<NEWLINE>completing quests.
+Greatly increases time of<NEWLINE>invincibility when getting up.
+Increases time of<NEWLINE>invincibility when getting up. 
+Increases the power of Shots<NEWLINE>at the expense of accuracy.
+Increases the power of kicks.
+Increases the power of the <NEWLINE>gesture, "Shadowbox".
+Reduces Stamina consumption<NEWLINE>and flinching when climbing.
+Reduces Stamina consumption<NEWLINE>when climbing.
+Negates flinching if attacked<NEWLINE>while carving.
+Negates falling to prone<NEWLINE>position when jumping from<NEWLINE>high ground.
+Temporarily increases Attack<NEWLINE>Power after doing the gesture,<NEWLINE>"Dance" for a period of time.
+Sharpness increases slightly,<NEWLINE>after an Attack bounces.
+Retains Hot Spring bonuses even<NEWLINE>after fainting in battle.
+Increases chance to KO<NEWLINE>Monsters.
+Increases reward money<NEWLINE>after completing quests.
+Increases duration and<NEWLINE>maximizes combine success rate<NEWLINE>of Catnip Bombs.
+Increases the damage of<NEWLINE>Cannon S, Ballista S, Crag S<NEWLINE>and Gunlance shots.
+Allows survival from a<NEWLINE>fatal attack if Health is<NEWLINE>above a certain amount.
+Increases effectiveness of<NEWLINE>Dungbombs. Maximizes success<NEWLINE>rate of combining Dungbombs.
+Halves the duration of Defense<NEWLINE>Down and Elemental Res Down<NEWLINE>effects.
+Negates damage from stepping<NEWLINE>near lava.
+Increases chance to escape<NEWLINE>when pinned by Monsters.
+Monsters are displayed on<NEWLINE>the map for a short period of time.
+Decreases time taken to<NEWLINE>sharpen weapons.
+Slightly increases Attack.
+Moderately increases Attack.
+Greatly increases Attack.
+Slightly increases Defense.
+Moderately increases Defense.
+Greatly increases Defense.
+Fire Res increased by 5.
+Water Res increased by 5.
+Thunder res increased by 5.
+Ice Res increased by 5.
+Dragon Res increased by 5.
+Stand up quickly after sent<NEWLINE>flying.
+Encounters will always occur<NEWLINE>when Hunting in Volatile<NEWLINE>Locales.
+Felyne Comrades advance<NEWLINE>faster.
+Attack and Defense increase for<NEWLINE>a short period of time at the<NEWLINE>beginning of Quest.
+Supply Items arrive immediately<NEWLINE>at the beginning of Quest.
+Negates all Sleep effects,<NEWLINE>including Base Camp Bed,<NEWLINE>during the whole Quest.
+Negates landing on the butt.
+Increases rewards from fishing<NEWLINE>during Quest.
+Possible Whim Skills<NEWLINE>Activated.
+Possible Whim Skills<NEWLINE>Activated.
+Possible Whim Skills<NEWLINE>Activated.
+Possible Whim Skills<NEWLINE>Activated.
+Possible Whim Skills<NEWLINE>Activated.
+Title
+Name
+Comment
+More Details
+Equip
+Del
+Item Box
+No decorations
+Item Bag

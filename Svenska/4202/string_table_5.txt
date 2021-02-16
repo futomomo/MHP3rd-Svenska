@@ -1,0 +1,24 @@
+0,そいじゃぁ<NEWLINE>ハンターちゃん、<NEWLINE>頑張ってオトモスカウト<NEWLINE>してくるけぇ、<NEWLINE>しばらく待っててなぁ。
+1,その子の名前を<NEWLINE>≪%s≫<NEWLINE>から変更するかえ？<NEWLINE>（全角は６文字、<NEWLINE>　半角は１２文字まで<NEWLINE>　表示できます）
+1,この子の名前は<NEWLINE>≪%s≫<NEWLINE>で良いかねぇ？
+0,ハンターちゃん！<NEWLINE>オトモちゃんが<NEWLINE>かわいそうじゃけぇ、<NEWLINE>名前をつけたげてなぁ。
+0,ありゃまあ？<NEWLINE>この子に、この名前は<NEWLINE>つけられんねぇ。<NEWLINE>ちゃあんと考えてあげて<NEWLINE>なぁ。
+2,お～、待っとったよ～。<NEWLINE>あんたが新しい<NEWLINE>ハンターちゃん<NEWLINE>じゃなぁ。
+2,あたしゃのぉ、ネコバァ<NEWLINE>て呼ばれとる者じゃが、<NEWLINE>知っとるかえ？<NEWLINE>アイルーちゃんたちの<NEWLINE>仕事場を探して<NEWLINE>あげとるんよ～。
+2,この子達がの、オトモに<NEWLINE>なりたい言うけぇ、<NEWLINE>いいハンターちゃんを<NEWLINE>探しとるんじゃが、<NEWLINE>あんたならいいんじゃ<NEWLINE>ないけぇ～って、<NEWLINE>村長ちゃんがいうてね。
+2,オトモを雇えば<NEWLINE>一緒にクエストに<NEWLINE>いけるようになるけぇ、<NEWLINE>ハンターちゃんも、<NEWLINE>淋しぅない、思うてね。
+2,オトモを雇って<NEWLINE>あんたが初めての<NEWLINE>旦那さんの場合、<NEWLINE>１度だけ≪名前変更≫<NEWLINE>できるけぇ、<NEWLINE>ええ名前をつけて<NEWLINE>あげてねぇ。
+2,雇った子らは、<NEWLINE>≪ユクモ農場≫に行く<NEWLINE>けぇ、そこで<NEWLINE>世話してあげてなぁ。
+2,ユクモ農場と自宅には、<NEWLINE>オトモの管理が<NEWLINE>できる≪オトモボード≫<NEWLINE>があるんよ。<NEWLINE>そこから、誰をクエスト<NEWLINE>に連れて行くとか、<NEWLINE>指示を出せるからねぇ。
+2,あとなぁ、オトモは<NEWLINE>２匹連れて歩けるんよ。<NEWLINE>雇用は、２５匹まで<NEWLINE>できるけぇ、友達を<NEWLINE>増やしてあげてなぁ。
+2,あたしの連れてくる子は<NEWLINE>良い子ばかりじゃが、<NEWLINE>あんたの希望の子を、<NEWLINE>スカウトしてくる事も<NEWLINE>できるんよ。
+2,どんなオトモちゃんを<NEWLINE>斡旋して欲しいか、<NEWLINE>≪オトモスカウト≫から<NEWLINE>教えてくれたら、<NEWLINE>希望の子らを探してくる<NEWLINE>けぇ。
+2,そぉうねぇ、<NEWLINE>だいたいあんたが<NEWLINE>１回くらいクエストに<NEWLINE>行って戻ってくる間に、<NEWLINE>希望のオトモちゃんを<NEWLINE>探せるかねぇ。
+2,まぁまぁ、<NEWLINE>≪オトモスカウト≫の<NEWLINE>内容はいつでも確認でき<NEWLINE>るし、変更もできるけぇ<NEWLINE>気軽に言うてちょうだい<NEWLINE>ねぇ。
+2,最後に、<NEWLINE>ハンターちゃんには<NEWLINE>あたしから、<NEWLINE>オトモ２匹をサービス<NEWLINE>しようと思うてね。<NEWLINE>好きな子を連れてって<NEWLINE>かまわんよ。
+0,オトモ２匹分の装備は<NEWLINE>≪オトモボード≫の、<NEWLINE>≪オトモ装備≫の中に<NEWLINE>入れておいたからね。<NEWLINE>ちゃあんと、<NEWLINE>装備させてあげてなぁ。
+0,ハンターちゃん、<NEWLINE>よう来たなぁ。<NEWLINE>雇いたい子や、<NEWLINE>連れてきて欲しい子が<NEWLINE>おったら、<NEWLINE>言うてちょうだいなぁ。
+0,おやまあ、そうかい。<NEWLINE>何かあったら、あたしに<NEWLINE>言うてちょうだいなぁ。<NEWLINE>希望の子がおったら、<NEWLINE>相談にのるからねぇ。
+2,ハンターちゃん。<NEWLINE>ちょっと珍しいオトモを<NEWLINE>見つけたんよ。<NEWLINE>ハンターちゃんに<NEWLINE>どうかと思うてね。
+0,雇いたい時は、<NEWLINE>≪特典／ダウンロード≫<NEWLINE>から雇うことが<NEWLINE>できるんよ。
+0,ハンターちゃん、<NEWLINE>よう来たなぁ。<NEWLINE>雇いたい子や、<NEWLINE>連れてきて欲しい子が<NEWLINE>おったら、<NEWLINE>言うてちょうだいなぁ。

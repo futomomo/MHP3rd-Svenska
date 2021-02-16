@@ -1,0 +1,25 @@
+2,Welcome to the Yukumo<NEWLINE>Hunters Guild High<NEWLINE>Rank quest counter.<NEWLINE>Please select the<NEWLINE>level of quests you<NEWLINE>would like.
+2,Now, please feel free<NEWLINE>to take on any quest<NEWLINE>here you like.
+1,For this quest, there<NEWLINE>is a contract fee of<NEWLINE>$z.<NEWLINE>Is this acceptable?
+1,Will you recruit other<NEWLINE>people for this quest?
+0,Your quest has been<NEWLINE>placed on the notice<NEWLINE>board. We hope you<NEWLINE>will be successful on<NEWLINE>your quest.
+1,Would you like to see<NEWLINE>some other quests?
+0,We look forward to<NEWLINE>seeing you again at<NEWLINE>the Hunter's Guild.
+2,I'm afraid you lack<NEWLINE>the required funds.
+0,Well then, you'll be<NEWLINE>doing this quest solo.<NEWLINE>We wish you the best<NEWLINE>of luck on your quest.
+1,For this quest, there<NEWLINE>is no contract fee.<NEWLINE>Would you like this<NEWLINE>quest?
+1,Welcome to the Hunters<NEWLINE>Guild.<NEWLINE>Currently, you already<NEWLINE>have a quest under<NEWLINE>contract. Do you wish<NEWLINE>to cancel it?
+1,If any others have<NEWLINE>joined the quest, the<NEWLINE>entire party will be<NEWLINE>dissolved.<NEWLINE>Are you sure?
+0,Contract cancelled.<NEWLINE>We look forward to<NEWLINE>seeing you again.
+2,Welcome to the Yukumo<NEWLINE>Hunters Guild.
+2,At this counter, we<NEWLINE>only serve High-Rank<NEWLINE>Hunters.
+2,I'm very sorry, but we<NEWLINE>are unable to assist<NEWLINE>you at your current<NEWLINE>rank.
+0,Please come back when<NEWLINE>you have gained more<NEWLINE>experience and have<NEWLINE>completed more quests.
+2,Welcome to the Yukumo<NEWLINE>Hunters Guild.
+2,I heard the news.<NEWLINE>Now that you are HR4,<NEWLINE>you are officially a<NEWLINE>High-Rank Hunter.
+2,You may now accept up<NEWLINE>to 6★ quests.<NEWLINE>Please work hard and<NEWLINE>do your best on these<NEWLINE>challenging quests.
+2,Please note, that on<NEWLINE>High-Rank quests, the<NEWLINE>Guild does not promise<NEWLINE>its complete support.
+2,There are more details<NEWLINE>that you should know,<NEWLINE>but please go speak<NEWLINE>with the Guild Manager<NEWLINE>about them.
+0,Well then,<NEWLINE>When you wish to take<NEWLINE>on a High Rank quest,<NEWLINE>come speak to me at<NEWLINE>any time.
+2,Welcome to the Yukumo<NEWLINE>Hunters Guild.
+0,At this counter, we<NEWLINE>only serve High-Rank<NEWLINE>Hunters.

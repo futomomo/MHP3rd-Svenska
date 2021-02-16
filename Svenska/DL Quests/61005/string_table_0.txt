@@ -1,0 +1,6 @@
+Challenge Quest 1
+Hunt the Great Froggi
+Reward Zero<NEWLINE>Time Over
+Greetings. It's your Training<NEWLINE>Instructor! Now you will face<NEWLINE>Great Froggi and its minions!<NEWLINE>The key is manoeuvre around<NEWLINE>the poison fog! Huh...? It'll<NEWLINE>hurt if you underestimate it!!
+Great Froggi<NEWLINE>Froggi
+Training Instructor

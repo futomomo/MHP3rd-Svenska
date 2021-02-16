@@ -1,0 +1,3 @@
+2815.bin 155648
+string_table_0.txt
+enddata.bin

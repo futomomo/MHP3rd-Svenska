@@ -1,0 +1,9 @@
+2,ハンターさんは、<NEWLINE>≪ティガレックス≫<NEWLINE>というモンスターは<NEWLINE>ご存じですか？<NEWLINE>私の故郷のポッケ村<NEWLINE>周辺に棲み着いていた<NEWLINE>モンスターなんですが。
+2,ベテランだった村の<NEWLINE>ハンターさんに<NEWLINE>大怪我をさせ、<NEWLINE>引退に追い込むほど、<NEWLINE>強いモンスターだった<NEWLINE>んですよ。
+2,その後に来た新しい<NEWLINE>ハンターさんが<NEWLINE>討伐してくれたおかげで<NEWLINE>事なきを得ましたが…。<NEWLINE>村人はあのモンスターを<NEWLINE>恐れたものです。
+2,翼が未発達な飛竜で、<NEWLINE>飛ぶのは苦手ですが、<NEWLINE>ものすごい勢いで走れる<NEWLINE>んです。その勢いは<NEWLINE>凄まじいもので、一度<NEWLINE>走り出したら簡単に<NEWLINE>止まれないくらいで…。
+0,ですから、壁に激突して<NEWLINE>牙が突き刺さることも<NEWLINE>あるようですよ。<NEWLINE>この地方でも見かける<NEWLINE>事はあるようですから、<NEWLINE>あなたにも依頼が<NEWLINE>来るかもしれませんね。
+2,≪ティガレックス≫<NEWLINE>という、とても恐ろしい<NEWLINE>モンスターが私の故郷<NEWLINE>にはいました。<NEWLINE>村人を震え上がらせた<NEWLINE>轟竜とも呼ばれる飛竜<NEWLINE>です。
+2,翼が未発達な飛竜で、<NEWLINE>飛ぶのは苦手ですが、<NEWLINE>ものすごい勢いで走れる<NEWLINE>んです。その勢いは<NEWLINE>凄まじいもので、一度<NEWLINE>走り出したら簡単に<NEWLINE>止まれないくらいで…。
+0,ですから、壁に激突して<NEWLINE>牙が突き刺さることも<NEWLINE>あるようですよ。<NEWLINE>この地方でも見かける<NEWLINE>事はあるようですから、<NEWLINE>あなたにも依頼が<NEWLINE>来るかもしれませんね。
+0,ティガレックスには<NEWLINE>気をつけてくださいね。<NEWLINE>本当に強いんです。<NEWLINE>絶対強者という異名で<NEWLINE>呼ばれるくらい強い<NEWLINE>のです。

@@ -1,0 +1,52 @@
+Checking for Memory Stick Duo~B10.<NEWLINE><NEWLINE>Please do not turn off the PSP~B10 system<NEWLINE>or remove the Memory Stick Duo~B10.
+Load completed.
+Game data is corrupted.
+Not enough free space available<NEWLINE>on Memory Stick Duo~B10.
+Would you like to save?
+~A00KB is required to save this data.<NEWLINE>Delete other data and create free space?
+Save this character?
+Please select a save location.
+Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B10.
+Character already exists.<NEWLINE>Delete previously saved character?
+Would you like to save here?
+No character data found.<NEWLINE>Please insert the Memory Stick Duo~B10 <NEWLINE>containing previously saved Game data. 
+Ladda denna karaktär?
+Character selected. <NEWLINE>Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 3rd~B10.
+TID
+MAN
+KVINNA
+PENGAR
+INGET DATA
+Saving...<NEWLINE><NEWLINE>Please do not remove the<NEWLINE>Memory Stick Duo. 
+Autoladdade Speldata.
+This game requires at least ~A00KB to save.<NEWLINE>Continue?
+Save Game Settings?
+There is already Game data on the Memory Stick Duo.<NEWLINE>OK to overwrite this data?
+Välj en karaktär.
+The Memory Stick Duo used to start<NEWLINE>this game is not inserted.<NEWLINE>Please insert the Memory Stick Duo<NEWLINE>used to start this game.
+Spar slutfört.
+Avsluta spelet?
+If you quit the game without saving,<NEWLINE>all of the items and money (z)<NEWLINE>that you acquired will be lost.
+Delete corrupted Game data?
+Save Gallery status?
+%s<NEWLINE>Unable to load Installed Data.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+No Memory Stick Duo found.
+No Media Install data found.
+Media Install data is corrupted.<NEWLINE>Please re-install the Media Install data.
+%s<NEWLINE>Install Data load failed mid-Quest.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+No Memory Stick Duo found.
+No Media Install data found.
+Media Install data is corrupted.<NEWLINE>Please re-install the Media Install data.
+%s<NEWLINE>Install Data load failed during transmission.<NEWLINE>All data will be loaded from the UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+%s<NEWLINE>Install Data load failed while viewing the<NEWLINE>Gallery. All data will be loaded from the<NEWLINE>UMD.<NEWLINE><NEWLINE>Data Install Option has been switched to<NEWLINE>"OFF".
+%4d:%02d
+%7dz
+１
+２
+３
+Abort loading?
+~B12~C34Save~C00~B13　　Exit without saving　
+　Save　　~B12~C34Exit without saving~C00~B13
+The Memory Stick Duo was removed.
+Checking the Memory Stick Duo~B10<NEWLINE>Please do not remove the Memory Stick Duo.
+Saving...<NEWLINE>Please do not remove the Memory Stick Duo.

@@ -1,0 +1,6 @@
+4204.bin 90112
+24,string_table_0.txt
+25,string_table_1.txt
+26,string_table_2.txt
+27,string_table_3.txt
+enddata.bin

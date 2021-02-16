@@ -1,0 +1,6 @@
+Basic Training - BBQ
+Deliver 1 Well-Done Meat
+Reward Zero<NEWLINE>Time Over
+Listen up, pal. This is your<NEWLINE>instructor. Time get cooking.<NEWLINE>Carve Raw Meat from some Gagua<NEWLINE>and grill it on the provided<NEWLINE>BBQ Spit. Get the timing down,<NEWLINE>and it's dinnertime!
+Gagua
+Training Instructor

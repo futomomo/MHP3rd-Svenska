@@ -1,0 +1,33 @@
+－－－－－－
+Field Row
+Field Row +1
+Field Row +2
+Fishing Pier
+Fishing Pier +1
+Fishing Pier +2
+Fishing Basket
+Mining Point
+Mining Point +1
+Mining Point +2
+Mining Point +3
+Mining Cart
+Bug Perfume
+Black Bug Perfume
+Shell Bug Perfume
+Royal Perfume
+Rare Perfume
+Hi Bug Perfume
+Bug Tree Seesaw
+Mushroom Tree
+Mushroom Tree +1
+Mushroom Tree +2
+Prototype Beehive
+Production Beehive
+Modified Beehive
+Mega BBQ Spit
+Hunting Cart
+Marathon Training
+RockClimbng Training
+Log Block Training
+Woodcutting Training
+Waterfall Training

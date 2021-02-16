@@ -1,0 +1,40 @@
+2,Well, well, if it<NEWLINE>isn't the Hunter.<NEWLINE>Please choose the<NEWLINE>type of quest you<NEWLINE>want, nya.
+2,Hunter,<NEWLINE>here are the available<NEWLINE>quests, nya.
+1,This quest requires<NEWLINE>a contract fee of<NEWLINE>$z, nya.<NEWLINE>Will you accept, nya?
+1,Do you want to recruit<NEWLINE>other players for this<NEWLINE>quest, nya?
+0,Your quest is up on<NEWLINE>the notice board, nya.<NEWLINE>Good hunting, nya
+1,Do you want to choose<NEWLINE>another quest, nya?
+0,Oh well, if you change<NEWLINE>your mind, please come<NEWLINE>back, nya.
+2,Ah, Hunter,<NEWLINE>your funds seem to be<NEWLINE>a little lacking, nya.
+0,So then, Hunter,<NEWLINE>you're heading off by<NEWLINE>yourself.<NEWLINE>Good hunting, nya!
+1,dummy
+1,Hunter.<NEWLINE>Do you want to cancel<NEWLINE>the quest, nya?
+1,If there are any other<NEWLINE>members on this quest,<NEWLINE>this will dissolve it<NEWLINE>for them, too, nya.<NEWLINE>Are you sure, nya?
+0,I see.<NEWLINE>I'll cancel the quest,<NEWLINE>nya.
+2,A request to upgrade<NEWLINE>the Hot Spring quality<NEWLINE>has arrived, nya. I've<NEWLINE>added it to the Hot<NEWLINE>Spring Quests, nya.
+0,It's not urgent, but<NEWLINE>please take care of<NEWLINE>it when you have the<NEWLINE>time, nya.
+2,My fellow furry friend<NEWLINE>has made a request for<NEWLINE>new drink ingredients,<NEWLINE>nya. I've added it to<NEWLINE>the Drink Quests, nya.
+0,It's not urgent, but<NEWLINE>please take care of<NEWLINE>it when you have the<NEWLINE>time, nya.
+2,The Village Elder is<NEWLINE>waiting for outside<NEWLINE>the Guild Hall, nya.<NEWLINE>Just go out and down<NEWLINE>the stairs, nya.
+2,Go introduce yourself<NEWLINE>to the Village Elder,<NEWLINE>then we'll talk more<NEWLINE>about the hot spring,<NEWLINE>nya.
+0,Stand next the screen<NEWLINE>and press ~B03 to get<NEWLINE>changed, nya.<NEWLINE>Go to the door at the<NEWLINE>front and press ~B03 to<NEWLINE>exit the hall, nya.
+2,The Village Elder is<NEWLINE>waiting for you, nya.<NEWLINE>Just exit the hall and<NEWLINE>head down the steps,<NEWLINE>nya.
+2,Go introduce yourself<NEWLINE>to the Village Elder,<NEWLINE>then we'll talk more<NEWLINE>about the hot spring,<NEWLINE>nya.
+0,Stand next the screen<NEWLINE>and press ~B03 to get<NEWLINE>changed, nya.<NEWLINE>Go to the door at the<NEWLINE>front and press ~B03 to<NEWLINE>exit the hall, nya.
+2,Greetings, Hunter.<NEWLINE>I'm in charge of the<NEWLINE>Guild Hall hot spring,<NEWLINE>nya. You'll learn to<NEWLINE>love it too, nya.
+2,If there's anything<NEWLINE>you want know about<NEWLINE>the hot spring, just<NEWLINE>ask me, nya.
+2,Anyway, the hot spring<NEWLINE>is ready and open 24<NEWLINE>hours a day. It's a<NEWLINE>mixed bath, so please<NEWLINE>make sure you wear a<NEWLINE>towel when you get in,<NEWLINE>nya.
+2,Press ~B03 here at the<NEWLINE>screen in front of me<NEWLINE>to get changed.<NEWLINE>Similarly, press ~B03 at<NEWLINE>the front of the hall<NEWLINE>to leave, nya.
+2,Oh, the quality of the<NEWLINE>hot spring water has<NEWLINE>no special effects at<NEWLINE>the moment, nya. Well,<NEWLINE>it still feels good.
+2,In the bathing area,<NEWLINE>there's a Drink Stand.<NEWLINE>The Felyne there sells<NEWLINE>our famous Yukumo hot<NEWLINE>spring drinks, nya.
+2,The drinks will give<NEWLINE>you various support<NEWLINE>effects, so make sure<NEWLINE>to try them out, nya.<NEWLINE>To find out more, talk<NEWLINE>to the Drink Stand,<NEWLINE>nya.
+2,However, over time you<NEWLINE>can improve the water<NEWLINE>quality and discover<NEWLINE>a variety of amazing<NEWLINE>drinks, nya.
+2,Upgrade the hot spring<NEWLINE>water quality by going<NEWLINE>on special Hot Spring<NEWLINE>Quests, and complete<NEWLINE>Drink Quests to unlock<NEWLINE>more drinks, nya.
+2,These special quests<NEWLINE>will become available<NEWLINE>once you've built up<NEWLINE>your reputation as a<NEWLINE>hunter, nya. I'll let<NEWLINE>you know when a new<NEWLINE>quest arrives, nya.
+2,Actually, since you're<NEWLINE>officially the Yukumo<NEWLINE>Village hunter now,<NEWLINE>you should check out<NEWLINE>the current Hot Spring<NEWLINE>Quest, nya.
+0,Complete the quest to<NEWLINE>upgrade the quality of<NEWLINE>the hot spring water,<NEWLINE>nya. There's no rush,<NEWLINE>just take a look when<NEWLINE>you have time, nya.
+0,Thanks to you, the hot<NEWLINE>spring water quality<NEWLINE>has increased, nya. By<NEWLINE>all means, try out the<NEWLINE>new and improved bath,<NEWLINE>nya.
+0,Hunter. Thank you for<NEWLINE>using the Guild Hall<NEWLINE>so much, nya. Here is<NEWLINE>a small token of my<NEWLINE>appurreciation, nya.<NEWLINE>Please take it.
+2,Well hello there,<NEWLINE>Hunter.<NEWLINE>The Village Elder has<NEWLINE>asked that you speak<NEWLINE>with her, nya.
+0,First things first,<NEWLINE>head on over to the<NEWLINE>Training School, nya.<NEWLINE>Then go talk with the<NEWLINE>Village Elder before<NEWLINE>you return here, nya.
+0,Well, well, if it<NEWLINE>isn't the Hunter.<NEWLINE>Please choose the<NEWLINE>type of quest you<NEWLINE>want, nya.

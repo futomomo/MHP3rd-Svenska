@@ -1,0 +1,40 @@
+2,Hi there!<NEWLINE>Welcome to the Yukumo<NEWLINE>Village Hunters Guild!<NEWLINE>Go ahead and choose<NEWLINE>the level of<NEWLINE>quest you want.
+2,Now, feel free to<NEWLINE>take on whatever<NEWLINE>quest you like!
+1,This quest has a<NEWLINE>contract fee of<NEWLINE>$z!<NEWLINE>That okay?
+1,Right,<NEWLINE>so you wanna look for<NEWLINE>other people for<NEWLINE>this quest?
+0,Okay, your quest has<NEWLINE>been put up on the<NEWLINE>notice board.<NEWLINE>Good luck on your<NEWLINE>quest!
+1,Well,<NEWLINE>you wanna see some<NEWLINE>other quests, then?
+0,Come back and see us<NEWLINE>again real soon!
+2,Ah, you seem to be<NEWLINE>running a little short<NEWLINE>on cash, I'm afraid.
+0,Okay, so,<NEWLINE>you'll be flying solo<NEWLINE>on this one.<NEWLINE>Good luck on your<NEWLINE>quest!
+1,Well, this quest has<NEWLINE>no contract fee.<NEWLINE>Wanna take it on?
+1,Welcome to the Yukumo<NEWLINE>Village Hunters Guild!<NEWLINE>You've already got a<NEWLINE>quest under contract.<NEWLINE>Wanna cancel it?
+1,Umm, so,<NEWLINE>if anyone else has<NEWLINE>joined the quest, this<NEWLINE>will disband it for<NEWLINE>them, too.<NEWLINE>You sure you wanna?
+0,Oh, okay.<NEWLINE>Contract cancelled.<NEWLINE>Come see us again real<NEWLINE>soon!
+2,Oh hi!<NEWLINE>Welcome to the Yukumo<NEWLINE>Village Hunters Guild!
+2,Hey, like, you're the<NEWLINE>new Hunter in town,<NEWLINE>huh! I wanted to talk<NEWLINE>to you!
+2,So, uh, I only came<NEWLINE>here recently, and<NEWLINE>still don't know much.<NEWLINE>As fellow newbies,<NEWLINE>let's be friends!
+2,...Oh, right, yeah,<NEWLINE>business first. At<NEWLINE>this counter, you can<NEWLINE>arrange multiplayer<NEWLINE>quests.
+2,Each quest has a set<NEWLINE>level, which you can<NEWLINE>see by the number of<NEWLINE>★s it has.
+2,In general,<NEWLINE>1★～5★ are low rank,<NEWLINE>6★～8★ are high rank<NEWLINE>quests.
+2,Lemme see... 1★ and<NEWLINE>2★ quests have weaker<NEWLINE>weak monsters, but you<NEWLINE>won't find very good<NEWLINE>materials, though.
+2,In these first quests,<NEWLINE>anyone at all can join<NEWLINE>in, no matter how<NEWLINE>inexperienced. It's a<NEWLINE>good place for you and<NEWLINE>your friends to start.
+2,But the real quests<NEWLINE>start at 3★! These<NEWLINE>have tougher monsters<NEWLINE>than the ones from the<NEWLINE>Village Elder!
+2,3★ quests are HR1,<NEWLINE>or Hunter Rank 1.<NEWLINE>You'll need to work<NEWLINE>your way up to HR2 to<NEWLINE>take on 4★ quests,<NEWLINE>and HR3 for 5★<NEWLINE>quests.
+2,To increase your HR,<NEWLINE>you're gonna need to<NEWLINE>complete some specific<NEWLINE>key quests.
+2,Which quests, you ask?<NEWLINE>Um, hm. For 3★, there<NEWLINE>are four key quests:<NEWLINE>Royal...something...<NEWLINE>and, er, Barro..um,<NEWLINE>well...
+2,Anyway, point is, once<NEWLINE>you get those four key<NEWLINE>quests outta the way,<NEWLINE>you'll unlock the<NEWLINE>special Urgent quest.
+2,Once you clear the<NEWLINE>Urgent quest, Bam!<NEWLINE>Your HR goes up by 1!<NEWLINE>Then, wash, rinse, and<NEWLINE>repeat! Aim for the<NEWLINE>top and don't stop!
+2,...Ahem. But you're<NEWLINE>just getting started,<NEWLINE>huh. At HR1, just take<NEWLINE>your time and explore.<NEWLINE>Good hunting, Newbie!
+2,Okay! I can now accept<NEWLINE>all quests 1★ to 5★.<NEWLINE>So let's go!<NEWLINE>Newbie Power!
+0,Hey, my #1 customer!<NEWLINE>What's up? You know,<NEWLINE>You can do multiplayer<NEWLINE>quests solo, too. So<NEWLINE>get out there and show<NEWLINE>'em who's boss!!
+2,Ah, hello!<NEWLINE>Welcome to the Yukumo<NEWLINE>Hunters Guild!
+2,Oh, hey, speak of the<NEWLINE>devil! Well, I guess<NEWLINE>you should go over and<NEWLINE>check out the Training<NEWLINE>School, then.
+0,So, basically,<NEWLINE>come back after you<NEWLINE>talk with the Village<NEWLINE>Elder. Yeah!
+2,Ah, hello!<NEWLINE>Welcome to the Yukump<NEWLINE>Hunters Guild!
+2,Ah, so... you're<NEWLINE>another Hunter...<NEWLINE>right?
+0,Um, er... yeah. For<NEWLINE>now, you should go<NEWLINE>outside and talk to<NEWLINE>the Village Elder.<NEWLINE>Yeah!
+2,Ah, hello!<NEWLINE>Welcome to the Yukump<NEWLINE>Hunters Guild!
+0,Hey, Hunter,<NEWLINE>for now you should go<NEWLINE>outside and talk with<NEWLINE>the Village Elder.<NEWLINE>Yeah!
+2,Ah, hello!<NEWLINE>Welcome to the Yukump<NEWLINE>Hunters Guild!
+0,Here, you can organize<NEWLINE>multiplayer quests!<NEWLINE>Yup!

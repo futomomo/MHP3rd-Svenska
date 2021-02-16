@@ -1,0 +1,9 @@
+2,いや～とんでもない時に<NEWLINE>来ちゃったようだね。<NEWLINE>ココット村という所から<NEWLINE>遠路はるばるお湯を<NEWLINE>求めてやってきたわけ<NEWLINE>だけど、それどころじゃ<NEWLINE>ないみたいだね。
+2,伝説の古龍だって？<NEWLINE>ふ～ん。ボクも学問を<NEWLINE>ちょっとかじった事が<NEWLINE>あるけど、古龍という<NEWLINE>のは学者を悩ます厄介<NEWLINE>な存在みたいだよ。
+2,飛竜種や獣竜種みたいに<NEWLINE>はっきり分類できない、<NEWLINE>よくわからない<NEWLINE>モンスターたちで、<NEWLINE>そういう者達を便宜的に<NEWLINE>古龍と呼ぶらしいんだ。
+2,確かに、<NEWLINE>生態は謎な部分が<NEWLINE>多いみたいだね。<NEWLINE>そんなのに<NEWLINE>挑むだなんて、<NEWLINE>ハンターも大変だよね。
+0,え？　キミが挑むの？<NEWLINE>ふ～ん。そりゃすごい。<NEWLINE>まあ、相手も生き物<NEWLINE>だし、何とかならない<NEWLINE>事は無いかも…。<NEWLINE>ま、がんばってね！
+2,古龍かぁ…。<NEWLINE>飛竜種や獣竜種みたいに<NEWLINE>分類できない、<NEWLINE>よくわからん奴らを<NEWLINE>呼ぶために作られた<NEWLINE>言葉らしいけど…。
+2,確かに生態は、<NEWLINE>よくわからない事だらけ<NEWLINE>みたいだね。あんなの<NEWLINE>に挑むなんて、キミも<NEWLINE>大変だね。
+0,でも、相手も神や悪魔っ<NEWLINE>てわけじゃないからね。<NEWLINE>生き物だもんね。<NEWLINE>きっと何とかなる<NEWLINE>はずだよ。<NEWLINE>がんばってね。
+0,古龍は恐ろしい。<NEWLINE>でも生き物なのは<NEWLINE>確かだから、何とかなる<NEWLINE>かもしれないね。<NEWLINE>責任は取れないけど。

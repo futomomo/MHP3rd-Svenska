@@ -1,0 +1,6 @@
+0,ダミー
+1,ダミー
+0,ダミー
+2,ダミー
+0,その子、仕入れの時に<NEWLINE>ガーグァの荷車に<NEWLINE>潜り込んでこの村に<NEWLINE>来たようなの。<NEWLINE>私もお店があるから<NEWLINE>ずっと見てあげられない<NEWLINE>のよ。心配だわ…。
+0,まあ！<NEWLINE>あなたを飼い主として<NEWLINE>認めたみたいね！<NEWLINE>名前は、プーギーってい<NEWLINE>うの。きっとあなたと<NEWLINE>仲良くやれるわ！<NEWLINE>よろしくね！

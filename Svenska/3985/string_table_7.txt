@@ -1,0 +1,6 @@
+Basic Training - Hunting 1
+Slay 5 Jaggia
+Reward Zero<NEWLINE>Time Over
+Listen up, pal. This is your<NEWLINE>instructor. We're in the home<NEWLINE>stretch, Jaggia hunting. They<NEWLINE>may be small, but they still<NEWLINE>hurt, so be careful and don't<NEWLINE>get surrounded. Good hunting.
+Jaggia<NEWLINE>Jaggi
+Training Instructor

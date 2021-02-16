@@ -1,0 +1,12 @@
+2,あー、<NEWLINE>いいお湯だったわ。<NEWLINE>奮発して、<NEWLINE>遠くまで温泉にきて<NEWLINE>よかったわ～。
+2,ご飯は美味しいし、<NEWLINE>空気はいいし、<NEWLINE>景色もすごく素敵！<NEWLINE>その上、旦那は今も<NEWLINE>仕事してると思うと、<NEWLINE>いう事なしね！
+0,あなたも、温泉入りに<NEWLINE>来たの？<NEWLINE>よかったでしょ、<NEWLINE>ここの温泉！<NEWLINE>日頃の疲れが癒される<NEWLINE>って感じよ～。
+2,あーホント、いい<NEWLINE>お湯だったわ。<NEWLINE>一休みしたら、<NEWLINE>もうひとっ風呂浴びよう<NEWLINE>っと。
+0,…次は旦那も連れて<NEWLINE>来てあげようかな。<NEWLINE>あの人、働きっぱなし<NEWLINE>だもんね。
+2,ちょっと、聞いてよ！<NEWLINE>送迎のネコちゃんにね、<NEWLINE>村の温泉に、連れてきて<NEWLINE>もらったんだけど、<NEWLINE>その途中で毛むくじゃら<NEWLINE>の≪アオアシラ≫って<NEWLINE>モンスターが出たの。
+2,あんなモンスター、<NEWLINE>故郷のココットでも<NEWLINE>見たことないわ…。
+2,でね、驚いてギャーって<NEWLINE>叫んじゃったの。<NEWLINE>そしたら、アオアシラが<NEWLINE>驚いて、逃げてったの。<NEWLINE>ネコちゃんは、お客さん<NEWLINE>の声は音爆弾に匹敵する<NEWLINE>ニャとか感心してたわ。
+0,私の悲鳴ってそんなに<NEWLINE>すごいのかしら…。<NEWLINE>ハァ…、<NEWLINE>軽くショックだわ。
+2,私の叫び声に驚いて<NEWLINE>アオアシラが逃げ出す<NEWLINE>なんて…。ネコちゃんの<NEWLINE>いうように、私の悲鳴<NEWLINE>って音爆弾みたいに<NEWLINE>すごいのかしら。
+0,ハァ…、<NEWLINE>私の声がそんなにすごい<NEWLINE>なんて、軽くショック<NEWLINE>だわ…。
+0,ここの温泉はすごいわ。<NEWLINE>私の村にもあんな温泉が<NEWLINE>欲しいわ。

@@ -1,0 +1,164 @@
+<EMPTY STRING>
+Connect to download content?<NEWLINE><NEWLINE>~C02Please do not remove the media<NEWLINE>or turn off the power while downloading.~C00
+Currently, there are %s download<NEWLINE>Quests stored on the media.
+Currently, there are no download<NEWLINE>Quests stored on the media.
+引き継ぎを行うキャラクターをセーブした、<NEWLINE>『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>ゲームデータの入った記録メディアを入れて、<NEWLINE>~B00ボタンを押してください。
+キャラクターの引き継ぎを行いますか？
+『モンスターハンターポータブル ３ｒｄ』からの<NEWLINE>引き継ぎを中止しますか？
+引き継ぎするキャラクターを選んでください。
+このキャラクターを引き継ぎしますか？
+キャラクターを決定しました。<NEWLINE>この後の画面でキャラクターの設定を<NEWLINE>行ってください。
+~B00Next
+The following bonus content is<NEWLINE>currently stored on the media.
+There is no bonus content<NEWLINE>currently stored on the media.
+~C05Comrade Downloads × %s~C00
+~C05Title × %s~C00
+~C05Piggie's Fashion × %s~C00
+~C05Hot Spring Drinks × %s~C00
+~C05Farm Renovations [Mega BBQ Spit]~C00
+~C05Travelling Peddler's Wares~C00
+~C05Bonus Yukumo Points~C00
+『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>ゲームデータが見つかりました。<NEWLINE><NEWLINE>ゲームメニュー画面の≪ＮＥＷ ＧＡＭＥ≫から<NEWLINE>特典を受け取って<NEWLINE>『モンスターハンターポータブル ３ｒｄ』を<NEWLINE>プレイすることができます。
+『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>ゲームデータがありません。<NEWLINE>キャラクターをセーブしたゲームデータの入った<NEWLINE>記録メディアを入れてください。<NEWLINE>※『モンスターハンターポータブル ２ｎｄ Ｇ』、<NEWLINE>　『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>　特典を受け取る場合は、ゲームメニュー画面で<NEWLINE>　《ＮＥＷ　ＧＡＭＥ》を選択してください。
+ゲームを開始しますか？<NEWLINE><NEWLINE>※続けてメディアインストール用のインストールデータを<NEWLINE>　セーブする場合は、《いいえ》を選択して、<NEWLINE>　ゲームメニュー画面の《MEDIA INSTALL》を<NEWLINE>　選択してください。
+＜メディアインストールについて＞<NEWLINE><NEWLINE>記録メディアにデータの一部を<NEWLINE>≪インストールデータ≫としてセーブし、<NEWLINE>インストールデータを利用することで、<NEWLINE>ロード時間を短縮する機能<NEWLINE>≪メディアインストール≫を使用できます。
+インストールデータをセーブするには<NEWLINE>~A01ＭＢ以上必要です。<NEWLINE><NEWLINE>※１ＧＢ以上の記録メディアでないと<NEWLINE>空き容量が足りないため、セーブできません。<NEWLINE><NEWLINE>※ゲームデータをセーブするには<NEWLINE>~A00ＫＢ以上が別途必要です。
+集めた武具やアイテムなどのセーブを行い、<NEWLINE>メディアインストールの機能も使用するには、<NEWLINE>ゲームデータとインストールデータを、<NEWLINE>同じ記録メディアにセーブしておく<NEWLINE>必要があります。<NEWLINE><NEWLINE>※インストールデータをセーブした記録メディアに、<NEWLINE>後からゲームデータをコピーすることもできます。
+<NEWLINE>インストールデータをセーブしますか？<NEWLINE><NEWLINE><NEWLINE>※セーブには10分程度かかります。<NEWLINE>※十分に充電するか、ACアダプターを使用して<NEWLINE>セーブを行うことをお勧めします。
+インストールデータをセーブするには<NEWLINE>~A01以上必要です。<NEWLINE>他のデータを削除して、<NEWLINE>空き容量を確保しますか?
+メディアインストールの機能を有効にするためには、<NEWLINE>オプションの≪メディアインストール≫を<NEWLINE>≪ＯＮ≫に設定する必要があります。<NEWLINE><NEWLINE>メディアインストールの機能を≪ＯＮ≫に設定しました。
+インストールデータのロード中には、<NEWLINE>メモリースティック~B10 アクセスランプが<NEWLINE>点滅しますので、<NEWLINE>その間は記録メディアを抜かないでください。
+(Unused)
+すでにインストールデータが存在します。<NEWLINE>上書きしてよろしいですか？
+１ＧＢ以上の記録メディアではない場合、<NEWLINE>空き容量が足りないため、この後の選択削除機能で<NEWLINE>他のデータをすべて削除してもセーブできません。
+インストールデータをセーブするには<NEWLINE>~A01ＭＢ以上必要です。<NEWLINE>他のデータを削除して、<NEWLINE>空き容量を確保しますか?
+中止
+インストールデータのセーブを中止しますか？<NEWLINE>※中止すると、インストールデータは正しく使用できません。
+Create new character
+Import save data from<NEWLINE>Monster Hunter Portable 2nd G or<NEWLINE>MH Diary: Poka Poka Airou Village
+Import character from<NEWLINE>Monster Hunter Portable 3rd
+引き継ぎしたキャラクターを<NEWLINE>『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>ゲームデータにセーブします。<NEWLINE>セーブに使用する記録メディアを入れて、<NEWLINE>~B00ボタンを押してください。<NEWLINE><NEWLINE>※ゲームデータをセーブするには<NEWLINE>~A00ＫＢ以上必要です。
+『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>キャラクターの以下のデータを引き継いで<NEWLINE>新たにプレイを始めることができます。<NEWLINE><NEWLINE>※引き継ぎを行っても、元のデータは消去されたりせず、<NEWLINE>そのまま残ります。
+●性別や名前などは、新しく設定することができます。<NEWLINE><NEWLINE>●武器・防具は、お金≪ゼニー≫に変換されます。<NEWLINE><NEWLINE>●レア度１から３のアイテムは、引き継ぐことができます。<NEWLINE>※引き継ぎできないアイテムは、お金≪ゼニー≫に<NEWLINE>　変換されます。<NEWLINE>※モンスターリストは、初期状態になります。
+●所持していたお金≪ゼニー≫に、アイテムと武器・防具を<NEWLINE>　変換して得た金額を足して、その一部を引き継ぐことが<NEWLINE>　できます。
+引き継ぎを行うキャラクターをセーブした、<NEWLINE>『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>ゲームデータの入った記録メディアを入れて、<NEWLINE>~B00ボタンを押してください。
+『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>ゲームデータがありません。<NEWLINE>キャラクターをセーブしたゲームデータの入った<NEWLINE>記録メディアを入れてください。
+『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>ゲームデータが壊れています。
+『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>キャラクターデータがありません。<NEWLINE>キャラクターをセーブしたゲームデータの入った<NEWLINE>記録メディアを入れてください。
+『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>ゲームデータがありません。<NEWLINE>キャラクターをセーブしたゲームデータの入った<NEWLINE>記録メディアを入れてください。
+『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>ゲームデータが壊れています。
+『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>キャラクターデータがありません。<NEWLINE>キャラクターをセーブしたゲームデータの入った<NEWLINE>記録メディアを入れてください。
+<NEWLINE>Installation complete.
+Saving...<NEWLINE><NEWLINE>Please do not remove the media.
+%sの%s
+『モンスターハンターポータブル ２ｎｄ Ｇ』、<NEWLINE>『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>ゲームデータ（セーブデータ）を参照することで、<NEWLINE>『モンスターハンターポータブル ３ｒｄ』の<NEWLINE>特典を受け取ってプレイできます。<NEWLINE><NEWLINE>※特典を受け取っても、元のデータは消去されたりせず、<NEWLINE>そのまま残ります。
+『モンスターハンターポータブル ２ｎｄ Ｇ』の特典
+~C05《データ参照の特典》~C00<NEWLINE>●勲章【２ｎｄＧの狩りの証】が追加されます。<NEWLINE>　『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>　プレイ時間、クリアしたクエスト数、<NEWLINE>　武器の使用回数を記録します。
+~C05《その他の特典》~C00<NEWLINE>●特別なオトモをネコバァから雇用できるようになります。<NEWLINE>●プーギーの服【マフモフウォーマー】を入手できます。<NEWLINE>●称号【ポッケ】を入手できます。<NEWLINE>●オトモ装備【マフモフネコフード】を入手できます。<NEWLINE>●オトモ装備【マフモフネココート】を入手できます。
+『モンハン日記 ぽかぽかアイルー村』の特典
+●称号【ぽかぽか】を入手できます。<NEWLINE>●オトモ装備【ぽかぽかネコマスク】を入手できます。<NEWLINE>●オトモ装備【ぽかぽかネコベスト】を入手できます。
+特典を受け取るデータを選択してください。
+『モンスターハンターポータブル ２ｎｄ Ｇ』の特典受け取り
+『モンハン日記 ぽかぽかアイルー村』の特典受け取り
+特典の受け取りを終了してコンバートする
+特典を受け取らずコンバートする
+特典の受け取りを終了してキャラクターメイキングする
+特典を受け取らずもどる
+『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>特典の受け取りを中止しますか？
+データを参照するキャラクターを選んでください。
+このキャラクターを参照しますか？
+参照するキャラクターを決定しました。<NEWLINE><NEWLINE>『モンスターハンターポータブル ２ｎｄ Ｇ』の<NEWLINE>特典を受け取りました。
+『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>ゲームデータの入った記録メディアを入れて、<NEWLINE>~B00ボタンを押してください。
+『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>ゲームデータが見つかりました。<NEWLINE><NEWLINE>『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>特典を受け取りました。
+『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>特典の受け取りを中止しますか？
+『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>ゲームデータがありません。<NEWLINE>ゲームデータの入った記録メディアを入れてください。
+を受け取りました。<NEWLINE><NEWLINE>ゲームを開始します。
+受け取った特典を破棄して<NEWLINE>特典の受け取りを終了しますか？
+特典を受け取らず<NEWLINE>キャラクター作成に進みます。
+　Yes　　　No　
+ロードせずに先へ進みます。<NEWLINE>よろしいですか？
+Currently, there are no bonus<NEWLINE>Felynes stored on the media.
+Currently, there are %s bonus<NEWLINE>Felynes stored on the media.
+Checking download quest data.<NEWLINE><NEWLINE>Checking the media.<NEWLINE><NEWLINE>Please do not remove the media.
+Checking game data.<NEWLINE><NEWLINE>Checking the media.<NEWLINE><NEWLINE>Please do not remove the media.
+『モンスターハンターポータブル ３ｒｄ』から引き継ぎ
+『モンハン日記 ぽかぽかアイルー村』の<NEWLINE>ゲームデータが見つかりました。<NEWLINE><NEWLINE>ゲームメニュー画面の≪ＮＥＷ ＧＡＭＥ≫から<NEWLINE>特典を受け取って<NEWLINE>『モンスターハンターポータブル ３ｒｄ』を<NEWLINE>プレイすることができます。
+Select a name for your character.<NEWLINE>~C02Up to 6 full-width or 12 half-width letters are allowed.~C00
+Select a gender for your character.
+Select clothing for your character.
+Select a hairstyle for your character.
+Select a face for your character.
+Select a skin color for your character.
+Select a voice for your character.
+Confirm your character selection.
+Male character sets.
+Female character sets.
+Select a color for your clothes.
+Select a hair color for your character.
+Select facial features for your character.<NEWLINE>The color of some features can be changed,
+Select a color for your character's facial features.
+NAME
+SEX
+INNER
+HAIR
+FACE
+SKIN TONE
+VOICE
+DECIDE
+MALE
+FEMALE
+TYPE %2d
+Start with tutorial?
+%02d/%02d
+COLOR
+R %3d
+G %3d
+B %3d
+/%02d
+%2d
+PARTS1
+PARTS2
+ON
+OFF
+Match hair color
+Move
+Please enter a name.<NEWLINE>~B00~B01Back
+Name is in use.<NEWLINE>~B00~B01Back
+(Unused)
+Do you want to use this character?
+Do you want to quit character creation?
+Welcome to the world of Monster Hunter.
+Begin game without saving?
+Pleased to meet you!
+Welcome to the world of Monster Hunter.
+~B00
+~B01
+~B09
+Enter
+Back
+Selct
+Color Palette
+Color
+Voice Test
+~B08
+Zoom In
+~B02
+Zoom Out
+Set%s
+０
+１
+２
+３
+４
+５
+６
+７
+８
+９
+ＮＥＷ　ＧＡＭＥ
+ＣＯＮＴＩＮＵＥ
+ＯＰＴＩＯＮＳ
+ＤＯＷＮＬＯＡＤ
+ＭＥＤＩＡ ＩＮＳＴＡＬＬ
+This game contains scenes of
+violence and gore.

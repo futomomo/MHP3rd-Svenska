@@ -1,0 +1,85 @@
+2,いらっしゃい、<NEWLINE>湯治客かい？<NEWLINE>む、その目つき、物腰、<NEWLINE>ただ者じゃないな！<NEWLINE>怪しい奴！<NEWLINE>ちょっと待って<NEWLINE>もらおうか！
+2,ここはユクモ村。<NEWLINE>温泉が売りの、<NEWLINE>のどかで平和な村だ。<NEWLINE>ゆえに！　怪しい奴は<NEWLINE>通すわけにはいかねえ。<NEWLINE>このオイラの目が<NEWLINE>黒いうちはな！！
+2,たとえ、凶悪な<NEWLINE>相手だろうと！<NEWLINE>村の平和を守るため！　<NEWLINE>勇猛果敢に立ち向かう！<NEWLINE>泣く子も黙る<NEWLINE>ユクモの鬼門番といえば<NEWLINE>オイラのことよッ！
+2,……え？<NEWLINE>お前、この村の<NEWLINE>ハンターなの？<NEWLINE>オイラはお前なんて<NEWLINE>知らないぞ！！<NEWLINE>え？　来たばかり？<NEWLINE>……。
+0,…ならば、通ってよし！<NEWLINE>ほら、さっさと行った！<NEWLINE>オイラは門番の仕事で<NEWLINE>忙しいんだから！
+2,ん？<NEWLINE>なんだ、まだ用か？<NEWLINE>もう通っていいから。<NEWLINE>疑って悪かったな！<NEWLINE>早く行けって。<NEWLINE>オイラは見せ物<NEWLINE>じゃないんだ。
+0,お前も暇な奴だな～。<NEWLINE>オイラは、仕事で<NEWLINE>忙しいんだよ。<NEWLINE>この村の平和は<NEWLINE>オイラの腕にかかって<NEWLINE>いるんだからな。<NEWLINE>ま、お前もがんばれよ！
+2,いらっしゃい、<NEWLINE>湯治客かい？<NEWLINE>む、その目つき、物腰、<NEWLINE>ただ者じゃないな！<NEWLINE>怪しい奴！<NEWLINE>ちょっと待って<NEWLINE>もらおうか！
+2,ここはユクモ村。<NEWLINE>温泉が売りの、<NEWLINE>のどかで平和な村だ。<NEWLINE>ゆえに！　怪しい奴は<NEWLINE>通すわけにはいかねえ。<NEWLINE>このオイラの目が<NEWLINE>黒いうちはな！！
+2,たとえ、凶悪な<NEWLINE>相手だろうと！<NEWLINE>村の平和を守るため！　<NEWLINE>勇猛果敢に立ち向かう！<NEWLINE>泣く子も黙る<NEWLINE>ユクモの鬼門番といえば<NEWLINE>オイラのことよッ！
+2,……え？<NEWLINE>お前、この村の<NEWLINE>ハンターなの？<NEWLINE>オイラはお前なんて<NEWLINE>知らないぞ！！<NEWLINE>え？　来たばかり？<NEWLINE>……。
+0,…ならば、通ってよし！<NEWLINE>ほら、さっさと行った！<NEWLINE>オイラは門番の仕事で<NEWLINE>忙しいんだから！
+2,ん？<NEWLINE>なんだ、まだ用か？<NEWLINE>もう通っていいから。<NEWLINE>疑って悪かったな！<NEWLINE>早く行けって。<NEWLINE>オイラは見せ物<NEWLINE>じゃないんだ。
+0,お前も暇な奴だな～。<NEWLINE>オイラは、仕事で<NEWLINE>忙しいんだよ。<NEWLINE>この村の平和は<NEWLINE>オイラの腕にかかって<NEWLINE>いるんだからな。<NEWLINE>ま、お前もがんばれよ！
+2,ちょっと聞いてくれよ。<NEWLINE>お袋が≪ガーグァ≫を<NEWLINE>見て、こう言うんだ。<NEWLINE>あんたもあれくらい<NEWLINE>働いてくれればね、<NEWLINE>って。
+2,確かにガーグァは、<NEWLINE>作物を荒らす害虫を<NEWLINE>食べたり、重い荷を<NEWLINE>引いたり、よく働くよ。<NEWLINE>でもオイラだって<NEWLINE>働いてるんだ。<NEWLINE>わかってないよな～。
+2,オイラはユクモの<NEWLINE>鬼門番。ここで怪しい<NEWLINE>奴が入ってこないか<NEWLINE>見張ってるんだ。<NEWLINE>この村の平和はオイラの<NEWLINE>おかげよ？　てか家畜と<NEWLINE>比べるか普通！
+0,ほんと、<NEWLINE>わかってないな～。<NEWLINE>わかってないよ大人は！<NEWLINE>そんな大人ばかりで、<NEWLINE>オイラは心配だよ！<NEWLINE>この村の将来がね！
+2,え？<NEWLINE>自分の将来の事<NEWLINE>は心配していないのか<NEWLINE>だって？　
+0,何を言っているのか<NEWLINE>わからないな。<NEWLINE>一体このオイラの<NEWLINE>どこに将来を心配する<NEWLINE>要素があるというんだ？
+2,うっ。くっそ。<NEWLINE>親父め…。大変な仕事を<NEWLINE>おしつけやがって。<NEWLINE>おかげで筋肉痛だぜ…。<NEWLINE>木材の伐採なんて、<NEWLINE>知的なオイラには<NEWLINE>向いてないんだよ。
+2,温泉宿をやってる親父は<NEWLINE>秘湯の開拓に熱心でよ。<NEWLINE>秘湯を見つけては、<NEWLINE>木を伐採し、<NEWLINE>新しい湯殿を<NEWLINE>作らせてるんだ。
+2,でも、この辺の木は、<NEWLINE>お前らハンターの武器や<NEWLINE>防具にも使われるくらい<NEWLINE>頑丈でよ。<NEWLINE>そのせいで、切り倒す<NEWLINE>のも一苦労なんだぜ。<NEWLINE>あいたたた…。
+0,オヤジはオイラに家業を<NEWLINE>継がせる気なんだ…。<NEWLINE>でも、オイラは家業を<NEWLINE>継ぐなんてゴメンだね！<NEWLINE>オイラは世界で羽ばたく<NEWLINE>大器。この村はいつか<NEWLINE>出て行くんだいッ！
+2,この辺の木の頑丈さは<NEWLINE>半端じゃないんだぜ。<NEWLINE>ハンターの武具に木材を<NEWLINE>使うなんて、他では<NEWLINE>あまり聞かないだろ？
+0,おかげで、木を切り出す<NEWLINE>のも一苦労だぜ。<NEWLINE>親父め、木の伐採なんか<NEWLINE>やらせて、何か企んでる<NEWLINE>のか。やはり、家業を<NEWLINE>継がせるつもりか！
+2,オイラは一日中こんな<NEWLINE>ところに腰掛けているが<NEWLINE>ちゃんと色々考えて<NEWLINE>いるんだぞ。<NEWLINE>村の将来の事とか、<NEWLINE>天気の事とか、<NEWLINE>今晩の夕飯の事とか。
+2,…それだけじゃない。<NEWLINE>今話題の<NEWLINE>ジンオウガの事だって<NEWLINE>調べたんだぞ。
+2,ジンオウガは≪雷光虫≫<NEWLINE>を身体で飼ってるんだ。<NEWLINE>共生というらしいぜ。<NEWLINE>奴はな、雷光虫を使って<NEWLINE>放電能力を高めてる<NEWLINE>らしいんだよ。
+2,雷光虫もジンオウガの<NEWLINE>まわりだと活性化して<NEWLINE>青白く輝くらしいんだ。<NEWLINE>…ふっふっふ。<NEWLINE>どうだ？<NEWLINE>よく調べてるだろう？<NEWLINE>感心しただろう？
+0,実はな、オイラ、<NEWLINE>ハンターになる事に<NEWLINE>したんだ。ジンオウガを<NEWLINE>倒して、親父やお袋を<NEWLINE>見返してやるんだ。<NEWLINE>待ってろジンオウガ！<NEWLINE>ユクモの鬼門番が行く！
+2,ジンオウガは≪雷光虫≫<NEWLINE>と共生関係にあるんだ。<NEWLINE>奴は雷光虫を使って、<NEWLINE>電気を一気にためるんだ<NEWLINE>そうだ。
+2,雷光虫もジンオウガの<NEWLINE>まわりだと活性化するん<NEWLINE>だぞ。青白く輝くんだ。<NEWLINE>ふふふ。よく調べてる<NEWLINE>だろう？
+0,オイラはハンターに<NEWLINE>なってジンオウガを<NEWLINE>倒すんだ。そうすれば、<NEWLINE>親父やお袋もオイラの<NEWLINE>事を認めざるを得ない<NEWLINE>だろうからな！
+2,な、何い～？<NEWLINE>ジンオウガを倒した<NEWLINE>だと～？　そ、そうか。<NEWLINE>ついにやっちまったか。<NEWLINE>さ、さすがはオイラが<NEWLINE>ライバルと認めた奴だ。
+2,…フッ。<NEWLINE>こうなると、オイラは<NEWLINE>ハンターになる必要<NEWLINE>もなさそうだな。<NEWLINE>オイラがジンオウガを<NEWLINE>倒すつもりだった<NEWLINE>のだが。残念だ…。
+2,お天道さんが、オイラに<NEWLINE>門番を続けろと言ってる<NEWLINE>のかもしれないな。<NEWLINE>お袋は門番など不要、<NEWLINE>ちゃんと働けと言うけど<NEWLINE>お天道さんがやれと言う<NEWLINE>んじゃ仕方ねえ…。
+2,お袋達が認めなくても、<NEWLINE>お天道様がオイラの事を<NEWLINE>認めてくれてる。<NEWLINE>それだけで、充分じゃあ<NEWLINE>ねえか。ユクモの鬼門番<NEWLINE>は世界に必要とされてる<NEWLINE>ようだな！
+0,そんなわけだから、<NEWLINE>まあこの村の平和は<NEWLINE>オイラに任せて、<NEWLINE>お前は安心して狩りに<NEWLINE>行ってきなッ！
+2,まさか、オイラより<NEWLINE>先にジンオウガを倒して<NEWLINE>しまうとはな！<NEWLINE>オイラのライバルとは<NEWLINE>いえ、そこまでの実力を<NEWLINE>持っていたとは<NEWLINE>見直したぞ！
+2,こうなったら、オイラも<NEWLINE>ハンターになる必要は<NEWLINE>なさそうだな。<NEWLINE>どうやらオイラ、<NEWLINE>とことん、門番の仕事を<NEWLINE>やる星のもとに生まれた<NEWLINE>ようだぜ。
+0,お袋達にオイラの実力を<NEWLINE>示せねえのは悔しいが、<NEWLINE>そいつが運命ならば、<NEWLINE>オイラは黙って受け<NEWLINE>入れるぜ。それは<NEWLINE>天がオイラに与えた<NEWLINE>使命なのだから…。
+2,ギルドの方で、<NEWLINE>峯山龍を追う<NEWLINE>≪撃龍船≫に乗り込む<NEWLINE>ハンターを<NEWLINE>募集しているらしいぜ。
+2,峯山龍というのは、<NEWLINE>砂の海を泳ぐ巨大な<NEWLINE>古龍らしい。<NEWLINE>見上げるほどにでかい、<NEWLINE>とんでもない奴<NEWLINE>みたいだぜ。
+2,ハンター達は奴の背中に<NEWLINE>飛び乗って、ピッケルで<NEWLINE>採掘を行うんだと。<NEWLINE>背中から採掘ができる<NEWLINE>なんて、何だか気前の<NEWLINE>いい古龍だよな。お前も<NEWLINE>採掘してみたらどうだ？
+2,でも、古龍ってのは<NEWLINE>天災みたいなもので、<NEWLINE>恐ろしい連中らしいぜ。<NEWLINE>もし、そんな奴らが<NEWLINE>この村に来たら<NEWLINE>ひとたまりもないな！
+0,まあ、この村には<NEWLINE>ユクモの鬼門番である<NEWLINE>オイラがいるから、<NEWLINE>古龍も怖くて近づかない<NEWLINE>だろうがな！<NEWLINE>はっはっは！
+2,ハンター達は、峯山龍の<NEWLINE>背中に飛び乗って、<NEWLINE>ピッケルを振るい、<NEWLINE>採掘をするそうだ。<NEWLINE>奴は背中にお宝を<NEWLINE>担いでるからな。
+0,ずいぶんと景気のいい<NEWLINE>話だよな。<NEWLINE>お前もハンターなら、<NEWLINE>ピッケルを持って、<NEWLINE>峯山龍を追いかけて<NEWLINE>みたらどうだ？
+2,ところでお前、<NEWLINE>この村のあちこちで、<NEWLINE>赤い色が使われてる<NEWLINE>ことには気付いたか？<NEWLINE>赤色はな、この村で<NEWLINE>災いを退ける効果が<NEWLINE>あると言われてるんだ。
+2,お前の使ってる<NEWLINE>武器や防具にも、<NEWLINE>赤い素材を使ってる<NEWLINE>ことがあるだろ？<NEWLINE>あれも災いを<NEWLINE>よせつけないための<NEWLINE>願掛けなんだぜ。
+2,といっても、あれは<NEWLINE>おまじないだからな。<NEWLINE>迷信みたいなもんだ。<NEWLINE>スキルが身につくとか、<NEWLINE>防御力が上がるとかは<NEWLINE>無いから期待するなよ。
+0,まあ、そもそも<NEWLINE>泣く子も黙る<NEWLINE>ユクモの鬼門番である<NEWLINE>オイラには、おまじない<NEWLINE>など必要ないがな！<NEWLINE>はっはっは！
+2,赤色はな、この村で<NEWLINE>災いを退ける効果が<NEWLINE>あると言われてるんだ。
+0,武器や防具の、赤い素材<NEWLINE>も災いをよせつけない<NEWLINE>ための願掛けなんだぜ。<NEWLINE>まあ、迷信なので、<NEWLINE>スキルが身につくとか、<NEWLINE>防御力が上がるとかは<NEWLINE>ないけどな。
+2,上位ハンターになって<NEWLINE>活躍してるらしいな！<NEWLINE>だが、最近はあの<NEWLINE>ジンオウガを２頭同時に<NEWLINE>見かけたという話も<NEWLINE>聞くぜ。
+2,１頭でも、村を<NEWLINE>あれだけ騒がせた<NEWLINE>ジンオウガが２頭だぞ！<NEWLINE>厄介だが、お前の所に<NEWLINE>依頼が来るかもな。<NEWLINE>ギルドの方でもお前は<NEWLINE>大評判のようだし。
+2,…何だかお前、最近<NEWLINE>やたらと活躍してるな。<NEWLINE>評判もうなぎ登りだし。<NEWLINE>この村に来た頃は<NEWLINE>駆け出しだったのに。<NEWLINE>何でお前だけ…。
+0,う、うらやましくなんて<NEWLINE>ないぞ！<NEWLINE>オイラは泣く子も黙る<NEWLINE>ユクモの鬼門番！<NEWLINE>親は色々うるさいが、<NEWLINE>オイラはオイラの道を<NEWLINE>行くのさ！
+2,ジンオウガを２頭同時に<NEWLINE>見かけたという話が<NEWLINE>最近あるらしい。<NEWLINE>評判がうなぎ登りの<NEWLINE>お前なら、依頼が<NEWLINE>来るかも知れないな。
+0,ジンオウガが２頭だ<NEWLINE>なんて、クエスト依頼が<NEWLINE>来たら、いくらお前でも<NEWLINE>苦労するかもな。<NEWLINE>まあ、がんばれよ！
+2,う～、なんてこった。<NEWLINE>大変な事になったぞ。<NEWLINE>渓流の奥深くにある<NEWLINE>≪霊峰≫に、秘湯を<NEWLINE>探しに行った親父が、<NEWLINE>嵐に巻き込まれて怪我<NEWLINE>しちまったんだよ！
+2,…信じられねえような<NEWLINE>大嵐だったらしい。<NEWLINE>親父は奇跡的に<NEWLINE>軽い怪我で済んだが、<NEWLINE>この時期に大嵐なんて、<NEWLINE>どうなってるんだ？
+2,怪我は治るだろうが、<NEWLINE>親父も結構な歳だ。<NEWLINE>もし山に行って、また<NEWLINE>こんな事になったら…。<NEWLINE>代々続く温泉宿を<NEWLINE>大きくするためとは<NEWLINE>いえ、無理しすぎだぜ。
+0,お袋はこれを<NEWLINE>機会に宿を継ぎ、<NEWLINE>働けとオイラに<NEWLINE>せまるが…。<NEWLINE>ぐぐぐ、ついに<NEWLINE>この時が来たのか…。
+2,≪霊峰≫まで秘湯を<NEWLINE>探しにいって、大嵐に<NEWLINE>まきこまれるなんて。<NEWLINE>親父も無茶しやがって！<NEWLINE>いくら宿を大きくする<NEWLINE>ためだからって…。
+2,あの親父、<NEWLINE>放っておいたら、<NEWLINE>また山の奥まで秘湯を<NEWLINE>探しにいくぜ。<NEWLINE>大怪我したら<NEWLINE>どうするんだよ！
+0,これを機会に宿を<NEWLINE>継げというお袋の言い<NEWLINE>分はもっともだが…。<NEWLINE>…うぐぐ。<NEWLINE>まずい、<NEWLINE>まずい展開だぞこれは。
+2,村で話題になっている<NEWLINE>古龍のことだが、<NEWLINE>あれは昔からこの辺に<NEWLINE>棲んでるんだよ。<NEWLINE>じいちゃんがよく<NEWLINE>昔話をしてくれてさ。
+2,当時は単なる伝説だと<NEWLINE>思ってたが、じいちゃん<NEWLINE>の言ってた事は<NEWLINE>本当だったんだな。<NEWLINE>龍の連れてきた嵐に<NEWLINE>巻き込まれて村がムチャ<NEWLINE>クチャになったって話。
+2,親父に怪我をさせたのも<NEWLINE>その古龍だったんだな。<NEWLINE>それに、もしあの古龍が<NEWLINE>また村へ向かって来たら<NEWLINE>村はひとたまりもねえ。<NEWLINE>…そうなる前に、<NEWLINE>何とかしねえと！
+2,…また、お前に<NEWLINE>頼るしかねえのか。<NEWLINE>…くっ！<NEWLINE>こんな時に、オイラは<NEWLINE>人に頼ってばかりか！
+0,…お前、行くんだろ？<NEWLINE>霊峰に…。絶対に戻って<NEWLINE>こいよ。別に心配して<NEWLINE>いるわけじゃねえ！<NEWLINE>借りを作ったままに<NEWLINE>しとくのは嫌だからな！<NEWLINE>だから、帰ってこい！
+2,じいちゃんが昔よく<NEWLINE>話してくれたんだ。<NEWLINE>≪霊峰≫に棲む、<NEWLINE>嵐の化身の話。<NEWLINE>そんな奴が<NEWLINE>実在したなんて…。
+2,伝説では、昔渓流に<NEWLINE>あった村は、その龍が<NEWLINE>連れてきた大嵐に<NEWLINE>飲み込まれちまった<NEWLINE>らしい。<NEWLINE>もし、またそんな事に<NEWLINE>なったら…。
+0,お前が霊峰に向かうなら<NEWLINE>お前に頼るしかねえ。<NEWLINE>…だが、帰って来いよ！<NEWLINE>絶対にだ！
+2,お前！<NEWLINE>無事に帰って来たのか！<NEWLINE>…そうか。<NEWLINE>まあ、お前なら<NEWLINE>出来るって思ってたぜ。<NEWLINE>オイラがライバルと<NEWLINE>認めた奴だからな！
+2,…そうだ。お前には<NEWLINE>一応報告しておくか。<NEWLINE>実はよ、オイラ、<NEWLINE>今回のことで、<NEWLINE>親の家業の温泉宿を<NEWLINE>継いでもいいかなって<NEWLINE>思い始めてよ。
+2,別にお前の活躍を見て、<NEWLINE>オイラも村に貢献したい<NEWLINE>とか、お前が本気で<NEWLINE>救おうと思ったこの村も<NEWLINE>案外悪いもんじゃない<NEWLINE>とか思ったからじゃ<NEWLINE>ねえからな！
+2,…で、家業を手伝う上で<NEWLINE>オイラの能力を最大限に<NEWLINE>発揮できる仕事は何かと<NEWLINE>考えたんだ。そして、<NEWLINE>オイラは思いついた！<NEWLINE>オイラに最適な仕事、<NEWLINE>それは！！
+2,ここを通る湯治客を<NEWLINE>宿に呼び込む仕事だ！<NEWLINE>オイラの門番としての<NEWLINE>経験を生かした、<NEWLINE>オイラにうってつけの<NEWLINE>仕事だろ？<NEWLINE>大繁盛間違いなしだ！
+0,ってわけで、<NEWLINE>これからは<NEWLINE>ユクモの鬼門番兼、<NEWLINE>ユクモの名呼込み<NEWLINE>になるから、<NEWLINE>これからもよろしくな！
+2,さ～て、忙しくなるぞ！<NEWLINE>門番と呼込みの兼業<NEWLINE>だからな！<NEWLINE>よ～し、<NEWLINE>何から始めるかなあ。<NEWLINE>………。
+0,…う～ん。<NEWLINE>とりあえず、<NEWLINE>ここに座って客でも<NEWLINE>待ってるか。<NEWLINE>動き回ると疲れ…、<NEWLINE>じゃなくて門番の仕事が<NEWLINE>おろそかになるしな。
+0,あぁ。腹減った。<NEWLINE>腹が減りすぎて<NEWLINE>背中とお腹がくっつき<NEWLINE>そうだぜ。

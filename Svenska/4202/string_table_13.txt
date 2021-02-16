@@ -1,0 +1,28 @@
+2,ニャニャ！<NEWLINE>あ、あなたはボクが<NEWLINE>この村に送り届けた<NEWLINE>ハンターさんだニャ？<NEWLINE>元気なようで<NEWLINE>よかったニャ。
+2,ジンオウガに襲われた時<NEWLINE>はビックリしたニャ。<NEWLINE>でも無事でよかった<NEWLINE>ニャ。最近はジンオウガ<NEWLINE>が渓流に棲み着いて<NEWLINE>しまってお客様を届ける<NEWLINE>時もドキドキするニャ。
+0,それにしても、<NEWLINE>お客様、見事な<NEWLINE>身のこなしだったニャ。<NEWLINE>お客様なら、ジンオウガ<NEWLINE>を何とかしてくれるかも<NEWLINE>しれないニャ。<NEWLINE>よろしく頼むニャ！
+2,ニャ！　ニャ！　ニャ！<NEWLINE>秘湯を巡るかわいい<NEWLINE>ネコの送迎サービスは<NEWLINE>いかがですニャ！<NEWLINE>今ならサービス期間中！<NEWLINE>料金半額に<NEWLINE>なりますニャ～！
+2,……ニャ！？<NEWLINE>ニャんだ。<NEWLINE>ハンターさんかニャ。<NEWLINE>お客様だと思ったニャ。<NEWLINE>これは失礼したニャ。
+0,ニャニャ～…。<NEWLINE>困ったニャ～。<NEWLINE>ジンオウガが渓流に棲み<NEWLINE>着いたせいで、お客様が<NEWLINE>減ってしまったニャ～。<NEWLINE>営業がんばらないと<NEWLINE>お仕事がないニャ～！
+2,お客様が減って<NEWLINE>しまったニャ～。<NEWLINE>…どうしたらいいニャ。<NEWLINE>やっぱり、ハンターさん<NEWLINE>にがんばってもらうしか<NEWLINE>ないニャ。
+0,ニャニャ。<NEWLINE>オトモへの転職も<NEWLINE>考えた方がいいかも<NEWLINE>しれないニャ…。<NEWLINE>でも、モンスターは<NEWLINE>怖いニャ。<NEWLINE>ニャムム…。
+2,あ、ハンターさん。<NEWLINE>この事は内緒にして<NEWLINE>欲しいニャが…、<NEWLINE>実はさっき、お連れした<NEWLINE>新しいお客様が、<NEWLINE>何だか怪しいんだニャ。
+2,湯治目的で来たのに、<NEWLINE>温泉には入ろうと<NEWLINE>しないし、村の人々に<NEWLINE>色々と聞き回っている<NEWLINE>ようだし、あれは絶対に<NEWLINE>他の目的があるニャ。
+2,ボクは色々なお客様を<NEWLINE>相手にするから<NEWLINE>わかるけど、あれは<NEWLINE>素人じゃないニャ。<NEWLINE>あの隙のない物腰、<NEWLINE>ただ者じゃニャい…。
+0,何だか、不穏な空気<NEWLINE>だニャ。ネコの第六感が<NEWLINE>告げるニャ。この村で、<NEWLINE>何か…、何かが起ころ<NEWLINE>うとしているニャ。<NEWLINE>具体的に何かは<NEWLINE>わからニャいけど。
+2,ニャニャ。<NEWLINE>あのお客様、一体何を<NEWLINE>企んでいるんだニャ。<NEWLINE>もしかして何か悪巧みを<NEWLINE>しているのかニャ？<NEWLINE>こ、これは、事件の予感<NEWLINE>だニャ！
+0,ニャニャ。<NEWLINE>ジンオウガの被害が<NEWLINE>おさまったと思った矢先<NEWLINE>に事件の臭いだニャ…。<NEWLINE>臭うニャ臭うニャ！<NEWLINE>事件の臭いだニャー！
+2,ボクが連れてきた怪しい<NEWLINE>お客だけど、さっき<NEWLINE>その人が、真っ青な顔で<NEWLINE>山を降りてきたニャ。<NEWLINE>とんでもないものを<NEWLINE>見てしまったような<NEWLINE>顔だったニャ。
+2,そして、深刻そうな顔で<NEWLINE>村長と何かを話した後、<NEWLINE>村から離れた空き地へ<NEWLINE>入って行ったんだニャ。<NEWLINE>それを、ボクがこっそり<NEWLINE>と追いかけて行ったら…
+2,空き地に降り立った<NEWLINE>大きな飛行船の上で、<NEWLINE>仲間と何かを話していた<NEWLINE>んだニャ！　一体あの人<NEWLINE>は何者なんだニャ！　<NEWLINE>山で何を見たんだニャ！
+0,何か、<NEWLINE>何か大変な事が起ころう<NEWLINE>としているニャー！
+2,真っ青な顔をして、<NEWLINE>山から降りてきた<NEWLINE>例のお客様。<NEWLINE>一体、山の奥で<NEWLINE>何を見たのニャ…。
+2,こそこそ<NEWLINE>調べ回っていた事と<NEWLINE>関係があるのかニャ？　<NEWLINE>あの人は、何を<NEWLINE>調べていたんだニャ？　<NEWLINE>そもそも、あの人は<NEWLINE>一体何者なのニャ？
+0,ニャニャニャ！<NEWLINE>あと少しだニャ！<NEWLINE>あと少しで真相に<NEWLINE>たどり着けそうだニャ！<NEWLINE>だけど、あとひとつ、<NEWLINE>パズルのピースが<NEWLINE>足りニャいんだニャ…。
+2,ボクの推理どおり<NEWLINE>だったニャ。<NEWLINE>やっぱり、あの人は<NEWLINE>普通の人じゃ<NEWLINE>なかったんだニャ。<NEWLINE>ギルドから派遣された<NEWLINE>調査員だったニャ。
+2,霊峰の大嵐に潜む古龍を<NEWLINE>飛行船で観測に行った<NEWLINE>まま行方知れずになって<NEWLINE>いたらしいニャ。<NEWLINE>でも、ハンターさんの<NEWLINE>活躍のおかげで戻って<NEWLINE>これたようだニャ。
+2,任務の事は秘密にして<NEWLINE>お客として村に潜り込ん<NEWLINE>でいたらしいニャ。村人<NEWLINE>がパニックになるから<NEWLINE>ニャ。まあ、ボクの目は<NEWLINE>ごまかせなかった<NEWLINE>ようだけどニャ！
+0,無事、嵐も収まったので<NEWLINE>あの人も温泉でゆっくり<NEWLINE>するそうだニャ。<NEWLINE>ハンターさんも、<NEWLINE>この村でゆっくりして<NEWLINE>いくといいニャ！
+2,ボクの推理どおり<NEWLINE>だったニャ。<NEWLINE>やっぱり、あの人は<NEWLINE>普通の人じゃ<NEWLINE>なかったんだニャ。<NEWLINE>ギルドから派遣された<NEWLINE>調査員だったニャ。
+0,ニャニャ。それにしても<NEWLINE>あの人、船乗りの格好で<NEWLINE>来るなんて、すごい<NEWLINE>カモフラージュだニャ。<NEWLINE>鋭い第六感を持つボク<NEWLINE>じゃなければ、絶対に<NEWLINE>だまされていたニャ。
+0,ボクがお風呂に入った<NEWLINE>後は、湯船が毛だらけに<NEWLINE>なるらしいニャ。<NEWLINE>こっそり入ったら<NEWLINE>番台さんが怒っていた<NEWLINE>ニャ。ネコ差別だニャ。

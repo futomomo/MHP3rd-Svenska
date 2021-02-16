@@ -1,0 +1,4 @@
+2817.bin 391168
+string_table_0.txt
+string_table_1.txt
+enddata.bin

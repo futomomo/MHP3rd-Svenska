@@ -1,0 +1,31 @@
+0,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+0,You haven't forgetton<NEWLINE>anything, have you?<NEWLINE>We look forward to<NEWLINE>your patronage.<NEWLINE>Good hunting.<NEWLINE><NEWLINE><NEWLINE>
+2,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>Today, we are pleased<NEWLINE>to announce that we<NEWLINE>have several new items<NEWLINE>in stock.
+2,Hapurubokka Info and<NEWLINE>Jinouga Info are now<NEWLINE>in stock.<NEWLINE>Lately, we've received<NEWLINE>more and more reports<NEWLINE>of Jinouga wreaking<NEWLINE>havoc.
+2,Also, Powercharms and<NEWLINE>Armorcharms are now in<NEWLINE>stock. They increase<NEWLINE>your attack and<NEWLINE>defence just by being<NEWLINE>in your item pouch.
+2,No hunter can live<NEWLINE>without our new Book<NEWLINE>of Combos 3. Also now<NEWLINE>in stock is Cutter S,<NEWLINE>a special bullet that<NEWLINE>can cut monster tails.
+0,We at the Guild look<NEWLINE>forward to continuing<NEWLINE>to work with you.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>So you finally bested<NEWLINE>that Jinouga!<NEWLINE>The Guild also greatly<NEWLINE>appreciates your fine<NEWLINE>work.
+2,Today, we have the new<NEWLINE>Book of Combos 4 in<NEWLINE>stock. Please take<NEWLINE>this opportunity to<NEWLINE>make those difficult<NEWLINE>combinations work.
+2,Doboruberuku Info is<NEWLINE>also now in stock.<NEWLINE>This monster sports a<NEWLINE>giant, hammer-like<NEWLINE>tail... The Guild may<NEWLINE>soon request that<NEWLINE>you defeat one.
+0,We at the Guild look<NEWLINE>forward to continuing<NEWLINE>to work with you.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Store. Your<NEWLINE>recent work for the<NEWLINE>guild has earned you<NEWLINE>quite the reputation.
+2,Today we've a new book<NEWLINE>with Jhen Mohran Info.<NEWLINE>Known as the Mountain<NEWLINE>Dragon, this giant is<NEWLINE>is by far the largest<NEWLINE>known monster.
+2,We also now have the<NEWLINE>improved Recover S Lv2<NEWLINE>in stock, as well as<NEWLINE>Book of Combos 5, for<NEWLINE>maximum success with<NEWLINE>combinations.
+0,We at the Guild look<NEWLINE>forward to continuing<NEWLINE>to work with you. <NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>So, you're finally a<NEWLINE>High Rank Hunter.<NEWLINE>Congratulations.
+2,Now that you've been<NEWLINE>approved for High Rank<NEWLINE>quests, you will start<NEWLINE>facing much fiercer<NEWLINE>foes, like Deviljho,<NEWLINE>and also the various<NEWLINE>monster subspecies.
+2,Also, we now have the<NEWLINE>powerful Pellet S Lv3<NEWLINE>and Pierce S Lv 3 for<NEWLINE>you to purchase at<NEWLINE>your leisure.
+0,We at the Guild look<NEWLINE>forward to continuing<NEWLINE>to work with you. <NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>I heard you managed to<NEWLINE>successfully defeat<NEWLINE>that Jhen Mohran.<NEWLINE>We owe you our lives.
+2,We've now got new<NEWLINE>Amatsumagatsuchi Info<NEWLINE>in stock... sort of.<NEWLINE>Actually, it's mostly<NEWLINE>just rumors...
+2,Day after day we live<NEWLINE>in fear. <NEWLINE>Hopefully that monster<NEWLINE>is dealt with soon...<NEWLINE>Please check with us<NEWLINE>for some tips on how<NEWLINE>to fight it.
+0,Few have the skill to<NEWLINE>to stand against the<NEWLINE>Amatsumagatsuchi.<NEWLINE>The Guild has high<NEWLINE>hopes for you.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Guild.<NEWLINE>You've proven quite<NEWLINE>dependable, lately.<NEWLINE>Also, we also have new<NEWLINE>stock in today.
+2,We now have Ukanlos<NEWLINE>Info and Akanfor Info<NEWLINE>available for you.<NEWLINE>The Guild sure does<NEWLINE>seem to be expecting a<NEWLINE>lot from you.
+0,They are very powerful<NEWLINE>monsters, but by now<NEWLINE>you should be able to<NEWLINE>stand a chance.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.
+2,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>Have you heard?<NEWLINE>Thanks to your recent<NEWLINE>work, Yukumo Village<NEWLINE>is actually becoming<NEWLINE>quite famous.
+2,Starting today, we've<NEWLINE>got Enhance Stones for<NEWLINE>sale. Combine these to<NEWLINE>make Armor Spheres,<NEWLINE>which can upgrade your<NEWLINE>weapons and armor.
+2,In addition, we now<NEWLINE>have... believe it or<NEWLINE>not, Alatreon Info.<NEWLINE>Please take a look and<NEWLINE>see for yourself.
+0,It has been so long<NEWLINE>since we first met, <NEWLINE>and now you are a<NEWLINE>truly amazing Hunter.<NEWLINE>I will always be happy<NEWLINE>to help you prepare<NEWLINE>for dangerous hunts!
+0,Welcome to the Yukumo<NEWLINE>Hunters Store.<NEWLINE>Stock up on supplies<NEWLINE>before you head out.

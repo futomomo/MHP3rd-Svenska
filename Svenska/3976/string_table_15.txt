@@ -1,0 +1,6 @@
+Poison Rain
+Slay 20 Froggi
+Reward Zero<NEWLINE>Time Over
+火山にフロギィが多数出現した。<NEWLINE>その数の多さに、火山では今、<NEWLINE>毒液が雨のように降り注いでいる<NEWLINE>という。このままでは貴重な<NEWLINE>火山植物も危ないだろう。<NEWLINE>至急ヤツらの数を減らしてくれ！
+Great Froggi<NEWLINE>Froggi
+Avid Botanist

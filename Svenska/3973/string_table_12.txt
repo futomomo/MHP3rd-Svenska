@@ -1,0 +1,6 @@
+Froggi Poison
+Slay 10 Froggi
+Reward Zero<NEWLINE>Time Over
+僕僕らの村の近くにフロギィが<NEWLINE>棲み着いて大変なんだ！<NEWLINE>あいつの吐く毒液で作物も家畜も<NEWLINE>駄目にされてしまった…。<NEWLINE>フロギィを１０頭討伐して<NEWLINE>村を元通りにしてくれないか？
+Great Froggi<NEWLINE>Froggi
+Errand Boy

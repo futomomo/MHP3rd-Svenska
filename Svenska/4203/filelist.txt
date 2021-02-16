@@ -1,0 +1,10 @@
+4203.bin 71680
+17,string_table_0.txt
+18,string_table_1.txt
+19,string_table_2.txt
+20,string_table_3.txt
+21,string_table_4.txt
+22,string_table_5.txt
+23,string_table_6.txt
+99,string_table_7.txt
+enddata.bin

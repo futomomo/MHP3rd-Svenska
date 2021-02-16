@@ -1,0 +1,20 @@
+0,Hey! How are ya doing?<NEWLINE>Today I managed to get<NEWLINE>my hands on some rare<NEWLINE>herbs, as well as a<NEWLINE>bunch of mushrooms and<NEWLINE>fish. Take your time.
+0,Hey! How are ya doing?<NEWLINE>Today I've got some<NEWLINE>interesting medicines<NEWLINE>and a bunch of monster<NEWLINE>fangs. Just what you<NEWLINE>needed, right? Take<NEWLINE>your time.
+0,Hey! Doing alright?<NEWLINE>I'm overstocked today.<NEWLINE>Since I'm in such a<NEWLINE>good mood, I'm making<NEWLINE>everything half price!<NEWLINE>Take a good look.
+0,Hey! Doing alright?<NEWLINE>Today I've gotta whole<NEWLINE>bunch of useful stuff,<NEWLINE>and it's way cheaper<NEWLINE>than anywhere else.<NEWLINE>It's all half price!<NEWLINE>Take a good look.
+0,Hey! Nice weather, eh?<NEWLINE>I even made an extra<NEWLINE>2 or 3 trips over the<NEWLINE>mountain to stock up.<NEWLINE>Check it out.
+0,Aw, you heading off<NEWLINE>already? Well, see you<NEWLINE>later.
+2,Hey! Nice to meet ya,<NEWLINE>Hunter.<NEWLINE>I bet you're buggered<NEWLINE>from the long trip.<NEWLINE>Have you checked out<NEWLINE>the hot spring yet?
+2,I'm this village's<NEWLINE>travelling peddler.<NEWLINE>I trek over mountains<NEWLINE>and along valleys,<NEWLINE>buying and selling all<NEWLINE>sorts of stuff.
+2,I've got my own secret<NEWLINE>suppliers, so I've got<NEWLINE>different stock to the<NEWLINE>other shops.<NEWLINE>And sometimes I offer<NEWLINE>awesome discounts.
+0,Oh yeah, my stock will<NEWLINE>vary from day to day,<NEWLINE>just keep things fun.<NEWLINE>Anyway, you ever need<NEWLINE>anything, just gimme a<NEWLINE>holler.
+2,Hey! I heard you took<NEWLINE>down that Rathian.<NEWLINE>Nice job.
+2,Thanks to you, I can<NEWLINE>safely travel to the<NEWLINE>neighbouring villages<NEWLINE>again. Let me give you<NEWLINE>something as thanks.
+0,While you were away,<NEWLINE>I got something for ya<NEWLINE>in a distant village.<NEWLINE>They said you can make<NEWLINE>a rare weapon with it.
+2,Hey! I heard you took<NEWLINE>down the Doboruberuku.<NEWLINE>Nice job.
+2,Actually, that monster<NEWLINE>was giving me trouble,<NEWLINE>too. I'd run into him<NEWLINE>on supply runs, and,<NEWLINE>well... let's just say<NEWLINE>I'm glad he's gone.
+0,Right, while you were<NEWLINE>away, I got a little<NEWLINE>something for you in<NEWLINE>a distant village.<NEWLINE>They said you can make<NEWLINE>a rare Bowgun with it.
+2,Hey! So I heard you<NEWLINE>finally drove off that<NEWLINE>giant, Jhen Mohran.<NEWLINE>I knew you could do it.<NEWLINE>Great work.
+2,Man, I wish I was more<NEWLINE>like you, someone who<NEWLINE>goes full throttle, so<NEWLINE>I could drum up more<NEWLINE>business. No, really,<NEWLINE>I do.
+0,Anyway, while you were<NEWLINE>away, I got a little<NEWLINE>something for you in<NEWLINE>a distant village.<NEWLINE>They said you can make<NEWLINE>a rare Long Sword with<NEWLINE>it.
+0,Hey! Nice weather, eh?<NEWLINE>I even made an extra<NEWLINE>2 or 3 trips over the<NEWLINE>mountain to stock up.<NEWLINE>Check it out.

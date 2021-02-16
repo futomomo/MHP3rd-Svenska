@@ -1,0 +1,6 @@
+Slay the Lava Beasts
+Slay 8 Uroktor
+Reward Zero<NEWLINE>Time Over
+あのウロコトルってモンスター、<NEWLINE>私が火山で発掘しているのを<NEWLINE>邪魔してくるのよ！　熱いものを<NEWLINE>飛ばして来たり、地中から突撃<NEWLINE>してきたり！　おかげで研究が<NEWLINE>進まないわ！　何とかして頂戴！
+Rangurotora<NEWLINE>Uroktor
+Dull Researcher

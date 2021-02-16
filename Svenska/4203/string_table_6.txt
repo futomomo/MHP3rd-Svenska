@@ -1,0 +1,31 @@
+2,Ah, yer here, Master,<NEWLINE>welcome!<NEWLINE>Nya!<NEWLINE>The drinks I'm selling<NEWLINE>here are simply the<NEWLINE>cat's meow, nya!
+2,I got yer specialty<NEWLINE>drinks right here, at<NEWLINE>steaming hot purrices!<NEWLINE>Spring for hot drinks!<NEWLINE>Drink in a hot spring!<NEWLINE>Eh, Master! Nya!
+0,Now, Master,<NEWLINE>lap up one of these<NEWLINE>drinks, nya.
+2,Ah, yer here, Master,<NEWLINE>welcome!<NEWLINE>Nya!<NEWLINE>The drinks I'm selling<NEWLINE>here are simply the<NEWLINE>cat's meow, nya!
+0,Now, Master,<NEWLINE>lap up one of these<NEWLINE>drinks, nya.<NEWLINE>It's the purrfect day<NEWLINE>to treat yerself.
+0,Always have a drink<NEWLINE>here before ya scamper<NEWLINE>off on a quest, nya.
+0,Master, Master.<NEWLINE>If ya drink too much,<NEWLINE>yer stomach'll be as<NEWLINE>skittish as a kitten,<NEWLINE>nya.
+0,dummy
+0,dummy
+2,Ah, yer here, Master,<NEWLINE>welcome!<NEWLINE>Nya!<NEWLINE>The drinks I'm selling<NEWLINE>here are simply the<NEWLINE>cat's meow, nya.
+2,I got yer specialty<NEWLINE>drinks right here, at<NEWLINE>steaming hot purrices!<NEWLINE>Spring for hot drinks!<NEWLINE>Drink in a hot spring!<NEWLINE>Eh, Master! Nya!
+0,I got a huge variety<NEWLINE>of drinks, so stop by<NEWLINE>and whet yer whiskers,<NEWLINE>nya!
+0,Oh dear, Master, it's<NEWLINE>too bad, but I'm fresh<NEWLINE>outta materials at the<NEWLINE>moment, nya.<NEWLINE>Please swing by again<NEWLINE>when my shop is up and<NEWLINE>running, nya!
+2,Nyaha!<NEWLINE>Look, Master,<NEWLINE>I was able to purrfect<NEWLINE>a new drink fer ya,<NEWLINE>nya!
+0,Now, Master,<NEWLINE>you gotta try this new<NEWLINE>purroduct. You won't<NEWLINE>regret it, nya!
+0,Nyaha!!<NEWLINE>It's a hit!<NEWLINE>This is great!<NEWLINE>Master, the next one<NEWLINE>is on the house.
+0,Master! Master!<NEWLINE>Please take this token<NEWLINE>of my appurreciation<NEWLINE>for regularly visiting<NEWLINE>my Drink Stand, nya!
+2,Master! Master!<NEWLINE>Isn't the hot spring<NEWLINE>water just purrfect?<NEWLINE>It's the best in<NEWLINE>Yukumo Village, nya!
+2,...Nya!<NEWLINE>I set up a Drink Stand<NEWLINE>right here by the hot<NEWLINE>spring, nya. I also<NEWLINE>got a message to give<NEWLINE>you purrsonally!
+2,The Village Elder is<NEWLINE>waiting fer ya outside<NEWLINE>the building! Go see<NEWLINE>her after yer bath,<NEWLINE>nya.
+2,To get outta the hot<NEWLINE>spring, press the ~B03<NEWLINE>button! Then go up to<NEWLINE>the blind and press ~B03<NEWLINE>again to get dressed<NEWLINE>and see the rest of<NEWLINE>the hall, nya.
+2,You can leave the hall<NEWLINE>by going up to the<NEWLINE>exit and pressing ~B03!
+0,After ya get outside,<NEWLINE>the Village Elder is<NEWLINE>just down the stairs,<NEWLINE>nya.<NEWLINE>Get yer well-warmed<NEWLINE>tail down there, nya!
+2,The Village Elder is<NEWLINE>waiting fer ya outside<NEWLINE>the building! Go see<NEWLINE>her after yer bath,<NEWLINE>nya.
+2,Stand in front of the<NEWLINE>blind and press ~B03 to<NEWLINE>get dressed, nya.<NEWLINE>Go to the entrance of<NEWLINE>the building and press<NEWLINE>~B03 to leave, nya!
+0,After ya get outside,<NEWLINE>the Village Elder is<NEWLINE>just down the stairs,<NEWLINE>nya.
+2,The Village Elder is<NEWLINE>waiting fer ya outside<NEWLINE>the building! Go see<NEWLINE>her after yer bath,<NEWLINE>nya.
+2,Stand in front of the<NEWLINE>blind and press ~B03 to<NEWLINE>get dressed, nya.<NEWLINE>Go to the entrance of<NEWLINE>the building and press<NEWLINE>~B03 to leave, nya!
+0,After ya get outside,<NEWLINE>the Village Elder is<NEWLINE>just down the stairs,<NEWLINE>nya.
+2,I got yer specialty<NEWLINE>drinks right here, at<NEWLINE>steaming hot purrices!<NEWLINE>Spring for hot drinks!<NEWLINE>Drink in a hot spring!<NEWLINE>Eh, Master! Nya!
+0,Now, Master,<NEWLINE>lap up one of these<NEWLINE>drinks, nya.

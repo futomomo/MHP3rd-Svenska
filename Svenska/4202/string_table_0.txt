@@ -1,0 +1,153 @@
+2,For now, I've arranged<NEWLINE>some basic quests for<NEWLINE>you.<NEWLINE>Please take a look at<NEWLINE>the 1★ quests.
+2,Now, please choose a<NEWLINE>quest to undertake.
+1,There is a contract<NEWLINE>fee of $ｚ for this<NEWLINE>quest.<NEWLINE>Is this acceptable?
+0,Very well.<NEWLINE>I shall cancel your<NEWLINE>quest.
+0,To start your quest,<NEWLINE>head over the bridge<NEWLINE>on the right or down<NEWLINE>the stairs at the foot<NEWLINE>of the village and<NEWLINE>press the ~B03 button.<NEWLINE>Take care, now.
+1,Is there anything else<NEWLINE>you need?
+0,Oh, changed your mind?<NEWLINE>I understand.<NEWLINE>If you need anything<NEWLINE>at all, just come and<NEWLINE>see me.
+2,Ah, Hunter.<NEWLINE>I'm afraid you cannot<NEWLINE>afford the contract<NEWLINE>fee. So sorry.
+1,Ah, Hunter.<NEWLINE>Do you not wish to do<NEWLINE>this quest just yet?<NEWLINE>Shall I cancel it?
+1,This quest appears to<NEWLINE>have no contract fee.<NEWLINE>Would you like to take<NEWLINE>it on?
+2,Greetings, Hunter.<NEWLINE>How does the day find<NEWLINE>you? There are several<NEWLINE>quests here you might<NEWLINE>be interested in.
+2,Greetings, Hunter.<NEWLINE>Your reputation now<NEWLINE>precedes you, and many<NEWLINE>requests have come in.<NEWLINE>Please consider these<NEWLINE>quests, if you would.
+2,Greetings, Hunter.<NEWLINE>I'm sure these quests<NEWLINE>are nothing to one of<NEWLINE>your calibre, but<NEWLINE>please consider doing<NEWLINE>one for us every once<NEWLINE>in a while.
+2,dummy
+2,So, Hunter, did you<NEWLINE>enjoy our Hot Spring?<NEWLINE>It's the pride and joy<NEWLINE>of our little village,<NEWLINE>you might say.
+2,Oh dear, I do believe<NEWLINE>I haven't introduced<NEWLINE>myself.<NEWLINE>I am Yukumo Village's<NEWLINE>humble leader. A warm<NEWLINE>welcome we offer you.
+2,What do you think of<NEWLINE>our little township?<NEWLINE>I'm sure the Guild has<NEWLINE>already mentioned it,<NEWLINE>but we would like you<NEWLINE>to become our official<NEWLINE>village Hunter.
+2,In the past, we relied<NEWLINE>on visiting Hunters,<NEWLINE>but recently, we've<NEWLINE>been having trouble...<NEWLINE>It's a long story.
+2,Did you see the house<NEWLINE>just across the way,<NEWLINE>by the stairs? Please,<NEWLINE>make yourself at home<NEWLINE>there.
+2,There's a bed, and a<NEWLINE>place to store your<NEWLINE>weapons and armor.<NEWLINE>Everything a Hunter<NEWLINE>needs. You also have<NEWLINE>direct access to the<NEWLINE>bath house and Guild<NEWLINE>Hall.
+2,Just up the stairs is<NEWLINE>the bath house and<NEWLINE>Guild Hall. You can<NEWLINE>partake in multiplayer<NEWLINE>quests or use the Hot<NEWLINE>Spring.
+2,If you head downward,<NEWLINE>you'll find the shops.<NEWLINE>Please avail yourself<NEWLINE>of the Blacksmith and<NEWLINE>the General Store for<NEWLINE>all your equipment and<NEWLINE>item needs.
+2,The road just beside<NEWLINE>your new home leads to<NEWLINE>the Training School.<NEWLINE>If you are unsure of<NEWLINE>your skills, why not<NEWLINE>try some beginner's<NEWLINE>exercises there?
+2,If you wish to take on<NEWLINE>a quest at any point,<NEWLINE>please just ask. I'll<NEWLINE>be right here.<NEWLINE>Take care.
+2,あと、こちら、<NEWLINE>契約にあった支度金を<NEWLINE>お渡ししておきます。<NEWLINE>道具やオトモさんを<NEWLINE>雇うのに使って<NEWLINE>くださいね。
+2,お話は以上です。<NEWLINE>では、そうですね、<NEWLINE>村の中を一通り、<NEWLINE>見て回られてはいかが<NEWLINE>ですか？<NEWLINE>村の子達も貴方に興味が<NEWLINE>あるようですから。
+0,落ち着いたら、また<NEWLINE>話しかけてください。<NEWLINE>軽めなクエストを<NEWLINE>ご紹介させて<NEWLINE>いただきますわ。
+2,これはこれは<NEWLINE>ハンター様、<NEWLINE>温泉はいかがでした？<NEWLINE>この村自慢の温泉で<NEWLINE>ございますのよ。
+2,あらあら、自己紹介が<NEWLINE>まだでしたね。<NEWLINE>わたくしが、この<NEWLINE>≪ユクモ村≫の村長で<NEWLINE>ございます。<NEWLINE>以後、よしなに。
+2,この村は気に入って<NEWLINE>いただけたかしら？<NEWLINE>ギルドからお話を聞いて<NEWLINE>おられると思うけど、<NEWLINE>貴方には、この村の<NEWLINE>ハンターになって<NEWLINE>いただきたいの。
+2,以前は、村に訪れる<NEWLINE>ハンターで、何とか<NEWLINE>なっていたんですけど、<NEWLINE>最近は少々物騒でして…<NEWLINE>その話はまたいずれ。
+2,あらあら、<NEWLINE>忘れてましたわ。<NEWLINE>ハンター様には、<NEWLINE>まず≪訓練所≫に行って<NEWLINE>いただきたいの。<NEWLINE>そちらで≪初心者演習≫<NEWLINE>を受けてきてください。
+2,階段を挟んだ<NEWLINE>向こう側に、家が<NEWLINE>ございますでしょう？<NEWLINE>その横の道を、さらに<NEWLINE>奥に進んでください。
+0,その道を進んで、<NEWLINE>~B03ボタンを押せば、<NEWLINE>訓練所に行けますわ。<NEWLINE>ぜひ一度、教官さんの<NEWLINE>お話をうかがってきて<NEWLINE>くださいな。
+2,ハンター様には、<NEWLINE>≪訓練所≫で、<NEWLINE>≪初心者演習≫を受けて<NEWLINE>きていただきたいの。<NEWLINE>詳しいお話は、その後、<NEWLINE>させていただきますわ。
+2,≪訓練所≫は、<NEWLINE>ここから階段を挟んで、<NEWLINE>向かいの家の脇の道を<NEWLINE>さらに奥に進んだ<NEWLINE>ところにございますわ。
+0,その道を進んで、<NEWLINE>~B03ボタンを押して<NEWLINE>いただくと、<NEWLINE>訓練所にいけますわ。<NEWLINE>教官さんによろしく<NEWLINE>お伝えくださいね。
+2,あらハンター様、<NEWLINE>おかえりなさい。<NEWLINE>≪初心者演習≫は<NEWLINE>いかがでした？
+2,あちらでは、<NEWLINE>いつでも≪初心者演習≫<NEWLINE>が受けられますから、<NEWLINE>何か判らないことが<NEWLINE>あったら、教官さんを<NEWLINE>訪ねてみるといいです<NEWLINE>わよ。
+2,では改めて、お仕事の<NEWLINE>お話に入らせて<NEWLINE>いただきますわ。<NEWLINE>貴方には、この村の<NEWLINE>ハンターになって<NEWLINE>いただきたいの。
+2,先ほど訓練所に行く<NEWLINE>途中に、家がござい<NEWLINE>ましたでしょう？<NEWLINE>あそこを自由に使って<NEWLINE>ください。
+2,ベッドや一通りの武器や<NEWLINE>防具など、ハンター様<NEWLINE>に必要なものは揃って<NEWLINE>いるはずですわ。<NEWLINE>裏手からは、直接<NEWLINE>≪集会浴場≫にも<NEWLINE>繋がっていますのよ。
+2,この階段を上がった<NEWLINE>ところが、≪集会浴場≫<NEWLINE>です。温泉に入ったり、<NEWLINE>多人数向けのクエストを<NEWLINE>受注できますわ。
+2,逆に、階段を下りた<NEWLINE>ところには、お店が<NEWLINE>あります。<NEWLINE>アイテムなら雑貨屋、<NEWLINE>武器や防具なら鍛冶屋を<NEWLINE>ご利用くださいね。
+2,ハンター様に<NEWLINE>お願いするクエストに<NEWLINE>ついては、わたくしに<NEWLINE>ご相談ください。<NEWLINE>手近なところから、<NEWLINE>お願いしますわ。
+2,あと、こちら、<NEWLINE>契約にあった支度金を<NEWLINE>お渡ししておきます。<NEWLINE>道具やオトモさんを<NEWLINE>雇うのに使って<NEWLINE>くださいね。
+2,お話は以上です。<NEWLINE>では、そうですね、<NEWLINE>村の中を一通り、<NEWLINE>見て回られてはいかが<NEWLINE>ですか？<NEWLINE>村の子達も貴方に興味が<NEWLINE>あるようですから。
+0,落ち着いたら、また<NEWLINE>話しかけてください。<NEWLINE>軽めなクエストを<NEWLINE>ご紹介させて<NEWLINE>いただきますわ。
+2,こんにちは、<NEWLINE>ハンター様。<NEWLINE>今日はちょっと、<NEWLINE>お願いがありますのよ。
+2,≪アオアシラ≫は<NEWLINE>ご存じかしら？<NEWLINE>この辺りでよくみかける<NEWLINE>牙獣種なのですけれど。
+2,…あら、もう相手に<NEWLINE>したことがあるよう<NEWLINE>ですわね。<NEWLINE>でしたら、話は早いわ。<NEWLINE>この子を退治して<NEWLINE>いただきたいの。
+2,以前と比べ、この村の<NEWLINE>近辺に現れることが、<NEWLINE>多くなって…、<NEWLINE>うちの村の子達も<NEWLINE>困ってるんですの。
+2,モンスターとしては、<NEWLINE>それほど強くはないの<NEWLINE>ですけど、２本脚で<NEWLINE>立ち上がった時は<NEWLINE>注意してくださいね。
+0,うふふ、きっと貴方なら<NEWLINE>大丈夫ですわ。<NEWLINE>支給品に、≪携帯シビレ<NEWLINE>罠≫を用意していただい<NEWLINE>ていますので、それを<NEWLINE>活用すると良いです<NEWLINE>わよ。
+2,あらあらハンター様。<NEWLINE>≪アオアシラ≫を、<NEWLINE>退治してくださった<NEWLINE>ようですわね。<NEWLINE>ありがとうございます。
+2,やはりわたくしが<NEWLINE>見込んだとおりの<NEWLINE>お方ですわ、<NEWLINE>ハンター様。<NEWLINE>貴方ならきっと、<NEWLINE>他の依頼もこなせる<NEWLINE>でしょうね。
+2,ちょうど、他の土地から<NEWLINE>の依頼も来ているん<NEWLINE>ですのよ。<NEWLINE>≪砂原≫と≪水没林≫を<NEWLINE>ご存じかしら？
+2,≪砂原≫は、広い砂漠と<NEWLINE>草原や岩場などが広がる<NEWLINE>厳しい土地ですわ。<NEWLINE>わたくしも幼い頃に<NEWLINE>行ったことがあります<NEWLINE>けど、子供には本当に<NEWLINE>つらいところでしたわ。
+2,特につらかったのは、<NEWLINE>気候ね。昼は暑さで<NEWLINE>体力が奪われ、夜は<NEWLINE>寒さでスタミナが<NEWLINE>奪われてしまうの。<NEWLINE>対策を忘れないように<NEWLINE>注意してくださいね。
+2,≪水没林≫は、熱帯に<NEWLINE>広がる湿地帯ですわ。<NEWLINE>水棲生物や植物たちの<NEWLINE>大いなる楽園と<NEWLINE>呼ばれていますわ。
+2,こちらも、わたくし、<NEWLINE>行った事がありますわ。<NEWLINE>水が豊富な場所には、<NEWLINE>稀少な鉱石があるとかで<NEWLINE>爺やがお土産にと、<NEWLINE>わざわざ採ってきて<NEWLINE>くれましたの。
+0,どちらも、懐かしい場所<NEWLINE>ですわ…。<NEWLINE>あら、ハンター様、<NEWLINE>油断なさってはダメです<NEWLINE>わよ。新しい土地での<NEWLINE>狩猟は、油断は禁物です<NEWLINE>からね。
+2,あらあらハンター様。<NEWLINE>どうされました？<NEWLINE>顔色が悪いですわよ。
+2,…！<NEWLINE>そうですか、あの<NEWLINE>モンスターにお会いに<NEWLINE>なられたのですか…。
+2,おそらく、<NEWLINE>そのモンスターは、<NEWLINE>≪ジンオウガ≫。<NEWLINE>最近≪渓流≫一帯で、<NEWLINE>頻繁に姿を見せるように<NEWLINE>なった、危険な牙竜<NEWLINE>でございます。
+2,以前から、この地域<NEWLINE>全体で姿は見られて<NEWLINE>いたのですけど、<NEWLINE>被害が出るほど、<NEWLINE>人里近くには、現れて<NEWLINE>はいませんでしたの。
+2,先般の≪アオアシラ≫の<NEWLINE>件、あの子が以前よりも<NEWLINE>村の近くに現れる事が<NEWLINE>多くなったのも、<NEWLINE>ジンオウガから逃げて<NEWLINE>来たから、という<NEWLINE>人もおられますわ…。
+2,貴方をお呼びしたのは、<NEWLINE>他でもありません。<NEWLINE>この≪雷狼竜≫<NEWLINE>ジンオウガを退治して<NEWLINE>いただきたいの。
+0,今すぐに、とは、<NEWLINE>申しませんわ。<NEWLINE>しばらくは、力をつけて<NEWLINE>装備を調えてください。<NEWLINE>頃合いを見て、また<NEWLINE>改めてお願いしますわ。
+2,こんにちは、<NEWLINE>ハンター様。<NEWLINE>今日はまた少し厄介な<NEWLINE>お願いがありますの。
+2,モンスターの声マネを<NEWLINE>して、他のモンスターを<NEWLINE>呼び寄せる、<NEWLINE>≪クルペッコ≫を<NEWLINE>ご存じかしら？
+2,この子自体は、<NEWLINE>そんな被害を出すような<NEWLINE>子ではないんですけど、<NEWLINE>呼び寄せるモンスターの<NEWLINE>中には、村の子達の手に<NEWLINE>あまるような子もいる<NEWLINE>ので…。
+0,お手数ですけど、<NEWLINE>この子の退治をお願い<NEWLINE>できますかしら？
+2,あらハンター様、<NEWLINE>おかえりなさい。<NEWLINE>≪クルペッコ≫を退治<NEWLINE>していただいたようで、<NEWLINE>本当にありがとう<NEWLINE>ございます。
+2,ハンター様を見込んで、<NEWLINE>新しい依頼も来ています<NEWLINE>のよ。<NEWLINE>今度は、≪孤島≫と<NEWLINE>≪凍土≫ですって。
+2,≪孤島≫は、緑が広がる<NEWLINE>豊かな土地ですわ。<NEWLINE>わたくし、何度も<NEWLINE>訪れたことがあります<NEWLINE>けれど、とても素敵な<NEWLINE>ところですのよ。
+2,もっとも、<NEWLINE>モンスターにとっても、<NEWLINE>素敵な場所なので、<NEWLINE>多種多様なモンスターが<NEWLINE>生息していますの。<NEWLINE>注意してくださいね。
+2,≪凍土≫は、そうね、<NEWLINE>とても寒い処ですわ。<NEWLINE>思い出しても震えが<NEWLINE>でてしまいます。<NEWLINE>くれぐれも、≪ホット<NEWLINE>ドリンク≫を、お忘れ<NEWLINE>にならないように。
+2,そんな場所ですから、<NEWLINE>あまり詳しい情報は<NEWLINE>ありませんの。<NEWLINE>独自の進化をした<NEWLINE>モンスターも多いとか、<NEWLINE>鉱物資源が豊富とか<NEWLINE>いわれておりますけど。
+2,そうそう、貴方にお渡し<NEWLINE>したいものがありました<NEWLINE>のよ。<NEWLINE>鍛冶屋のおじい様から<NEWLINE>預かったのですけれど。
+2,≪お守り≫というのは、<NEWLINE>ご存じかしら？<NEWLINE>採掘やクエストの報酬で<NEWLINE>手に入るのですけど、<NEWLINE>普通の人には、どういう<NEWLINE>ものだか判らないの。
+2,だから、ギルドで鑑定<NEWLINE>してもらうの。<NEWLINE>鑑定したものが、<NEWLINE>この≪護石≫ですのよ。
+0,身につけるだけで、<NEWLINE>その他の装備のように、<NEWLINE>≪スキルポイント≫が<NEWLINE>得られるんですの。<NEWLINE>便利ですから、是非<NEWLINE>使ってみてくださいな。
+2,こんにちは、<NEWLINE>ハンター様。<NEWLINE>今日は貴方をみこんで、<NEWLINE>お願いがありますのよ。
+2,…あら、いやだわ、<NEWLINE>そんなに身構えなくても<NEWLINE>いいじゃありませんか。<NEWLINE>わたくし、そんな無茶な<NEWLINE>お願いをしたことは<NEWLINE>ないと思っております<NEWLINE>のに。
+2,お願いというのはね、<NEWLINE>≪リオレイア≫を<NEWLINE>ご存じかしら。<NEWLINE>陸の女王とも呼ばれる<NEWLINE>有名な飛竜よ。
+2,渓流に現れたこの子を、<NEWLINE>是非退治していただき<NEWLINE>たいの。<NEWLINE>…もちろん、とても<NEWLINE>強力なモンスターだと<NEWLINE>いう事は存じております<NEWLINE>のよ。
+0,でもきっと、貴方なら<NEWLINE>大丈夫だと思いますの。<NEWLINE>わたくし、信じており<NEWLINE>ますわ。
+2,ハンター様、<NEWLINE>お帰りなさい。<NEWLINE>さすがですわ、<NEWLINE>あの≪リオレイア≫を<NEWLINE>狩猟なさるなんて。
+2,そんなハンター様に、<NEWLINE>また新しい依頼が来て<NEWLINE>おりますのよ。<NEWLINE>今度は≪火山≫から<NEWLINE>ですって。
+2,…≪火山≫！<NEWLINE>わたくしも若い頃に、<NEWLINE>訪れた事がありますの。<NEWLINE>森の中を歩いていたら、<NEWLINE>いつの間にか、火山に<NEWLINE>迷い込んでしまって…。
+2,それはもう、<NEWLINE>暑くて、熱くて…。<NEWLINE>≪クーラードリンク≫も<NEWLINE>持たずにそんな処に行く<NEWLINE>なんて自殺行為だと、<NEWLINE>爺やにたいそう<NEWLINE>怒られましたわ。
+2,でもとても豊富な鉱物<NEWLINE>資源があるとかで、<NEWLINE>ハンターの間では、<NEWLINE>人気がある土地らしい<NEWLINE>ですわね。
+2,そうそう、貴方に<NEWLINE>これを差し上げますわ。<NEWLINE>たいしたものでは<NEWLINE>ございませんけど、<NEWLINE>是非一度ご賞味<NEWLINE>くださいな。
+0,ハンター様にとっても、<NEWLINE>新しい土地での狩猟が、<NEWLINE>実り多きものである<NEWLINE>ことをお祈りして<NEWLINE>おりますわ。
+2,ハンター様、お待ち<NEWLINE>しておりましたわ。<NEWLINE>今日は折り入って、<NEWLINE>お話がありますの。
+2,以前にお話ししました<NEWLINE>≪ジンオウガ≫について<NEWLINE>覚えておられますか？
+2,この子の被害が、<NEWLINE>少々看過できない事態に<NEWLINE>なってきておりますの。<NEWLINE>林業を営んでいる<NEWLINE>村の子達には<NEWLINE>死活問題ですのよ…。
+2,さいわい、ハンター様の<NEWLINE>実力も、この問題に<NEWLINE>見合っていると判断<NEWLINE>させていただきました。
+2,もちろん、すぐにとは<NEWLINE>申しません。<NEWLINE>装備に不安があるなら、<NEWLINE>他の依頼を受けるなど<NEWLINE>して、装備を調えて<NEWLINE>ください。
+2,他にも、罠や回復薬など<NEWLINE>充分な準備を整えて<NEWLINE>から、挑まれることを<NEWLINE>お勧めしますわ。<NEWLINE>わたくし達には、貴方が<NEWLINE>唯一の希望なのです。
+0,きっと貴方なら大丈夫。<NEWLINE>わたくしは、信じて<NEWLINE>おりますわ。
+2,あらハンター様…！<NEWLINE>よくぞご無事で。<NEWLINE>貴方の身に何かあったら<NEWLINE>と、わたくしずっと<NEWLINE>気をもんでおりました<NEWLINE>のよ。
+2,そして、見事<NEWLINE>≪ジンオウガ≫を<NEWLINE>退治されたそうで…、<NEWLINE>本当にありがとう<NEWLINE>ございます。
+2,やはり貴方は、<NEWLINE>わたくしが見込んだ<NEWLINE>とおりの方でしたわ、<NEWLINE>ハンター様。
+2,お礼にこれを差し上げ<NEWLINE>ますわ。<NEWLINE>鍛冶屋のおじい様に<NEWLINE>渡せば、ちょっと<NEWLINE>変わった武具を作って<NEWLINE>くださるかも知れません<NEWLINE>わよ。
+2,またいくつか、<NEWLINE>新しい依頼が来て<NEWLINE>おりますの。<NEWLINE>そちらの方もご確認<NEWLINE>くださいね。
+0,それにしても、<NEWLINE>本当にありがとう<NEWLINE>ございました。<NEWLINE>これからもこの村を<NEWLINE>よろしくお願い<NEWLINE>いたしますわね。
+2,あら、こんにちは、<NEWLINE>ハンター様。<NEWLINE>たびたび申し訳ありま<NEWLINE>せんが、また貴方に<NEWLINE>お願いがございますの。
+2,≪ドボルベルク≫と<NEWLINE>呼ばれる獣竜をご存じ？<NEWLINE>尻尾がハンマーの<NEWLINE>ような形状をして、<NEWLINE>≪尾槌竜≫という異名を<NEWLINE>もっているんですの。
+2,この子の退治をお願い<NEWLINE>したいの。<NEWLINE>おそらく力強さで<NEWLINE>いえば、ジンオウガを<NEWLINE>上回るモンスターです<NEWLINE>のよ。
+2,特に、尻尾には<NEWLINE>気をつけてくださいな。<NEWLINE>グルグル振り回し<NEWLINE>始めたら、要注意らしい<NEWLINE>ですわよ。
+0,爺やが言うには、そう<NEWLINE>いう時は、逆に足下に<NEWLINE>飛び込んだ方がよいとか<NEWLINE>…ハンターの方はすごい<NEWLINE>事をお考えになるのね。<NEWLINE>わたくしなどには考えも<NEWLINE>つきませんわ。
+2,あらあらハンター様。<NEWLINE>ご無事でお帰りに<NEWLINE>なられたようで、<NEWLINE>何よりです。
+2,あの≪ドボルベルク≫<NEWLINE>をも退治されるとは、<NEWLINE>貴方がユクモ村に<NEWLINE>来てくださって、<NEWLINE>本当によかったと<NEWLINE>思いますわ。
+2,前と同じで恐縮ですけど<NEWLINE>お礼にこれを差し上げ<NEWLINE>ますわ。<NEWLINE>是非使ってみて<NEWLINE>くださいな。
+2,ハンター様には、また<NEWLINE>新しい依頼がいくつか、<NEWLINE>来ておりますの。<NEWLINE>皆、ハンター様の力量を<NEWLINE>見込んで、難しそうな<NEWLINE>依頼ばかりですのよ。
+0,貴方の実力なら、きっと<NEWLINE>集会浴場の依頼でも、<NEWLINE>力を発揮できると思い<NEWLINE>ますわ。まだ手をつけて<NEWLINE>おられないようなら、<NEWLINE>そちらにも協力して<NEWLINE>あげてくださいな。
+2,あらあらハンター様。<NEWLINE>よいところにおいでに<NEWLINE>なりました。<NEWLINE>街のギルドから、とある<NEWLINE>クエストの案内が<NEWLINE>来ていますのよ。
+2,≪ジエン・モーラン≫、<NEWLINE>またの名を≪峯山龍≫を<NEWLINE>ご存じかしら？<NEWLINE>文字通り、山のように<NEWLINE>大きなモンスターです<NEWLINE>のよ。
+2,ギルドの本部がある街<NEWLINE>では、この古龍は、<NEWLINE>豊穣と繁栄の象徴として<NEWLINE>信仰されていて、街の<NEWLINE>近くに現れると、街を<NEWLINE>あげてのお祭り騒ぎに<NEWLINE>なるんですの。
+2,わたくしも以前に、<NEWLINE>その古龍を見ましたが、<NEWLINE>それは雄大なモンスター<NEWLINE>でしたわ。<NEWLINE>今回来ているのは、<NEWLINE>その古龍に挑むクエスト<NEWLINE>らしいですわよ。
+0,ぜひ一度参加なさっては<NEWLINE>いかが？<NEWLINE>きっと素敵な体験に<NEWLINE>なると思いますわ。
+2,あらハンター様、<NEWLINE>おかえりなさい。<NEWLINE>≪峯山龍≫はいかが<NEWLINE>でしたか？
+2,無事クエストを達成<NEWLINE>されたそうで、<NEWLINE>なによりですわ。<NEWLINE>お礼というわけでは<NEWLINE>ないですけど、<NEWLINE>これをお渡しして<NEWLINE>おきますわね。
+2,それにしても、<NEWLINE>ハンター様、<NEWLINE>貴方の力量があれば、<NEWLINE>わたくしが紹介する<NEWLINE>ようなクエストでは、<NEWLINE>もう張り合いがござい<NEWLINE>ませんでしょう？
+0,是非、集会浴場で、<NEWLINE>≪上位≫クエストに<NEWLINE>挑戦することを<NEWLINE>お勧めいたしますわ。
+2,あらあらハンター様。<NEWLINE>なんと、わたくしが<NEWLINE>紹介した依頼を、<NEWLINE>すべて達成なさった<NEWLINE>ようですわね。
+2,さすがユクモ村の<NEWLINE>ハンター様。<NEWLINE>わたくし、この村の<NEWLINE>村長として、貴方を<NEWLINE>誇りに思いますわ。
+2,実は、貴方に最後の<NEWLINE>クエストの依頼が来て<NEWLINE>おりますの。<NEWLINE>かなり難しい依頼という<NEWLINE>ことで、今までご紹介を<NEWLINE>差し控えさせていただい<NEWLINE>たのだけど…。
+2,集会浴場の≪上位≫<NEWLINE>クエストで、装備を<NEWLINE>調えてから、挑戦される<NEWLINE>ことをお勧めしますわ。
+0,…あら、全然動揺して<NEWLINE>おられないのね。<NEWLINE>わかってらしたの<NEWLINE>かしら？　わたくしが<NEWLINE>こういう依頼をお願い<NEWLINE>すること。ふふふ。
+2,さすがですわ、<NEWLINE>ハンター様。<NEWLINE>あのような困難な依頼を<NEWLINE>見事成功させるとは。
+2,もう、わたくしから<NEWLINE>紹介できる依頼は<NEWLINE>ございませんの。<NEWLINE>申し訳ないですけれど。
+2,でも、ハンターの道に、<NEWLINE>終点はないと申します<NEWLINE>わ。すべての依頼を<NEWLINE>達成した、そこからが<NEWLINE>スタートだ、という方も<NEWLINE>いらっしゃいます。
+0,これからも、<NEWLINE>この村をよろしくお願い<NEWLINE>しますわね。
+2,ハンター様。<NEWLINE>今日は折り入って、<NEWLINE>お願いがございますの。
+2,ギルドマネージャー様<NEWLINE>から、もうお話を<NEWLINE>聞いておられるかも<NEWLINE>しれませんが、<NEWLINE>≪渓流≫の奥地に、<NEWLINE>とある古龍が<NEWLINE>現れましたの。
+2,その古龍の名は、<NEWLINE>≪アマツマガツチ≫。<NEWLINE>≪嵐龍≫とも呼ばれ、<NEWLINE>この地方では、古くから<NEWLINE>恐れられてまいり<NEWLINE>ました。
+2,嵐に乗って天下を巡り、<NEWLINE>その嵐に巻き込まれて、<NEWLINE>人が住むのを止めた<NEWLINE>村も少なくござい<NEWLINE>ませんの。
+2,ここ最近のモンスター達<NEWLINE>の縄張りの変化…、<NEWLINE>ジンオウガやアオアシラ<NEWLINE>が渓流や村の近くに、<NEWLINE>以前より頻繁に現れ出し<NEWLINE>たのも、この予兆だった<NEWLINE>のかと…。
+2,今はまだ、渓流の奥地、<NEWLINE>≪霊峰≫にいるよう<NEWLINE>ですが、移動経路から<NEWLINE>推察するに、いずれ<NEWLINE>この村が嵐に<NEWLINE>巻き込まれることは<NEWLINE>必定です。
+2,そうなれば、この村も<NEWLINE>どうなることか…、<NEWLINE>事実、ギルドも避難勧告<NEWLINE>を検討しているという<NEWLINE>話もございますの。
+2,ハンター様。<NEWLINE>お願いというのは<NEWLINE>他でもありません。<NEWLINE>この≪アマツマガツチ≫<NEWLINE>を討伐していただき<NEWLINE>たいの。
+0,よろしくお願いします。<NEWLINE>わたくしたちには、<NEWLINE>貴方だけが頼りですの。
+2,あらあらハンター様…。<NEWLINE>よくぞご無事で…。
+2,ギルドマネージャー様<NEWLINE>から、貴方が<NEWLINE>≪アマツマガツチ≫を<NEWLINE>討伐するため出立したと<NEWLINE>聞いて、わたくし、<NEWLINE>ずっと気をもんで<NEWLINE>おりましたのよ。
+2,ひょっとして、もう<NEWLINE>帰ってこられないのでは<NEWLINE>ないかと…。
+2,よかった、本当に<NEWLINE>よかったわ…。<NEWLINE>貴方のご無事な姿が<NEWLINE>見られただけで、<NEWLINE>わたくし、もう…。
+2,…申し訳ありません。<NEWLINE>お見苦しいところを<NEWLINE>お見せしてしまいました<NEWLINE>わね。
+2,ありがとうございます、<NEWLINE>ハンター様。<NEWLINE>ユクモ村の村長として、<NEWLINE>貴方に感謝いたします<NEWLINE>わ。
+0,…本当にありがとうね、<NEWLINE>ハンター様。<NEWLINE>いつまでもこの村に<NEWLINE>いてくださいましね。
+0,こんにちは、<NEWLINE>ハンター様。<NEWLINE>調子はいかがですか？

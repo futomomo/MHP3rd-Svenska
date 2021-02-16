@@ -1,0 +1,9 @@
+1,Select a seed and a<NEWLINE>fertilizer for each<NEWLINE>field row, then press<NEWLINE>~B06   to confirm your<NEWLINE>choice, nya.<NEWLINE>Do you want to plant<NEWLINE>the field rows, nya?
+0,I understand, nya.<NEWLINE>Come back and check<NEWLINE>the fields later, nya.
+0,You have no items for<NEWLINE>planting, nya. Come<NEWLINE>back when you have<NEWLINE>some fertilizer and<NEWLINE>seeds, nya.
+0,Before you plant more<NEWLINE>seeds and fertilizer,<NEWLINE>you need to harvest<NEWLINE>the last crop, nya.<NEWLINE>Just walk over to the<NEWLINE>fields rows and press<NEWLINE>the ~B03 button, nya.
+2,These are the fields,<NEWLINE>nya. Give me seeds to<NEWLINE>plant, and after a<NEWLINE>while they will grow,<NEWLINE>nya. You can grow all<NEWLINE>sorts of herbs and<NEWLINE>seeds, nya.
+2,You can also use Dung<NEWLINE>and Worms to fertilize<NEWLINE>the soil, nya.<NEWLINE>The better the soil,<NEWLINE>the more items you'll<NEWLINE>harvest, nya.
+2,Harvest your crop by<NEWLINE>examining the field<NEWLINE>row, nya. Once you get<NEWLINE>more rows, you can<NEWLINE>harvest them, too,<NEWLINE>nya.
+1,Select a seed and a<NEWLINE>fertilizer for each<NEWLINE>field row, then press<NEWLINE>~B06   to confirm your<NEWLINE>choice, nya.<NEWLINE>Do you want to plant<NEWLINE>the field rows, nya?
+0,These are the fields,<NEWLINE>nya. You can harvest<NEWLINE>herbs and seeds here,<NEWLINE>nya.

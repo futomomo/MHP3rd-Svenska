@@ -1,0 +1,9 @@
+2816.bin 145408
+string_table_0.txt
+string_table_1.txt
+string_table_2.txt
+string_table_3.txt
+string_table_4.txt
+string_table_5.txt
+string_table_6.txt
+enddata.bin

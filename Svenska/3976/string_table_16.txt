@@ -1,0 +1,6 @@
+The Secret Is in the Coal
+Deliver 15 Coal
+Reward Zero<NEWLINE>Time Over
+特別なお料理には、燃石炭の火力<NEWLINE>が必要なの。お客様がお越しにな<NEWLINE>る前に、いそいで火山から採って<NEWLINE>きてくれないかしら？<NEWLINE>棒状の骨と石で調理…じゃなくて<NEWLINE>ピッケルが調合できるわよ！
+Rangurotora<NEWLINE>Uroktor
+Master Chef

@@ -1,0 +1,33 @@
+－－－－－－
+dummy
+Add a Field Row.<NEWLINE>Now you can gather<NEWLINE>even more plants.
+Add a Field Row.<NEWLINE>Gather more plants<NEWLINE>than ever before.
+dummy
+Extend the fishing pier, and<NEWLINE>install a medium size net.<NEWLINE>More fish are caught.
+Extend the fishing pier, and<NEWLINE>install a large size net.<NEWLINE>Even more fish are caught.
+Install a bait basket on the<NEWLINE>pier for Felynes to use.<NEWLINE>Can be used once per quest.
+dummy
+Expand the number of<NEWLINE>Mining Points. You can now<NEWLINE>obtain rare ores.
+Expand the number of<NEWLINE>Mining Points. You can now<NEWLINE>obtain even rarer ores.
+Expand the number of<NEWLINE>Mining Points. Obtain even<NEWLINE>more rare ores!
+Sends Felynes mining for ore<NEWLINE>using your Pickaxes.<NEWLINE>Can be used once per quest.
+Incense for the insect cage.<NEWLINE>Attracts various insects.<NEWLINE>Does not run out.
+Incense for the insect cage.<NEWLINE>Attracts useful insects.<NEWLINE>Does not run out.
+Incense for the insect cage.<NEWLINE>Attracts rare insects.<NEWLINE>Does not run out.
+Incense for the insect cage.<NEWLINE>Attracts even rarer insects.<NEWLINE>Does not run out.
+Incense for the insect cage.<NEWLINE>Attracts super rare insects.<NEWLINE>Does not run out.
+Incense for the insect cage.<NEWLINE>Attracts combinable insects.<NEWLINE>Does not run out.
+Catapults Felynes up into<NEWLINE>the tree to catch insects.<NEWLINE>Can be used once per quest.
+Plant a tree for mushrooms<NEWLINE>to grow upon.<NEWLINE>
+Plant a tree for high<NEWLINE>quality mushrooms to grow<NEWLINE>upon.
+Plant a tree for top<NEWLINE>quality mushrooms to grow<NEWLINE>upon. Top-class item.
+Install a prototype Bee<NEWLINE>Hive. Not very efficient<NEWLINE>for gathering Honey.
+Install a production model<NEWLINE>Bee Hive. Produces more<NEWLINE>Honey than its prototype.
+Install a modified model<NEWLINE>Bee Hive. More Honey than<NEWLINE>a Production Bee Hive.
+Can barbeque up to 10 meat<NEWLINE>or fish at once.<NEWLINE>Felyne Comrade required.
+Adds a cart to take Felynes<NEWLINE>on special quests.<NEWLINE>Up to 4 may be sent at once.
+Scroll that trains Felynes<NEWLINE>to gain more Comrade Points.<NEWLINE>~C05(1 Felyne at a time)
+Scroll that trains Felynes<NEWLINE>to gain more experience<NEWLINE>points. ~C05(1 Felyne at a time)
+Scroll that trains Felynes<NEWLINE>to gain more defence.<NEWLINE>~C05(1 Felyne at a time)
+Scroll that trains Felynes<NEWLINE>to gain more attack.<NEWLINE>~C05(1 Felyne at a time)
+Scroll that trains Felynes<NEWLINE>to gain special abilities.<NEWLINE>~C05(1 Felyne at a time)

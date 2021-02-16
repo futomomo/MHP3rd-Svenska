@@ -1,0 +1,261 @@
+<EMPTY STRING>
+Battle Training
+School Rules
+Finish Training
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+Would you like to begin training?
+We follow our bylaws, and are fair about victory and<NEWLINE>defeat. If you want to hear the ~C05School Bylaws ~C00again.<NEWLINE>stop back at any time
+ぬ、…戻ってきたか。だが、この程度でへばるようでは<NEWLINE>まだまだ修行が足りんぞ！<NEWLINE>すみやかに準備を整え、次の訓練へ出発するのだ！！
+ぬ、…戻ってきたか。だが、貴様の実力はその程度か？<NEWLINE>結果に満足するのは、まだまだ早いぞ！<NEWLINE>己の壁を乗り越えるため、次の訓練へ出発するのだ！
+Info
+Select
+Selecting Equip
+Prep Complete
+NOW LOADING
+Please wait...
+Would you like to<NEWLINE>disband the party?
+Would you like to cancel your<NEWLINE>entry into this Quest?
+Would you like to embark<NEWLINE>on the Quest?
+~C02Not everyone is ready to depart.<NEWLINE>Are you sure you want to leave?<NEWLINE>(Players who are not ready will<NEWLINE>not be able to participate)~C00
+Party disbanded.
+Group Training
+Exit School
+Initiate Quest
+Join Quest
+Exit Training
+Join which Hall?
+Practice Quest
+Challenge Quest
+Partake in Group Training. You can also engage in<NEWLINE> Challenge Quest here.<NEWLINE>[Make sure the WLAN switch is set to ON.]
+Leave Training School.
+Processing...
+Players
+Password Set
+Confirm
+Yes
+No
+1
+2
+3
+4
+Select your Quest Conditions. Once you've done that<NEWLINE>I'll put your Quest on the Quest Board!
+Please enter password.<NEWLINE><NEWLINE><NEWLINE><NEWLINE>~B00Decide ~B01Cancel
+Password incorrect.
+Max number of hunters reached.
+Quest Party Disbanded.
+Unable to connect.
+Room is full. Unable to enter.
+The WLAN switch is turned off. Please push the<NEWLINE>WLAN switch to the position.
+A communication error has occurred.<NEWLINE>The WLAN switch was turned off.
+A communication error has occurred.
+Select this if you want to initiate a Quest! Just<NEWLINE>pick your Quest out like a true hunting connoisseur!<NEWLINE>After that, just wait for other hunters to join!
+If you want to join a Quest started by another<NEWLINE>hunter. Select this! This option is perfect if you<NEWLINE>have ~C05hunters who you trust to watch your back~C00!
+When you're ready to end your training, select this.<NEWLINE>However, you can always come back by returning to<NEWLINE>the Training School gate. I know you'll be back!
+~C05Group Training Quest ~C00for you by me, your<NEWLINE>esteemed instructor. It is harder than usual, but<NEWLINE>with a group of hunters, it shouldn't be too hard!
+You can choose the ~C05Challenge Quests ~C00you have<NEWLINE>downloaded here! Let's see your real power! This<NEWLINE>isn't going to be easy!
+Once all party members preparations are finished,<NEWLINE>press the START button to depart on the Quest.
+Please wait for the Quest initiator to begin the<NEWLINE>Quest.
+Quest Members
+There are no Challenge Quests.
+An error occurred while<NEWLINE>transmitting Quest Data.
+Cannot confirm Quest details.
+Initiate Quest
+Join Quest
+Beginner Train
+Training for beginners.
+Basic Practice
+Weapon Usage
+Hunter Info
+Welcome! This is Yukumo Village's Beginners Training<NEWLINE>School!! Here you can learn ~C05Hunter Basic~C00, or<NEWLINE>throw yourself into the details of  ~C05Weapon Usage~C00.
+~C00Come here if you want to learn the ways of each<NEWLINE>weapon! Be instructed in all ~C0512 types~C00!<NEWLINE>The perfect place to learn new weapon types!
+Without info, you'll never be able to eat as a<NEWLINE>hunter! Ask all your questions here and open the<NEWLINE>~C05Tomb of Hunter Knowledge~C00! I'll be gentle, I promise!
+Welcome! This is Yukumo Village's Beginners Training<NEWLINE>School! Here you can learn ~C05Hunter Basic~C00, or<NEWLINE>throw yourself into the details of ~C05Weapon Usage~C00.
+When you are ready to end your traning, exit from<NEWLINE>here. But when you feel like getting back to the<NEWLINE>basics of hunting, the door is always open!
+We follow our bylaws, and are fair about victory and<NEWLINE>defeat. If you want to hear the ~C05School Bylaws ~C00again.<NEWLINE>stop back at any time.
+You do not meet the requirements to initiate<NEWLINE>this Quest.
+You do not meet the requirements to join<NEWLINE>this Quest.
+Required
+Host
+Training Quest
+Select Equipment
+ Go to Yukumo Village
+Go to House
+Go to Yukumo Farm
+Go to Offline Hall
+Go to Online Hall
+Go to Yukumo Village
+Go to House
+Go to Yukumo Farm
+Go to Offline Guild Hall
+Go to Online Guild Hall
+どの集会浴場に入りますか？
+このクエストの難易度は~C02 %s ~C00である！<NEWLINE>貴様のベストタイムは~C05 %s（ランクＳ）~C00だ！！<NEWLINE>…むぅ、流石の我輩も~C05脱帽の記録~C00だな。
+このクエストの難易度は~C02 %s ~C00である！<NEWLINE>貴様のベストタイムは~C05 %s（ランクＡ）~C00だ！！<NEWLINE>うむ、~C05そこそこの記録~C00…といったところだな。
+このクエストの難易度は~C02 %s ~C00である！<NEWLINE>貴様のベストタイムは~C05 %s（ランクＢ）~C00だ！！<NEWLINE>この程度で満足するようでは、まだまだ~C05ヒヨっ子~C00だな。
+このクエストの難易度は~C02 %s ~C00である！<NEWLINE>ぬ？　貴様はまだこのクエストに記録が無いようだな。<NEWLINE>ためらうことは何も無い！　~C05今すぐ挑戦~C00するのだ！！
+貴様のベストタイムは~C05 %s（ランクＳ）~C00だな。<NEWLINE>このクエストで良いのか？
+貴様のベストタイムは~C05 %s（ランクＡ）~C00だな。<NEWLINE>このクエストで良いのか？
+貴様のベストタイムは~C05 %s（ランクＢ）~C00だな。<NEWLINE>このクエストで良いのか？
+貴様はまだこのクエストに記録が無いようだな。<NEWLINE>このクエストで良いのか？
+なんと！　全ての訓練で~C05卓越した記録~C00を出しているな。<NEWLINE>そんな頑張っている貴様に、我輩からの~C05ご褒美~C00だ！<NEWLINE>荒ぶる感情を抑えつつ、受け取るがいい！！　エラいぞ！
+ぬぬ！　演習クエストを~C05完全制覇~C00するとは…やるな！！<NEWLINE>そんな誉れ高い貴様に、我輩からの~C05スバラしいご褒美~C00だ！<NEWLINE>魂の震えを抑えつつ、受け取るがいい！！　よくやった！
+…うむ、それではサラバだ！　また来るがいい。<NEWLINE>訓練所の門はいつでも開いておるからな。<NEWLINE>これからも~C05日々是訓練~C00！　初心を忘れるでないぞ！！
+ぬ？　アイテムボックスの装備枠が空いておらんぞ。<NEWLINE>…残念ながら、今回はおあずけにしておこう。<NEWLINE>アイテムボックスを整理して出直してくるのだ！
+First an easy test. Let's use this ~C05Raw Meat<NEWLINE>Delivery ~C00Quest to teach you the basics. Absorb this<NEWLINE>Quest into your ~C05body and soul~C00!
+Now time for some BBQ training! Take some Raw Meat<NEWLINE>from a Gagua and use a BBQ Spit to make some<NEWLINE>~C05tasty meat~C00! ~C05Its my dinner~C00...And I hate fish!
+Now I'd like you to find 1 ~C05Special Bamboo!<NEWLINE>~C00Searching around the field will surely uncover<NEWLINE>unexpected items. Hunters must be familiar with this!
+今回は~C05ピッケルや虫あみを使った採集~C00を体験してもらう。<NEWLINE>ハンターたる者、状況に合った道具を的確に判断し、<NEWLINE>華麗に採集するのだ。~C05ガサゴソばかりが全てでは無い~C00ぞ！
+~C00Time to train for ~C05finding materials and combining<NEWLINE>them~C00! Combining is a basic hunting practice. When<NEWLINE>a Quest is hard, combine! ~C05Knowledge is power~C00!
+The goal of this Quest is the delivery of some<NEWLINE>~C05Sushifish~C00. Use some ~C05Bait ~C00 to bring the fish out<NEWLINE>of water... Before dinner of course.
+Now your goal is to uncover a ~C05Wyvern Egg<NEWLINE>~C00and bring it back to base camp. ~C05Training lasts<NEWLINE>until you deliver the Egg~C00. Give it you all!
+基礎訓練もついに終盤戦…狩猟訓練に入っていくぞ！<NEWLINE>まずは小手調べに~C05ジャギィノスの討伐~C00だ。<NEWLINE>この訓練で基本的な戦闘技術を体得するのだ！！
+基礎訓練の仕上げに~C05ドスジャギィの狩猟~C00を行う。<NEWLINE>今回は~C05≪討伐編≫~C00だ！　これまでに得たハンターとしての<NEWLINE>知恵と勇気が試される…頑張れよ！
+今回は~C05ドスジャギィの狩猟≪捕獲編≫~C00を行う。<NEWLINE>討伐とは一味も二味も違ったアプローチが要求されるぞ。<NEWLINE>捕獲が出来るようになれば~C05免許皆伝~C00だ！　健闘を祈る！！
+One of the keys to using Sword is the ~C05Jump Slice~C00.<NEWLINE>~C05Remember the reach of the attack ~C00and then unleash<NEWLINE>a string of them on your foe.
+The key to using Dual Blades is proper timing for<NEWLINE>~C05Demonization~C00. Don't wait for a chance to Demonize.<NEWLINE>~C05Demonize to create your own chance~C00!
+The key to the Great Sword is correcting using ~C05draw<NEWLINE>slices~C00. Slice from unready positions or<NEWLINE>use powerful charged attacks? Observe, then decide.
+The key to the Long Sword is the ~C05Spirit Gauge~C00.<NEWLINE>Charge it fully and see your attack power rise.<NEWLINE>Try to ~C05charge the gauge ~C00as quickly as you can!
+The trick to using a Hammer is mastering ~C05charge<NEWLINE>attacks~C00. When attacking, you should almost always<NEWLINE>charge your attacks. ~C05Just remember the timing~C00!
+The Hunting Horn's secret is its ~C05Recital ~C00ability.<NEWLINE>Stringing together two white notes will trigger the<NEWLINE>~C05Self-Improvement ~C00skill. Just don't let it run out.
+The trick to using a Lance is ~C05Guard~C00. Guard<NEWLINE>against an approaching monster's attack! Then use<NEWLINE>any chance to unleash a flurry of your own strikes!
+The key to a Gunlance is ~C05Shelling~C00! This wonderful<NEWLINE>attack can penetrate even hardest monster shell.<NEWLINE>Also try ~C05Wyvern's Fire ~C00for a devastating effect.
+スラッシュアックスの扱いの秘訣は~C05変形~C00にある！<NEWLINE>まずは~C05斧状態と剣状態のタイプの違う攻撃~C00を心に刻め。<NEWLINE>そしてスムーズな変形から属性解放突きを狙っていけ！
+The Light Bowgun's secret is ~C05ammo selection~C00.<NEWLINE>Select the shell that best suits the monster's<NEWLINE>condition. Grasp the traits of a plethora of shells.
+The secret to the Heavy Bowgun is a ~C05proper range~C00.<NEWLINE>Long range is not always best. ~C05Find the best<NEWLINE>distance ~C00to take down each opponent!
+The trick to the Bow is ~C05Charging~C00. Charged arrows<NEWLINE>will have a ~C05different level of power ~C00than<NEWLINE>uncharged ones. Don't forget special arrows too!
+Defeat the<NEWLINE>target monster!
+All Training Quest requires you to slay your foe.<NEWLINE>Slay it, and training is complete, however, you must<NEWLINE>use ~C05set armor and weapons ~C00to fnish the task!
+決められた装備で<NEWLINE>戦い抜くのだ！
+訓練で使用できる武具は、この我輩が好みでチョイス！<NEWLINE>限定された~C05訓練所専用の装備~C00でしか挑戦は認めんぞ。<NEWLINE>ハンターたる者、全ての武器を扱えないとな。
+所持アイテムも<NEWLINE>この我輩がチョイス！
+そして、それらの専用装備には、我輩が~C05厳選に厳選を<NEWLINE>重ねた便利アイテム~C00を持たせているぞ！　活用せよ！！<NEWLINE>~C05所持アイテムの意味を考える~C00のだ。…貴様ならわかるな？
+訓練で結果を残し<NEWLINE>ポイントをゲットするのだ！
+訓練の結果に応じて我輩が~C05タイムランク~C00を付けてやる！<NEWLINE>タイムランクは~C05ユクモポイントに換算される~C00ぞ。タイムは<NEWLINE>ギルドカードにも載るので、仲間と切磋琢磨するのだ！！
+温泉やドリンクスキルの<NEWLINE>効果は一切得られないぞ！
+温泉に浸かり、湯上がりのドリンクは格別にウマい！<NEWLINE>しかし、訓練では公平さを尊重するため、~C05それらの効果は<NEWLINE>得られない~C00のだ。残念だが、~C05オトモも連れて行けない~C00ぞ！
+村や集会浴場のクエストを<NEWLINE>進めれば訓練が追加されるぞ！
+~C05村や集会浴場のクエストを進める~C00ことで、新しい訓練に<NEWLINE>挑戦できるようになるぞ！　常に貴様の実力に見合う<NEWLINE>訓練をさせるための、我輩の優しい心遣いなのだ！！
+訓練を頑張っていると<NEWLINE>イイコトが…？
+我輩の座右の銘は~C05≪日々是訓練≫~C00である！<NEWLINE>真摯な姿勢で訓練に励むハンターには、ついついご褒美を<NEWLINE>…ゲフン！　うむ、詳しくは~C05秘密~C00だ！！
+ハンター道に王道無し！<NEWLINE>日々是訓練だ！！
+ハンターを志す者よ、よくぞ来た！<NEWLINE>この~C05ハンターの心得~C00をよく読み、よく理解し、<NEWLINE>ハンターの活躍の場である~C05クエスト~C00に出発するのだ！
+クエストを受注することで<NEWLINE>ハンターは狩りを行うのだ！
+クエストに出るには、クエストを受注する必要がある。<NEWLINE>数あるクエストから、１つを選んで受注するのだが…<NEWLINE>クエストの受注には~C5契約金~C00が必要となる！
+勝てばガッポリ！<NEWLINE>負ければションボリ…
+クエストに成功すれば、契約金は倍となり戻ってくるぞ。<NEWLINE>それだけではない、なんと~C05報酬金~C00までゲットできるのだ！<NEWLINE>ただし、失敗ならお金は~C05全く入らない~C00！　覚悟しろ！！
+クエスト毎に設定される<NEWLINE>成功条件を達成するのだ！
+クエスト受注の際には~C05成功条件~C00を必ず確認しておけ！<NEWLINE>条件を満たせば~C05即刻クエストクリア~C00となる。<NEWLINE>…でないと、いつまでたってもユクモ村に戻れんぞ！！
+この世界には<NEWLINE>様々なクエストが存在する！
+モンスターを狩ることだけが全てではない！<NEWLINE>時には~C05有益なアイテムを採取~C00したり、~C05卵を運搬~C00したり…<NEWLINE>多岐にわたる依頼に応えるのだ！　好き嫌いはいかんぞ？
+まずは無料クエストから<NEWLINE>始めるとよいだろう！
+クエストには~C05契約金が不要~C00のものもあるぞ。<NEWLINE>我輩のクエストもその１つだ。我輩は懐が深いからな！<NEWLINE>失敗を恐れず、挑戦しまくるのだ！　遠慮したら負けだ！
+初心者演習　特別ルール①<NEWLINE>私物の持ち込み禁止！
+この初心者演習では、~C05私物の持ち込みは一切禁止~C00だ！<NEWLINE>ただし、我輩も鬼ではない。装備からアイテム類まで<NEWLINE>我輩が真心を込めて提供してやるぞ！　よかったな！！
+初心者演習　特別ルール②<NEWLINE>アイテムの持ち帰り禁止！
+残念ながら、我輩のクエスト中に入手した~C05アイテムの<NEWLINE>持ち帰りは禁止~C00だ。我輩も生活がかかっているのでな…。<NEWLINE>回収されるアイテムは授業料だと思って勘弁してくれ！
+初心者演習　特別ルール③<NEWLINE>我輩が付いているぞ！
+訓練中の様々な場面で、我輩が~C05アドバイス~C00をしてやろう。<NEWLINE>その１つ１つがハンターとしての~C05金言~C00だ！<NEWLINE>後で困らぬよう、キチンと耳を傾けるのだぞ！！
+実践あるのみ！<NEWLINE>レッツハンティング！！
+頭で考えるより、細かいことは実地で学ぶのが一番だ！<NEWLINE>これから~C05ハンターとしての第一歩を踏み出す~C00ことになる。<NEWLINE>貴様の活躍を期待している！　さあ、出発しろ！！
+Items
+Status
+Equipment Detail
+Options
+No Quest Requests
+No Slots
+Password Set	
+Recruiting Note
+Quest Member
+Reward
+Contract
+Locatn
+Time Limit
+受注条件
+Requirmnt
+Requirmnt
+Main Monsters
+<D>
+<N>
+Waiting for Players
+Confirm
+Players
+Quest Details
+Quest Level
+Goal Condition
+Fail Condition
+Client
+Quest Details
+★
+★★
+★★★
+★★★★
+★★★★★
+★★★★★★
+★★★★★★★
+★★★★★★★★
+Level
+Min. HR
+１
+２
+３
+４
+５
+６
+？？？？？？
+Urgent Quest
+Event Quest
+Hot Spring Quest
+Drink Quest
+Special Quest
+Volatile
+Locale
+０
+１
+２
+３
+４
+５
+６
+７
+８
+９
+★
+/
+?
+個
+ｚ
+∞
+×
+枚
+ID
+Name：
+：
+<EMPTY STRING>
+mins
+No
+Yes
+<EMPTY STRING>
+Amount
+Info
+Next
+Back
+Requires
+Departure Prep
+Cancel Departure
+Menu
+Status
+Unable to Rec
+Move
+Zoom In 
+Zoom Out
+Send to Box
+？？？？？？？？

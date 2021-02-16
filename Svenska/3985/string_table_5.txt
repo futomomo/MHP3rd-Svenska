@@ -1,0 +1,6 @@
+Basic Training - Fishing
+Deliver 1 Sushifish
+Reward Zero<NEWLINE>Time Over
+Listen up, pal. This is your<NEWLINE>instructor. Time to try some<NEWLINE>fishing. Use bait at a fishing<NEWLINE>point, and fish will start to<NEWLINE>bite. So go catch a Sushifish<NEWLINE>for dinner!
+Jaggi<NEWLINE>Gagua
+Training Instructor

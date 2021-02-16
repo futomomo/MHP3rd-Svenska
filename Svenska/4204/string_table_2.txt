@@ -1,0 +1,18 @@
+0,Want to use the insect<NEWLINE>trap, nya? You can use<NEWLINE>one item per quest to<NEWLINE>attract more insects,<NEWLINE>nya. Use whatever item<NEWLINE>you like, since they<NEWLINE>all have the same<NEWLINE>effect, nya.
+0,Well, whenever you<NEWLINE>want to use the insect<NEWLINE>trap, just ask, nya.
+0,You need to gather the<NEWLINE>insects from the trap<NEWLINE>before adding more<NEWLINE>incense, nya. Walk up<NEWLINE>to the trap and press<NEWLINE>the ~B03 button, nya.
+2,This is the insect<NEWLINE>trap, nya.<NEWLINE>All you need to do is<NEWLINE>put some incense here<NEWLINE>and you'll attract all<NEWLINE>sorts of insects, nya.
+2,It takes a while for<NEWLINE>insects to gather, but<NEWLINE>you can gather a whole<NEWLINE>lot of them at once,<NEWLINE>nya! By the time you<NEWLINE>finish a quest, there<NEWLINE>should be lots, nya.
+2,Use different incenses<NEWLINE>to attract different<NEWLINE>insects, nya. You can<NEWLINE>trade Yukumo Points<NEWLINE>for more incenses by<NEWLINE>talking to the Farm<NEWLINE>Manager, nya.
+2,When you acquire more<NEWLINE>incense types, leave<NEWLINE>them with me, nya.<NEWLINE>I'll prepare them for<NEWLINE>you, nya.
+2,You can also use items<NEWLINE>along with the incense<NEWLINE>to attract even more<NEWLINE>insects, nya.
+2,For example, use Honey<NEWLINE>to sweeten the trap's<NEWLINE>fragrance, nya.<NEWLINE>However, you'll have<NEWLINE>to provide your own,<NEWLINE>nya.
+2,Remember, you can only<NEWLINE>use one enhancing item<NEWLINE>at a time, nya.<NEWLINE>Use whatever item you<NEWLINE>like, because they all<NEWLINE>have the same effect,<NEWLINE>nya.
+2,After you gather the<NEWLINE>insects, the trap will<NEWLINE>continue with the same<NEWLINE>incense, nya. Talk to<NEWLINE>me again if you want<NEWLINE>to change it or use<NEWLINE>another item, nya.
+0,Anyway, for now I'll<NEWLINE>just use some basic<NEWLINE>Bug Perfume, so come<NEWLINE>back after you've done<NEWLINE>a quest, nya.
+0,You can now use your<NEWLINE>new Black Bug Perfume,<NEWLINE>nya. It will attract<NEWLINE>insects useful for<NEWLINE>crafting equipment,<NEWLINE>nya!
+0,This time, your new<NEWLINE>incense is Shell Bug<NEWLINE>Perfume, nya! It can<NEWLINE>attract some pretty<NEWLINE>rare insects, nya!
+0,Your new Royal Perfume<NEWLINE>is ready for use, nya!<NEWLINE>Like the name implies,<NEWLINE>this incense is top<NEWLINE>notch. You can attract<NEWLINE>super rare insects<NEWLINE>with it, nya!
+0,This new incense is<NEWLINE>amazing, nya! I call<NEWLINE>it Rare Perfume, nya!<NEWLINE>You'll be able to<NEWLINE>attract valuable and<NEWLINE>rare insects with it,<NEWLINE>nya!
+0,The new Hi Bug Perfume<NEWLINE>will attract insects<NEWLINE>useful for combining,<NEWLINE>nya. It should provide<NEWLINE>everything you need,<NEWLINE>nya!
+0,Do you need anything<NEWLINE>with the insect trap,<NEWLINE>nya?

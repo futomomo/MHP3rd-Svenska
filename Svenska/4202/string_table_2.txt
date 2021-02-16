@@ -1,0 +1,40 @@
+0,ふふ、いらっしゃい。<NEWLINE>あなた、大剣は<NEWLINE>使ったことある？<NEWLINE>攻撃と防御を兼備えた<NEWLINE>ダイナミックな武器よ。<NEWLINE>相手の動きを読んで<NEWLINE>上手に立ち回ってね。
+0,ふふ、いらっしゃい。<NEWLINE>大剣は使ってる？<NEWLINE>大剣のキック攻撃は<NEWLINE>横殴り、強溜め斬りに<NEWLINE>繋げられる素敵な技よ。<NEWLINE>横殴りは、モンスターを<NEWLINE>めまい状態にできるわ。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、太刀は<NEWLINE>使ったことある？<NEWLINE>鍛え抜かれた刀身、<NEWLINE>リーチとスピードが<NEWLINE>自慢の武器よ。
+0,ふふ、いらっしゃい。<NEWLINE>太刀は使ってる？<NEWLINE>太刀は攻撃を当てるほど<NEWLINE>練気ゲージが溜まるの。<NEWLINE>ゲージが溜まったら<NEWLINE>≪気刃大回転斬り≫ね。<NEWLINE>当たれば攻撃力上昇よ！
+0,ふふ、いらっしゃい。<NEWLINE>あなた、片手剣は<NEWLINE>使ったことある？<NEWLINE>攻撃、防御、機動性…<NEWLINE>全てを兼ね備えてるわ。<NEWLINE>機敏に動き回って、モン<NEWLINE>スターを翻弄してね。
+0,ふふ、いらっしゃい。<NEWLINE>片手剣は使ってる？<NEWLINE>片手剣は剣だけじゃなく<NEWLINE>盾でも攻撃可能なの。<NEWLINE>見事、モンスターの頭に<NEWLINE>当てれば、めまい状態に<NEWLINE>することも可能よ。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、双剣は<NEWLINE>使ったことある？<NEWLINE>双剣は「蝶のように舞い<NEWLINE>蜂のように刺す」、<NEWLINE>そんな武器よ。華麗な<NEWLINE>あなたにぴったりね。
+0,ふふ、いらっしゃい。<NEWLINE>双剣は使ってる？<NEWLINE>鬼人化時に、ゲージを<NEWLINE>溜めておけば、鬼人化<NEWLINE>解除後も鬼人化のような<NEWLINE>状態を維持できるの。<NEWLINE>これが≪鬼人強化≫ね。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、ハンマーは<NEWLINE>使ったことある？<NEWLINE>すさまじい攻撃力と、<NEWLINE>溜めながら走れる機動性<NEWLINE>が魅力ね。テンポ良く、<NEWLINE>爽快な狩りを楽しんで。
+0,ふふ、いらっしゃい。<NEWLINE>ハンマーは使ってる？<NEWLINE>溜め攻撃は威力が<NEWLINE>強力な分、仲間を巻き<NEWLINE>込む可能性も高いわ。<NEWLINE>嫌われ者がイヤなら、<NEWLINE>使う時は周りに注意よ。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、狩猟笛は<NEWLINE>使ったことある？<NEWLINE>様々な旋律で仲間の<NEWLINE>サポートができる、<NEWLINE>素敵な武器よ。是非<NEWLINE>一度試してみてね。
+0,ふふ、いらっしゃい。<NEWLINE>狩猟笛は使ってる？<NEWLINE>演奏行動は、繰り返し<NEWLINE>行うことで、効果が高く<NEWLINE>なったり、継続時間が<NEWLINE>増加するのよ。絶えず<NEWLINE>演奏することが大事ね。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、ランスは<NEWLINE>使ったことある？<NEWLINE>盾でジっと攻撃に耐え、<NEWLINE>相手の一瞬の隙を突く…<NEWLINE>我慢強いあなたには<NEWLINE>オススメの武器ね。
+0,ふふ、いらっしゃい。<NEWLINE>ランスは使ってる？<NEWLINE>ランスは盾で攻撃を<NEWLINE>ガードした後に<NEWLINE>鋭く突きを繰り出す、<NEWLINE>≪カウンター突き≫が<NEWLINE>強力よ。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、ガンランスは<NEWLINE>使ったことある？<NEWLINE>ランスに砲撃機能が<NEWLINE>追加された武器よ。<NEWLINE>じゃじゃ馬さんだけど、<NEWLINE>使いこなせば強力よ。
+0,ふふ、いらっしゃい。<NEWLINE>ガンランスは使ってる？<NEWLINE>最近、弾を一斉発射する<NEWLINE>≪フルバースト≫や、<NEWLINE>≪クイックリロード≫が<NEWLINE>追加されて、より攻撃の<NEWLINE>幅が広がったわ。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、スラッシュアッ<NEWLINE>クスは使ったことある？<NEWLINE>最近開発された武器よ。<NEWLINE>なんと、斧と剣、２つの<NEWLINE>形状に変形するのよ。<NEWLINE>技術の進歩って素敵ね。
+0,ふふ、いらっしゃい。<NEWLINE>スラッシュアックスは<NEWLINE>使ってる？　スラッシュ<NEWLINE>アックスの一番の見せ場<NEWLINE>といえば、剣状態からの<NEWLINE>≪属性解放突き≫ね。<NEWLINE>一気にフィニッシュよ！
+0,ふふ、いらっしゃい。<NEWLINE>あなた、ライトボウガン<NEWLINE>は使ったことある？<NEWLINE>機動性が高く、素早く<NEWLINE>リロードできるのが<NEWLINE>特徴ね。弾で属性を<NEWLINE>選べるのも魅力的よ。
+0,ふふ、いらっしゃい。<NEWLINE>ライトボウガンは<NEWLINE>使ってる？　ライト<NEWLINE>ボウガンといえば軽快な<NEWLINE>ステップ回避ね。２回<NEWLINE>連続で使用可能よ。華麗<NEWLINE>に攻撃をかわしてね。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、ヘビィボウガン<NEWLINE>は使ったことある？<NEWLINE>ライトボウガンに比べて<NEWLINE>扱いにくいって言う人も<NEWLINE>いるけど、攻撃力の高さ<NEWLINE>はやっぱり魅力的よね。
+0,ふふ、いらっしゃい。<NEWLINE>ヘビィボウガンは<NEWLINE>使ってる？　<NEWLINE>≪しゃがみ撃ち≫は<NEWLINE>一度に多くの弾を装填<NEWLINE>することが可能よ。<NEWLINE>集中攻撃のチャンスね。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、弓は<NEWLINE>使ったことある？<NEWLINE>矢をつがえる時間で攻撃<NEWLINE>が変化するのが特徴よ。<NEWLINE>ビンを付ければ、狩りは<NEWLINE>より多彩になるわ。
+0,ふふ、いらっしゃい。<NEWLINE>弓は使ってる？<NEWLINE>知ってるかしら、弓の<NEWLINE>≪曲射≫には、めまい<NEWLINE>効果もあるのよ。<NEWLINE>モンスターの頭部を<NEWLINE>積極的に狙ってみてね。
+0,ふふ、ありがとう。<NEWLINE>また寄ってね。
+2,ふふ、いらっしゃい。<NEWLINE>あなたが噂の<NEWLINE>新入りハンターさんね。<NEWLINE>今、ユクモ村はどこに<NEWLINE>行っても、みんな<NEWLINE>あなたの話ばかりよ。<NEWLINE>…ふふふ。人気者ね。
+2,私は、隣の加工屋の<NEWLINE>お爺ちゃんのお手伝いで<NEWLINE>武器や防具を売ってる、<NEWLINE>この村の武器屋よ。<NEWLINE>既製品だから、素材が<NEWLINE>なくても大丈夫。すぐに<NEWLINE>用意してあげるわ。
+2,まぁ、その分、<NEWLINE>取扱いできる武具は<NEWLINE>限定されるんだけど…、<NEWLINE>武器も防具も、<NEWLINE>とりあえず使えるものを<NEWLINE>用意してあるわ。
+2,武器を選ぶ時は、<NEWLINE>攻撃力に注意してね。<NEWLINE>同じ攻撃力でも、攻撃の<NEWLINE>種類や、武器カテゴリで<NEWLINE>与えるダメージは<NEWLINE>違ってくるわよ。
+0,とりあえず一式揃えたい<NEWLINE>けど、素材が足りない、<NEWLINE>そんなときには<NEWLINE>是非来てちょうだいね。
+2,あら、聞いたわよ。<NEWLINE>あなた、最近活躍<NEWLINE>してるらしいじゃない。<NEWLINE>…ふふ。「このくらい、<NEWLINE>なんてことない！」<NEWLINE>って顔ね。流石だわ。
+2,これからはもっと難しい<NEWLINE>クエストの依頼が<NEWLINE>あなたのところに<NEWLINE>来るようになるはずよ。<NEWLINE>武器や防具も、それに<NEWLINE>合わせてパワーアップ<NEWLINE>しなきゃいけないわ。
+2,私の店でも、いくつか<NEWLINE>新しい武器や防具を<NEWLINE>入荷してみたの。<NEWLINE>どれもハンター生活に<NEWLINE>欠かせない、基本的な<NEWLINE>要素を押さえた<NEWLINE>武器や防具ばかりよ。
+2,武器は骨や鉄素材の物を<NEWLINE>用意したの。強化次第で<NEWLINE>長く使えるはずよ。<NEWLINE>防具は、頭から爪先まで<NEWLINE>シリーズで揃えるのが<NEWLINE>オススメね。ビシッ！<NEWLINE>とキメてちょうだい。
+0,まぁ、こんな所かしら。<NEWLINE>ハンターさんってば、<NEWLINE>ウチの店にはなかなか<NEWLINE>来てくれないんだもの、<NEWLINE>いつも寂しいわ。<NEWLINE>今日はゆっくり見てって<NEWLINE>ちょうだいね。
+2,あら、ハンターさん。<NEWLINE>最近、ますます<NEWLINE>ハンターとしての風格が<NEWLINE>出てきたんじゃない？<NEWLINE>ふふ。<NEWLINE>でも無茶は駄目よ？
+2,今日は新入荷の<NEWLINE>アロイシリーズ装備を<NEWLINE>紹介させてもらうわね。<NEWLINE>素材は主に鉱石で、<NEWLINE>マカライトの青が<NEWLINE>目にも鮮やかな防具よ。
+2,洗練された防具に<NEWLINE>身を包めば、自然と<NEWLINE>身のこなしもスマートに<NEWLINE>なっていくものよ。<NEWLINE>常に今の自分にあった<NEWLINE>防具を選ぶことも、<NEWLINE>ハンターのたしなみね。
+0,まぁ、こんな所かしら。<NEWLINE>ハンターさんってば、<NEWLINE>最近ますますウチの店<NEWLINE>から足が遠のいてない？<NEWLINE>寂しいわ…。<NEWLINE>今日はゆっくり見てって<NEWLINE>ちょうだいね。
+0,ふふ、いらっしゃい。<NEWLINE>あなた、大剣は<NEWLINE>使ったことある？<NEWLINE>攻撃と防御を兼備えた<NEWLINE>ダイナミックな武器よ。<NEWLINE>相手の動きを読んで<NEWLINE>上手に立ち回ってね。

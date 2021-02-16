@@ -1,0 +1,1995 @@
+<EMPTY STRING>
+－－－－－－－－
+－－－－－－
+－－－－－
+Qty
+「%s」
+０
+１
+２
+３
+４
+５
+６
+７
+８
+９
+★
+／
+Cfrm
+G
+Avbryt
+Ja
+Nej
+~B12~C34Ja~C00~B13　　Nej　
+　Ja　 ~B12~C34Nej~C00~B13
+~B12~C34Exchange~C00~B13　　Remove　
+　Exchange　　~B12~C34Remove~C00~B13
+%d
+%1d
+%2d
+%3d
+%4d
+%5d
+%6d
+%7d
+%4dz
+%5dz
+%7dz
+%4dpts
+%5dpts
+%7dpts
+-------z
+-------pts
+~B00Cfrm
+~B01Back
+~B03Back
+~B03~B01Back
+~B02Info
+~B03Skill Info
+~B03Equip Info
+~B00Slct
+~B00Unselect
+~B06　Dcide
+~B07　Sort
+~B06　Camera Settings
+~B08Rotate
+~B09Camera
+~B06　Menu
+~B00Confirm
+~B00Color
+~B03Switch Equipment
+~B03~B00Cfrm
+~B06　Edit Set Name
+~B06　Reg Set
+~B01Cancel
+~B07　View by Name
+~B07　View by Skills
+~B07　Sort by
+~B03Map Zoom In
+~B03Map Zoom Out
+~B02Beacon
+~B03Move List
+~B02Set Order
+~B02Order List
+~B07　Default
+~B02Amount
+~B06　Begin
+~B01Cancel
+~B06　Back
+~B03Switch
+~B02Details
+~B06　Edit Set Name
+~B03More Details
+~B07　View
+~B02Sell
+~B03Compare
+~B03Details
+~B03Hide Weapon
+~B03Show Weapon
+~B01Unselect
+~B03Skill Info
+x%2d
+ ∞
+Select the item<NEWLINE>to be exchanged.<NEWLINE>
+Item has been exchanged.
+Sell remaining items?<NEWLINE>OK?　
+Place item into Item Bag. When<NEWLINE>the Item Bag is full, you can<NEWLINE>switch out other items.
+Send to Item Box. If the Item Box<NEWLINE>is full, you will not be able to<NEWLINE>send the item.
+Sell remaining items and exit.
+Select the items to receive,<NEWLINE>then put it in the Item Bag.<NEWLINE>
+Select the item to receive,<NEWLINE>then send it to the Item Box.<NEWLINE>
+~C02Item box is full.
+Select the items to receive,<NEWLINE>then put it in the Item Bag.<NEWLINE>~C02You cannot carry any more.
+Select the item to receive,<NEWLINE>then send it to the Item Box.<NEWLINE>~C02Item Box is full.
+Sell remaining items?<NEWLINE>~C05(Appraise unidentified items)
+Sell remaining items?
+Sell remaining items?<NEWLINE>~C05(Including Decorations)
+未鑑定アイテムのため<NEWLINE>鑑定ボックスに送ります。
+臨時ポーチに残ったアイテムを<NEWLINE>アイテムポーチに入れてください。
+臨時ポーチに残ったアイテムを<NEWLINE>アイテムポーチに入れてください。<NEWLINE>~C02このアイテムはこれ以上持てません
+臨時ポーチに残ったアイテムを<NEWLINE>アイテムボックスに送って下さい。
+臨時ポーチに残ったアイテムを<NEWLINE>アイテムボックスに送って下さい。<NEWLINE>~C02アイテムボックスがいっぱいです
+Return to village in 20 seconds.
+Returning to village in 1 minute
+Quest completed!
+Reward decreased by %dz
+Time Left: %dmin
+Good work!
+Quest failed...
+Time limit: %dmin
+Time's up
+Supply items delivered.
+Deliveries possible for 20 secs!
+Objective cleared!
+Victory!
+One monster left!
+Two monsters left!
+Five monsters left!
+10 monsters left!
+20 monsters left!
+One monster left!
+Two monsters left!
+Five monsters left!
+10 monsters left!
+20 monsters left!
+Entering the Final Showdown!
+The Dragonator is ready for use.
+The Hunting Gong is ready for use.
+The Harpoon is ready for use.
+Ship has been destroyed!
+Successfully repelled Jhen Mohran!
+Ship integrity down to 50%
+Ship integrity down to 30%
+Ship integrity down to 10%
+z
+Value
+Amount
+――――――――
+RARE-%d
+Required Slots
+Time Left
+Quest Items
+Subtotal
+Yukumo Points
+Current Total
+Total Yukumo Points
+Discard
+Give
+Deliver
+Exchange
+Exchange
+Discard
+dummy
+Quit
+Combo List
+Monster List
+Comrade Status
+100%
+95%
+90%
+85%
+75%
+65%
+55%
+－－－－
+Name
+Alias
+Type
+Threat
+No. (Capture)
+Largest
+Smallest
+★
+%4d(%4d)
+%4d~C10(----)
+%4d.%02dcm
+----cm
+－－－－
+Lynian
+Neoptron
+Piscine
+Herbivore
+Bird Wyvern
+Pelagus
+Wyvern
+Fanged Wyvern
+Brute Wyvern
+Leviathan
+Elder Dragon
+－－－－
+Jumping Dog
+Sleep Dog
+Poison Dog
+Blue Bear
+White Rabbit
+Red Bullet
+Giant Boar
+Fire Queen
+Golden Queen
+Fire King
+Silver King
+Colorful Bird
+Red Bird
+Poison Horror
+Electric Horror
+Ice Fang
+Wind Fang
+Two Horns
+Black Horns
+Violent Terror
+Mud Brute
+Ice Crusher
+Explosion Hammer
+Steel Hammer
+Killer Croc
+Purple Croc
+Flaming Halberd
+Frozen Halberd
+Mountain Dragon
+Brilliant Darkness
+Mighty Roar
+Black Roar
+Dark Shadow
+Green Shadow
+Supreme Wyvern
+Avalanche Wyvern
+Thunder Wolf
+Storm Dragon
+Hidden Maw
+Hammer Tail
+Crocodile
+Lava Diver
+Angry Herbivore
+Ant
+Flying Pest
+Egg Bird
+Droopy Jowls
+ネコに似た姿を持つ獣人族。白毛が<NEWLINE>特徴。普段はおとなしいが攻撃される<NEWLINE>と逆上し、誰かれ構わず襲いかかる。<NEWLINE>好奇心が旺盛で、人語を解し人間社会<NEWLINE>に溶け込もうとする者もいるようだ。<NEWLINE>また、マタタビが好きで、その匂いを<NEWLINE>察知するとどこまでも追いかける。
+ネコに似た姿を持つ獣人族。黒毛が<NEWLINE>特徴。アイルーにもまして好奇心が旺<NEWLINE>盛で大の悪戯好き。手癖が悪く人から<NEWLINE>物を盗み集落に持ち帰ってしまう。<NEWLINE>マタタビが大好物なのだが、直接食ら<NEWLINE>うと酔っぱらってしまうようだ。酔っ<NEWLINE>ぱらうと落し物をすることがある。
+様々な場所に広く生息する“甲虫”。<NEWLINE>実やキノコ、ハチミツなどを体内に<NEWLINE>取り込み、巣まで運んでいくという<NEWLINE>習性を持つ。そのため、腹部が膨らん<NEWLINE>でいる個体からは有益な素材が採取<NEWLINE>できる。また、摂取している素材に<NEWLINE>よって腹部の色が変化するようだ。
+あらゆる環境に生息する“飛甲虫”。<NEWLINE>麻痺性の毒を持ちテリトリーに入って<NEWLINE>くる者を襲ってくる。死体に卵を産み<NEWLINE>つけ繁殖する事でも知られ、耐性を<NEWLINE>下げる特殊な体液で腐食を促進させ<NEWLINE>るようだ。この飛甲虫の素材を手に入<NEWLINE>れるためには毒を用いるのがベスト。
+砂漠地帯に生息する肉食モンスター。<NEWLINE>常に４～５匹の群れで行動する。大型<NEWLINE>のモンスターが狩りをする場に居合わ<NEWLINE>せるとその獲物を取り囲むように泳ぎ<NEWLINE>だし、獲物を追い詰め、おこぼれに<NEWLINE>あずかろうとする。音には敏感なため<NEWLINE>音爆弾などで一網打尽にできる。
+温和な性格で知られる小型の草食獣。<NEWLINE>その角は、万病を治す薬の原料として<NEWLINE>知られている。角には特殊な成分が<NEWLINE>含まれているため、打撃属性の攻撃で<NEWLINE>めまい状態にして、生きた状態で<NEWLINE>剥ぎ取る方が、剥ぎ取りやすい。
+頭部に特徴的な突起のある、比較的<NEWLINE>おとなしい性格の草食モンスター。<NEWLINE>群れを作り、集団内で子育ても行う。<NEWLINE>肉は美味で栄養価も高く、昔から労働<NEWLINE>力としても人間と深く関わってきた。<NEWLINE>また、大型モンスターが近付くと、<NEWLINE>警戒する様子が確認されている。
+大変縄張り意識の強い草食竜。視力が<NEWLINE>弱く遠くのものは認識できないが、<NEWLINE>近づくものがあれば優れた聴覚で気配<NEWLINE>を察知し、どこまでも執拗に追い回<NEWLINE>す。また、走り出したら容易に止まる<NEWLINE>ことができないのか、岩などに衝突<NEWLINE>する姿がしばしば目撃されている。
+水没林や火山の、主に水辺に生息する<NEWLINE>草食竜。“垂皮竜”の名が示す様に、<NEWLINE>分厚くたるんだ皮膚を持ち、そこに<NEWLINE>栄養を蓄えている。皮は耐熱防水性に<NEWLINE>優れ、雨具などの衣類に加工される。<NEWLINE>縄張り意識が強く、雄の個体は飛竜が<NEWLINE>来ても、逃げようとしないほど。
+寒冷地に生息する草食モンスター。<NEWLINE>普段はおとなしいが、不用意に<NEWLINE>近づくと、巨大な角を振り立てて<NEWLINE>攻撃してくる。<NEWLINE>良質な毛皮は利用価値が高く、角は<NEWLINE>ギルドでも珍重される。めまい状態に<NEWLINE>すると、角を剥ぎ取りやすいとか。
+群れで生活する草食獣。寒さに耐える<NEWLINE>長い毛で全身を厚く覆われている。<NEWLINE>性格は温厚だが、子供を守る際には<NEWLINE>巨大な牙を使い、勇敢に襲い掛かって<NEWLINE>くることでも知られている。<NEWLINE>また、その肉は大変栄養価が高く、<NEWLINE>特に舌は珍味とされる。
+渓流に生息する鳥竜種のモンスター。<NEWLINE>羽を持つが、小さく退化しており<NEWLINE>飛ぶ事は出来ない。ユクモ村では、<NEWLINE>家畜としても親しまれており、その<NEWLINE>用途は広い。また、大変臆病な性格<NEWLINE>で、こっそり背後から驚かされると、<NEWLINE>卵を産み落としてしまう事も。
+肉食性の鳥竜種。強い社会性を持ち、<NEWLINE>大規模な群れを作って生活する。<NEWLINE>若いオスは集団で、体格差が数倍も<NEWLINE>あるような大物を狩る。また最新の<NEWLINE>調査では、群れのリーダーの指示に<NEWLINE>従って行動するとも考えられている。<NEWLINE>時には竜の卵を狙うこともある。
+集団行動を取る鳥竜ジャギィのメス。<NEWLINE>原則として巣の近隣で活動し、巣の<NEWLINE>防衛や子育てを担う。<NEWLINE>成熟したオスと比較すれば小柄だが、<NEWLINE>集団内に無数にいる若いオスよりは<NEWLINE>大きく、肉体も強靭であるとされる。<NEWLINE>オス同様、リーダーの指示に従う。
+ジャギィの群れを統率するリーダー。<NEWLINE>通常、オスはある程度まで成長すると<NEWLINE>群れを離れ、単独で生活する。その後<NEWLINE>再び群れへ戻り競争を勝ち抜いたごく<NEWLINE>一部のオスのみが、この座に就く。<NEWLINE>群れへの統率力は高く、鳴き声で<NEWLINE>複雑な命令を下していると言われる。
+群れで狩りを行う高い知能を持った<NEWLINE>鳥竜種の肉食モンスター。青白い鱗と<NEWLINE>鋭い目つきが特徴的。集団で獲物を<NEWLINE>追い込み、特殊な体液で昏睡させて<NEWLINE>狩りを行う。大の大人でも数秒で昏睡<NEWLINE>してしまう体液はハンター達の大きな<NEWLINE>脅威として知られている。
+ジャギィと同じ鳥竜種に分類される<NEWLINE>肉食モンスター。凍土になじむ青白<NEWLINE>い皮膚の色と、大きく隆起した頭部の<NEWLINE>突起が特徴。その狡猾な頭脳でバギィ<NEWLINE>の群れを統率する。狩りをする際には<NEWLINE>集団で獲物を追い込み、特殊な体液で<NEWLINE>昏睡させて仕留める。
+口内から喉にかけて、毒を生成する<NEWLINE>器官を持つ小型の肉食モンスター。<NEWLINE>基本的に群れで行動し、大型の雄に<NEWLINE>付き従う事も多い。その場合、群れを<NEWLINE>成す個体は、非常に忠実であり、<NEWLINE>命令ひとつで身を挺してリーダーを<NEWLINE>守ろうとする。
+滞留する霧状の毒を吐き、“毒狗竜”<NEWLINE>の異名を持つ鳥竜種のモンスター。<NEWLINE>群れで行動し、とりわけ大きく、強い<NEWLINE>毒を持つ雄の成体が群れのリーダーを<NEWLINE>務める。喉のまわりにある袋状の器官<NEWLINE>で毒を生成するため、これを壊される<NEWLINE>と十分な毒を吐けなくなるようだ。
+独特な色彩を持った鳥竜種。<NEWLINE>胸元と頭部に備わる発声器官を使い、<NEWLINE>様々なモンスターの鳴きマネを行うこ<NEWLINE>とで有名。危険を感じると、飛竜など<NEWLINE>の声色をマネて呼び、隙を見て逃げよ<NEWLINE>うとする。耐性を下げる液体を吐いて<NEWLINE>くるので注意が必要。別名“彩鳥”。
+鮮やかな紅い体毛を持つクルペッコの<NEWLINE>亜種。別名“紅彩鳥”。通常種同様、<NEWLINE>鳴きマネや踊りを得意とする。<NEWLINE>両翼の電気石と呼ばれる部位で、電気<NEWLINE>を発生させる事ができる。発生した<NEWLINE>電気は、衝撃を与えると放電し、電撃<NEWLINE>や強烈な閃光を生み出す。
+野生のイノシシ。<NEWLINE>気が荒く、ハンターを見つけると<NEWLINE>突進してくる。その威力は強力。<NEWLINE>肉は主に食料とされ、癖のある味<NEWLINE>だが愛好するハンターも多い。<NEWLINE>繁殖力が高く広範な地域に生息し、<NEWLINE>時として大規模な群れを形成する。
+大型の野生のイノシシで、<NEWLINE>ブルファンゴのリーダー。<NEWLINE>大柄で巨大な牙が特徴。ブルファンゴ<NEWLINE>より攻撃的で、その攻撃は突進が主だ<NEWLINE>が、索敵能力が非常に高い。<NEWLINE>顔に、ヒゲのように白い毛が生えて<NEWLINE>おり、“大猪”と呼ばれる。
+温暖湿潤な地域の山や森に生息する<NEWLINE>牙獣。二足で立ち上がり、大好物の<NEWLINE>ハチミツを採取したり、河原で魚を<NEWLINE>捕る事で知られる。鋭い爪と厚い甲殻<NEWLINE>を持つ前脚は非常に発達しており、<NEWLINE>その一撃は脅威。美しい青毛を持つ事<NEWLINE>から“青熊獣”とも呼ばれる。
+寒冷地での生活に適応した牙獣。<NEWLINE>分厚い皮下脂肪と保温性の高い体毛<NEWLINE>を持つ。草食傾向の強い雑食だが、<NEWLINE>動物質を摂取する事もある。その際は<NEWLINE>優れた聴覚で獲物を探し出し、氷上を<NEWLINE>滑走する事で、素早く、静かに、<NEWLINE>狩りを行う。通称“白兎獣”。
+マグマにも耐える、分厚く赤い甲殻を<NEWLINE>持ち、“赤甲獣”とも呼ばれる牙獣。<NEWLINE>身体を丸め、灼熱の地表の上を転がる<NEWLINE>ように移動する。甲虫種を好み、<NEWLINE>その長い舌で絡めとるように捕らえて<NEWLINE>しまう。強力な麻痺性の唾を吐く事<NEWLINE>でも知られているため、注意が必要。
+別名“土砂竜”。暑さから身を守る<NEWLINE>ためか、普段は泥の中に潜んでいる事<NEWLINE>が多い。泥をまとう行動も避暑のため<NEWLINE>だという説が有力。まとった泥は攻撃<NEWLINE>にも使われるため要注意。また、泥沼<NEWLINE>を荒されることを嫌い、荒らす者には<NEWLINE>猪突猛進の勢いで襲い掛かってくる。
+凍土に生息する、ボルボロスの亜種。<NEWLINE>通常種の泥と同様に、雪や氷を体表に<NEWLINE>まとい、それを振り飛ばして攻撃を<NEWLINE>行う場合があるため注意が必要。<NEWLINE>発達した頭殻を氷に叩きつけるような<NEWLINE>行動をとる事から“氷砕竜”の異名を<NEWLINE>持つ。主食はブナハブラ。
+巨大な獣竜種。頑強な顎で岩盤を細か<NEWLINE>く砕き、主食である鉱石を摂取する。<NEWLINE>また、溶岩を巧みに使い岩石や鉱石を<NEWLINE>体表面に付着させており、ばらまく<NEWLINE>岩石は、自らが引き起こす振動で<NEWLINE>大爆発を起こす。転倒時を狙い腹から<NEWLINE>採掘できる事も。別名“爆鎚竜”。
+“鋼鎚竜”の異名を持つウラガンキン<NEWLINE>の亜種。通常種と同様、身体を丸めて<NEWLINE>高速で転がって移動するのが特徴。<NEWLINE>食性の違いか、体内で生成されるガス<NEWLINE>は悪臭が強い。体表に付着した岩石に<NEWLINE>もガスがしみこみ、それがばらまかれ<NEWLINE>ると、そこからも悪臭が吹き出す。
+“尾槌竜”の名に違わぬ、ハンマー<NEWLINE>のような塊の付いた尻尾を持つ獣竜。<NEWLINE>倒木や立ち枯れた木を主食とする。<NEWLINE>巨大な尾は、木を打ち倒すためにも<NEWLINE>使われるようだ。また、一説では、<NEWLINE>背中にあるコブがエネルギー源では<NEWLINE>ないかとされている。
+別名“恐暴竜”。特定のテリトリーを<NEWLINE>持たず、餌を求めて常にさまよい歩い<NEWLINE>ている。非常に狂暴で、怒りの際には<NEWLINE>筋肉が大きく隆起し、古傷が浮かび上<NEWLINE>がる。また、高い体温を保つため常に<NEWLINE>捕食し続ける必要があり、周辺の生物<NEWLINE>を絶滅に追い込むこともあるという。
+雌の水棲モンスター。ルドロスは大型<NEWLINE>の雄を中心に完全なハーレムを作る。<NEWLINE>雄が繁殖のために作ったなわばりに、<NEWLINE>多数のルドロスが集まってくるので<NEWLINE>ある。なわばりを侵す外敵に対しては<NEWLINE>非常に攻撃的になるので注意が必要。<NEWLINE>別名“水生獣”。
+別名“水獣”。首にあるスポンジ状の<NEWLINE>鱗に大量の水分を含ませることで表皮<NEWLINE>の乾燥を防ぎ、陸上での活動を助けて<NEWLINE>いる。だが、スポンジが萎縮し始める<NEWLINE>とその能力を失うため、水浴びを行い<NEWLINE>回復を図る。また、特殊な粘液を吐き<NEWLINE>だし獲物の足元をすくって捕える。
+紫色のタテガミを持つ、ロアルドロス<NEWLINE>の亜種。スポンジ状のタテガミには、<NEWLINE>体内で生成された毒液が蓄えられて<NEWLINE>おり、行動の際に毒をまき散らす。<NEWLINE>タテガミに水分を含ませる行動は、<NEWLINE>疲労回復にも繋がるため、水源が<NEWLINE>豊富な土地を好む。別名“紫水獣”。
+砂の海で独特の進化を遂げた海竜種。<NEWLINE>“潜口竜”とも呼ばれるように、<NEWLINE>砂に潜り体表を擬態し、獲物を狙う。<NEWLINE>そして、音で獲物の位置を探り、<NEWLINE>大きな口で砂ごと飲み込んでしまう。<NEWLINE>口の中にあるひだのような器官は、<NEWLINE>栄養を取り込むためのものとされる。
+火山に棲む海竜種の幼体。腐肉食で<NEWLINE>知られ、大型モンスターの食い散ら<NEWLINE>かしに群がる。稀に自分でも狩りを<NEWLINE>行い、その際は地中から地上の獲物<NEWLINE>を突き刺すように急襲する。<NEWLINE>近づく者には非常に攻撃的になること<NEWLINE>でも知られる。別名“溶岩獣”。
+別名“炎戈竜”。硬い嘴と強靭な筋力<NEWLINE>を使って岩盤を突き破り、地中から地<NEWLINE>上、さらには天井までをも縦横無尽に<NEWLINE>行き交う。全身にまとう硬化した溶岩<NEWLINE>は非常に硬いが、地中に潜った際の<NEWLINE>熱や、火属性、爆発による攻撃などで<NEWLINE>赤く変化し、柔らかくなるようだ。
+凍土に生息するアグナコトルの亜種。<NEWLINE>“凍戈竜”とも呼ばれ、鋭い嘴で、<NEWLINE>永久凍土を自在に潜る事ができる。<NEWLINE>その際に、硬い氷塊を身体に付着させ<NEWLINE>るが、これは熱をもった攻撃を加える<NEWLINE>事で溶かす事が可能。強烈な水流を<NEWLINE>ブレスとして放つ事ができる。
+陸の女王の異名を持つ“雌火竜”。<NEWLINE>地上を中心とした狩りを行うため、<NEWLINE>大地を駆ける優れた脚力と、獲物を<NEWLINE>仕留める猛毒を含んだ尾を持つ。<NEWLINE>つがいで狩りをする様子も目撃されて<NEWLINE>おり、その際にはお互いに連携を取る<NEWLINE>かのような行動を見せるという。
+美しい金色の甲殻を持つ、リオレイア<NEWLINE>の希少種。<NEWLINE>生態や生息地にも謎が多く、その月に<NEWLINE>喩えられる金色が、何に由来するもの<NEWLINE>かは判っていない。
+天空の王者と呼称され、畏れられる<NEWLINE>飛竜。雌火竜と共に巣を中心とした広<NEWLINE>いテリトリーを形成し、空から監視す<NEWLINE>る。テリトリーに侵入した者には優れ<NEWLINE>た飛行能力で上空から急降下し、毒を<NEWLINE>含む強力な爪で襲い掛かってくる。火<NEWLINE>を吐くことから“火竜”と呼ばれる。
+美しい銀色の甲殻を持つ、リオレウス<NEWLINE>の希少種。<NEWLINE>生態や生息地にも謎が多く、その太陽<NEWLINE>に喩えられる銀色が、何に由来する<NEWLINE>ものかは判っていない。
+飛竜の幼生。非常に繁殖力が強く<NEWLINE>暗所であれば気候に左右される事なく<NEWLINE>棲みつくことができる。他の生物に<NEWLINE>張り付き血を吸うことで、成長しつつ<NEWLINE>体内に毒素を生成することも確認され<NEWLINE>ている。なお、張り付かれた際には<NEWLINE>地面を転がる行動などを推奨する。
+凍土に生息する飛竜。薄暗い場所を<NEWLINE>好むため目は退化しているが、熱で<NEWLINE>獲物を感知し、毒のブレスを吐きつけ<NEWLINE>襲いかかる。興奮すると体表の色が<NEWLINE>変わり、一部の部位が硬化する。<NEWLINE>また、繁殖力が非常に強く、至る所に<NEWLINE>卵を産みつける。別名“毒怪竜”。
+電気を操る怪竜の亜種。突然変異種と<NEWLINE>見られ発見報告も稀。発する強烈な<NEWLINE>電撃で獲物の体の自由を奪い、動きを<NEWLINE>封じてから捕食するといわれる。<NEWLINE>体表にある蓄電器官の破壊を行えば<NEWLINE>電撃を弱めることができるだろう。<NEWLINE>ギルド内では“電怪竜”と称される。
+永久凍土の世界に君臨する迅速の<NEWLINE>飛竜。巨大な牙と鋭い棘が特徴。翼や<NEWLINE>尻尾に生えたスパイク状の鱗を巧みに<NEWLINE>使い、滑りやすい氷の上を自由自在に<NEWLINE>駆け回る。その能力がある限り、彼の<NEWLINE>動きについて行くのは非常に困難で<NEWLINE>あろう。別名“氷牙竜”。
+“風牙竜”の異名を持つベリオロスの<NEWLINE>亜種。砂原に生息する。<NEWLINE>竜巻を発生させるほどの強力なブレス<NEWLINE>を放ち、さらにその竜巻を利用して<NEWLINE>高速で移動する場合もあるらしい。<NEWLINE>赤みがかった黄色い甲殻を持ち、その<NEWLINE>牙は、磨き上げると群青色に輝く。
+木々の生い茂る土地に生息する、独特<NEWLINE>の進化を遂げた飛竜。別名“迅竜”。<NEWLINE>暗がりに身を潜め、恐るべき素早さで<NEWLINE>執拗かつ狡猾に獲物を狙い、追い詰め<NEWLINE>る。戦うための武器として発達した<NEWLINE>尻尾は、非常にしなやかで、強烈な<NEWLINE>破壊力を持つ。
+まだら色の体毛を持つナルガクルガの<NEWLINE>亜種。別名“緑迅竜”。水没林や孤島<NEWLINE>など緑の多い土地に生息し、その体色<NEWLINE>は、緑濃い密林に容易に溶け込む。<NEWLINE>身ごなしが俊敏で、尻尾の扱いにも<NEWLINE>長けている。飛ばしてくる尻尾の棘は<NEWLINE>当たると非常に危険との噂もある。
+砂漠の暴君として恐れられる飛竜。<NEWLINE>非常に縄張り意識が強く縄張りに侵入<NEWLINE>した者には異常なまでの攻撃性を見せ<NEWLINE>る。また、砂の中を潜行することが<NEWLINE>多いためか聴覚が非常に発達して<NEWLINE>おり、音に対しては敏感に反応する。<NEWLINE>主食はサボテン。別名“角竜”。
+黒い甲殻を持つディアブロス。<NEWLINE>“黒角竜”と呼ばれ、亜種として扱わ<NEWLINE>れているが、実際は繁殖期における<NEWLINE>雌のディアブロスの体色が、黒く変化<NEWLINE>したものである。この変化は、他の<NEWLINE>生物に対する警告色と考えられ、<NEWLINE>実際に、非常に攻撃性が高くなる。
+原始的な風貌を残す飛竜。性格は<NEWLINE>いたって凶暴で、発達した四肢を<NEWLINE>使っての突進、強力な爪と顎の一撃、<NEWLINE>どれも恐ろしい威力で注意が必要。<NEWLINE>獲物を求めて広い範囲を移動し、凍土<NEWLINE>にまで姿を現すという。強烈な咆哮を<NEWLINE>放つため、“轟竜”の異名をもつ。
+“黒轟竜”と呼ばれるティガレックス<NEWLINE>の亜種。その名の通り、黒い甲殻を<NEWLINE>持ち、火山や砂原など、暑く乾燥した<NEWLINE>地に姿を見せる。強烈な咆哮は轟竜の<NEWLINE>特徴であるが、黒轟竜のそれはさらに<NEWLINE>強力で、渾身の咆哮は広範囲に衝撃を<NEWLINE>及ぼす。非常に凶暴かつ食欲旺盛。
+謎に包まれた竜。<NEWLINE>一部地方では黒き神、火山の暴君と<NEWLINE>いった数々の異名で呼ばれ、ギルド<NEWLINE>ではその凶暴性や巨大な体躯から、<NEWLINE>“覇竜”と呼称している。<NEWLINE>巨大な牙や棘を持ち、火山地帯の<NEWLINE>奥地に生息している。
+謎に包まれた竜。<NEWLINE>一部地方では白き神、この世を打ち<NEWLINE>崩す竜といった異名で呼ばれ、ギルド<NEWLINE>では氷塊や岩盤を粉砕しつつ進む姿<NEWLINE>から、“崩竜”と呼称している。<NEWLINE>氷を砕くのに適したアゴや爪を持ち、<NEWLINE>寒冷地域の最深部に生息している。
+雷光を帯びたその姿から“雷狼竜”<NEWLINE>とも呼ばれる牙竜種。起伏の激しい<NEWLINE>山林に棲むため、かぎ爪は鋭く、四肢<NEWLINE>は強靱に発達している。狩りの際には<NEWLINE>無数の雷光虫を集める事で、まとう<NEWLINE>電力を飛躍的に高めているとされ、<NEWLINE>超帯電状態と呼ばれる姿に変化する。
+“峯山龍”と呼ばれる巨大な古龍。背<NEWLINE>中から希少な鉱石が採掘できることか<NEWLINE>ら豊穣の象徴とされる。砂と共に無数<NEWLINE>の有機物を飲み込みながら泳ぐため、<NEWLINE>周囲にはおこぼれを狙うデルクスが群<NEWLINE>がっている。そのため、漁師たちはデ<NEWLINE>ルクスの群れを元に峯山龍を目指す。
+渓流の奥深く、≪霊峰≫に舞い降りた<NEWLINE>伝説の古龍。大嵐と共に現れる事から<NEWLINE>嵐の化身として、ユクモ村の伝承にも<NEWLINE>登場する。暴風と竜巻を従える厄災の<NEWLINE>龍として恐れられ、天災にも匹敵する<NEWLINE>その力から“嵐龍”とも呼ばれる。
+その姿は稲妻の様とも闇の様とも噂さ<NEWLINE>れ“煌黒龍”と伝えられる古龍。<NEWLINE>全身を鋭い逆鱗で覆われており<NEWLINE>触れる者全てを無慈悲に引き裂く。<NEWLINE>また、自らに宿す属性が非常に不安定<NEWLINE>なため周囲の天候をも急変させてしま<NEWLINE>うという。まさに“天災”。
+ＮＯ　ＤＡＴＡ
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Great Jaggi
+Baggi
+Great Baggi
+Rathian
+Royal Ludroth
+Ludroth
+Rathalos
+Agnaktor
+Diablos
+Uroktor
+Delex
+Tigrex
+Alatreon
+Jhen Mohran
+Giggi
+Aptanoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Nargacuga
+Altaroth
+Kelbi
+Gigginox Egg
+Bnahabra
+Bnahabra
+Bnahabra
+Bnahabra
+Jinouga
+Amatsumagatsuchi
+Aoashira
+Urcusis
+Rangurotora
+Great Froggi
+Doboruberuku
+Hapurubokka
+Froggi
+Zuwaroposu
+Gagua
+Qurupeco
+Gigginox
+Barioth
+Barroth
+Uragaan
+Royal Ludroth
+Agnaktor
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Cart Felyne
+Felyne Courier
+Veggie Elder
+Zuwaroposu
+Rock
+Rock
+Rock
+Rock
+Rock
+Rock
+ＮＯ　ＤＡＴＡ
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Great Jaggi
+Baggi
+Great Baggi
+Gold Rathian
+Royal Ludroth
+Ludroth
+Silver Rathalos
+Agnaktor
+Black Diablos
+Uroktor
+Delex
+Black Tigrex
+Alatreon
+Jhen Mohran
+Giggi
+Aptanoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Green Nargacuga
+Altaroth
+Kelbi
+Gigginox Egg
+Bnahabra
+Bnahabra
+Bnahabra
+Bnahabra
+Jinouga
+Amatsumagatsuchi
+Aoashira
+Urcusis
+Rangurotora
+Great Froggi
+Doboruberuku
+Hapurubokka
+Froggi
+Zuwaroposu
+Gagua
+Red Qurupeco
+Thunder Gigginox
+Sand Barioth
+Ice Barroth
+Steel Uragaan
+Purple Royal Ludroth
+Ice Agnaktor
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Cart Felyne
+Nyanjiro
+Veggie Elder
+Zuwaroposu
+Rock
+Rock
+Rock
+Rock
+Rock
+Rock
+Quest Details
+Current Quest Details
+Quest Name
+Intrusion!!
+Monsters Hunted
+Items Delivered
+Ship Integrty
+0% Quest Failure
+Intrusion TtlReward
+Intrusion RwdRemain
+TtlReward
+RwdRemain
+Time Left
+Reward
+Contract
+TimeLimit
+Location
+Main Monsters
+Quest Level
+Goal Condition
+Fail Condition
+Requirements
+Requirements
+Requirements
+Client
+Quest Details
+????????
+★
+★★
+★★★
+★★★★
+★★★★★
+★★★★★★
+★★★★★★★
+★★★★★★★★
+%2d/%2d
+%2d:%02d
+%2d min
+%3d%%
+ -/%2d
+%s%s
+Hunt the %s
+Guild Point
+A very dangerous monster has<NEWLINE>arrived! If you find it too<NEWLINE>difficult, open the menu and<NEWLINE>select "Go to Village".<NEWLINE>~C05You will still receive all<NEWLINE>normal quest rewards.
+Mat A
+Mat B
+????????
+%3d%%
+???%
+Combine
+Quit
+Send to Box
+Exchange
+Discard
+Success
+Failure
+Selected
+Success Rate
+Result
+%2d/%2d
+??
+??/??
+%003d
+Material
+Order List
+Customize
+Set Order
+???
+%s ∞
+~C02No inventory space.
+Menu
+Please select an item.
+Please select an item.<NEWLINE>~C02No inventory space left.
+Please select an item.<NEWLINE>~C02No space for this item type.
+%s ∞
+%s ×%2d
+You have too many of this item.
+ Equipment Details~C00
+RARE-%d
+RARE-?
+%7dz
+%1d/%1d
+%2d/%2d
+%3d/%3d
+Next
+Item Bag
+Combine　　
+Quest Pouch
+－－－－－－－－
+∞
+~B03Next
+~B03Back
+Status
+Equipment
+Name
+Weapon
+Locatn
+Money
+Yukumo Points
+Guild Points
+HR
+Health
+Stamina
+Attack
+Defense
+Fire Res
+Water Res
+Thndr Res
+Ice Res
+Drgn Res
+:
+Greatsword
+Sword & Shield
+Hammer
+Lance
+Heavy Bowgun
+Medium Bowgun
+Light Bowgun
+Longsword
+Switch Axe
+Gunlance
+Bow
+Dual Swords
+Hunting Horn
+Felyne Drink Skill
+Activate Skill
+Deco
+C
+Skill Info
+Skill Tree
+Pts
+?
+ E 
+????
+[Nothing Equipped]
+[No Info]
+Hunter Type
+Hunter Type
+Attack
+%4d
+Shrpnss
++1
+-1
+Slots
+Affinity
+%3d%%
+%s
+%s
+Defense
+Type
+Reload
+Drift
+Recoil
+LV
+Shelling Lv
+Note
+%d
+%2d
++%2d
+%3d
+Skill 1
+Skill 2
+Blast
+Focused
+Spread
+Slowest
+ExtrSlow
+SuprSlow
+VerySlow
+Slow
+Normal
+Fast
+VeryFast
+SuprFast
+Fastest
+Strngest
+Strong
+Moderate
+Light
+Weak
+VeryWeak
+Weakest
+Weak
+Moderate
+Strong
+Strngest
+None
+Le／Sm
+Le／Lg
+Ri／Sm
+Ri／Lg
+LR／Sm
+LR／Lh
+Blademstr
+Gunner
+Blade/Gunner
+Armor Type
+ SU
+ XZ
+：~C%02d%s~C00
+Zoom
+Fixd
+Long Barrel
+Silencer
+-
+Load　LV 1  2  3
+~C06LV 1  2
+Load
+~C%02d%sAttrib%s
+~C%02dDefense~C%02d＋%d
+：~C%02d%3d0
+(Total Val)：~C%02d%2d0
+%s~C%02d：%s
+~C%02d%2d
+%s~C%02d%2d
+%s~C%02d/
+%s/
+Power Barrel
+　　Shield
+[Note：       ]
+Charge Attack
+Lvl
+    %s~C%02d%s
+[Slot Details 1]
+[Slot Details 2]
+Usable Coating
+Affinity:
+●
+○
+－
+No Slots
+Open Slots：%s
+1
+2
+3
+Slot
+Lv
+Melody Effect ①
+Melody Effect ②
+Rapid Fire
+Rounds
+Recoil
+None
+Crouch Fire
+Coating Enhance
+None
+Normal S
+Pierce S
+Pellet S
+Crag S
+Clust S
+Recov S
+Poison S
+Para S
+Sleep S
+Fatigue S
+Flaming S  
+Water S  
+Thunder S  
+Freeze S  
+Dragon S  
+Tranq S
+Paint S
+Demon S
+Armor S
+Cutter S
+Fire
+Water
+Thunder
+Dragon
+Ice
+Poison
+Paralyze
+Sleep
+Skill Tree        Skill Points 
+No Skills
+[Normal]
+[Spread]
+[Long]
+Power Coating
+Boost Coating
+ParalysisCoatng
+Dragon Coating
+Fatigue Coating
+Poison Coating
+Poison Coating Up
+Paralysis Coating Up
+Sleep Coating Up
+Fatigue Coating Up
+Rapid LV1
+Rapid LV2
+Rapid LV3
+Rapid LV4
+Rapid LV5
+Scatter LV1
+Scatter LV2
+Scatter LV3
+Scatter LV4
+Scatter LV5
+Pierce LV1
+Pierce LV2
+Pierce LV3
+Pierce LV4
+Pierce LV5
+Movement Speed Up
+Attack Up [Lo]
+Attack Up [Hi]
+Defense Up [Lo]
+Defense Up [Hi]
+Health Inc [Lo]
+Health Inc [Mid]
+Health Inc [Hi]
+Wind Reduce
+Wind Cancel
+Wind All Cancel
+No Stamina Loss [Lo]
+No Stamina Loss [Hi]
+Clairvoyance
+Health Rec [Lo]
+Health Rec [Mid]
+Health Rec [High]
+HealthRec[Mid]&Deodorant
+HealthRec[Lo]&Antidote
+HealthRec[Mid]&Antidote
+Recover Spd Up [Lo]
+Recover Spd Up [Hi]
+Heavenly Protection
+No Cold
+No Heat
+Hear Protect [Lo]
+Hear Protect [Hi]
+No Faint
+No Paralysis
+No Quakes
+Element Attack Up
+Fire Res Up [Lo]
+Fire Res Up [Hi]
+Water Res Up [Lo]
+Water Res Up [Hi]
+Thunder Res Up [Lo]
+Thunder Res Up [Hi]
+Ice Res Up [Lo]
+Ice Res Up [Hi]
+Dragon Res Up [Lo]
+Dragon Res Up [Hi]
+High-Frequency
+All Effects Extended
+Knock Back Negated
+Atk & Def Up [Lo]
+Affinity & Recov Up [Lo]
+Abnormal Status Atk Up
+Abnormal Status Negated
+All Element Res Up
+Blight Negated
+Earplug & Windpress
+Snow & Mud Negated
+Nothing found.
+Quest completed!
+You lost your bait.
+Target monster slain!
+Quest item obtained!
+Returning to camp...
+I wonder if there's anything here...
+It's still raw...
+You cannot carry any more items.
+You didn't catch anything.
+You couldn't carve anything off.
+Supply items were returned.
+Items from Quest Pouch sent to home.
+Heat endurance increased!
+Cold endurance increased!
+Cooling effect has expired!
+Warming effect has expired!
+Speed burst has expired!
+Natural recovery returned to normal!
+Natural recovery has increased!
+Stamina has stopped decreasing!
+Temporarily retreated.
+~C02%s~C00 obtained.
+~C02%s~C00 has decreased!
+~C02%s~C00 achieved!
+~C02%s~C00 at maximum
+~C02%s~C00 is done for!
+~C02%s~C00 broke!
+~C02%s~C00 was stolen.
+~C02%s~C00 taken back.
+~C02%s~C00 delivered.
+~C02%s~C00 has been made.
+~C02%s~C00 obtained
+~C02%s~C00 caught!
+~C02%s~C00 has been dropped.
+~C02%s~C00 received.
+~C02%s~C00 has broken.
+~C02%s~C00 is at maximum. Unable to carry anymore.
+~C02%s~C00 given.
+~C02%s~C00 all given
+~C02%s~C00 has bitten!
+~C02%s~C00 is really hot!
+~C02%s~C00 is done for!
+~C02%s~C00 has caught a fish!
+~C02%s~C00 is handing you an item!
+~C02%s~C00 broke off from the group!
+Award:~C02%s~C00 obtained
+~C02%s×%d~C00 received.
+It got away.
+~C02%s×%2d~C00 has been made.
+~C02%s×%2d~C00 caught!！！
+~C02%s×%d~C00 obtained.
+No space in inventory
+There is nothing else here.
+Total reward: 0z.
+You've fallen unconscious.
+Total reward: 0z.
+No continues remaining.
+Weapon power has decreased!
+Weapon power has increased!
+Sharpness is at maximum!
+Beginning Quest.
+Preparing Quest.
+ＱＵＥＳＴ　ＣＬＥＡＲ！
+ＱＵＥＳＴ　ＦＡＩＬＥＤ
+ＱＵＥＳＴ　ＲＥＴＩＲＥ
+dummy
+Island
+Dunes
+Forest
+Tundra
+Volcno
+Desert
+Canyon
+Arena
+SmArena
+Ancient
+Arctic
+Stream
+Mountain
+Island
+Dunes
+Forest
+Tundra
+Volcno
+Stream
+<D>
+<N>
+No
+HR 2 & Up
+HR 3 & Up
+HR 4 & Up
+HR 5 & Up
+HR 6 & Up
+Great Sword Only Quest
+Lance Only Quest
+Hammer Only Quest
+Sword Only Quest
+Bowgun Only Quest
+Dual Sword Only Quest
+Long Sword Only Quest
+Gunlance Only Quest
+Hunting Horn Only Quest
+Bow Only Quest
+Switch Axe Only Quest
+Weapon Only Quest
+Quest for one hunter.
+Quest for two hunters or less.
+Quest for three hunters or less.
+None
+Torso Up
+Poison
+Paralysis
+Sleep
+Stun
+Mud/Snow
+Sense
+Health
+Rec Speed
+Sharpness
+Artisan
+Fencing
+Expert
+Sharpener
+Guard
+Guard Up
+Auto-Guard
+Reload Spd
+Recoil
+NormalS Up
+PierceS Up
+PelletS Up
+NormalSAdd
+PierceSAdd
+PelletSAdd
+Crag S Add
+ClustS Add
+Status
+Elemental
+BombStrUp
+Hunger
+Gluttony
+Attack
+Defense
+Protection
+HearProtct
+Anti-Theft
+Wide Area
+Backpackng
+Fire Res
+Water Res
+ThunderRes
+Ice Res
+Dragon Res
+Heat Res
+Cold Res
+WindPress
+Gathering
+HiSpdGathr
+Whim
+Fate
+Psychic
+Rec Level
+Combo Rate
+Shot Mix
+Evasion
+Potential
+LastingPwr
+Stamina
+Loading
+Precision
+Eating
+Carving
+Quake Res
+Evade Dist
+Crit Draw
+SpeedSetup
+Constitutn
+Rewards
+Perception
+FastCharge
+PunishDraw
+Blight Res
+Adversity
+Rapid Fire
+Dungmaster
+Antiseptic
+PoisonCAdd
+ParalyCAdd
+SleepCAdd
+PowerCAdd
+RazorCAdd
+Horn
+Gunnery
+Awaken
+Huntsman
+Fortitude
+Fire Atk
+Water Atk
+Thundr Atk
+Ice Attack
+Dragon Atk
+CutterSAdd
+FatigeCAdd
+Debilitate
+Slam
+KO
+FatigueAtk
+Sheathe
+Will Recov
+No Skill
+Poison Negated
+Poison [x2]
+Parlysis Negatd
+Paralysis [x2]
+Sleep Negated
+Sleep [x2]
+Stun Halved
+Stun Negated
+Stun [x2]
+Mud/Snow Res
+Sneak
+Taunt
+Health +20
+Health +50
+Health -10
+Health -30
+Recovery Spd +1
+Recovery Spd +2
+Recovery Spd -1
+Recovery Spd -2
+Sharp Sword
+Blunt
+Sharpness +1
+ESP
+Rcklss Abndn +1
+Rcklss Abndn +2
+Rcklss Abndn +3
+Rcklss Abndn -1
+Rcklss Abndn -2
+Rcklss Abndn -3
+Spd Sharpening
+Slow Sharpening
+Guard +1
+Guard +2
+Guard -1
+Guard Inc
+Auto-Guard
+Reload Spd +1
+Reload Spd +2
+Reload Spd +3
+Reload Spd -1
+Reload Spd -2 
+Reload Spd -3 
+RecoilReductn+1
+RecoilReductn+2
+RecoilReductn+3
+RecoilReductn-1
+RecoilReductn-2
+RecoilReductn-3
+NrmlS/RapdBowUp
+PrceS/PrceBowUp
+PlltS/SctrBowUp
+Norml S All Add
+Prce S LV1 Add
+Prce S All Add
+Pellt S LV1 Add
+Pellt S All Add
+Crag S LV1 Add
+Crag S All Add
+Clust S LV1 Add
+Clust S All Add
+AbnrmlStsAtk +1
+AbnrmlStsAtk +2
+AbnrmlStAtkDown
+Element Atk Up
+Elemnt Atk Down
+Bombardier
+Hunger Halved
+Hunger Negated
+Hunger Inc [Lo]
+Hunger Inc [Hi]
+Filled Up
+Picky Eater
+Atk Up (S)
+Atk Up (M)
+Atk Up (L)
+Atk Down (S)
+Atk Down (M)
+Atk Down (L)
+Def Up (S)
+Def Up (M)
+Def Up (L)
+Def Down (S)
+Def Down (M)
+Def Down (L)
+Divine Protectn
+Demonic Protctn
+Earplug
+HighGrdeEarplug
+Steal No Effct
+Wide Area +1
+Wide Area +2
+Backpckng Exprt
+Fire Res (S)
+Fire Res (L)
+Fire Res Weaknd
+Water Res (S)
+Water Res (L)
+Watr Res Weaknd
+Thndr Res (S)
+Thndr Res (L)
+Thdr Res Weaknd
+Ice Res (S)
+Ice Res (L)
+Ice Res Weaknd
+Dragon Res (S)
+Dragon Res (L)
+Drgn Res Weaknd
+Heat Cancel
+Heat Inc
+Cold Eliminate
+Cold Increase
+Wind Breaker
+Wind Anchor
+Gathering +1
+Gathering +2
+Gathering -1
+Hi-SpdGathering
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Devil's Whim
+Good Luck
+Luck Booster
+Bad Luck
+Calamity
+Detect
+Autotracker
+Recovery Up
+Recovery Down
+Combne Suc +20%
+Combne Suc +45%
+Combne Suc -10%
+Combne Suc -20%
+Bullet Limit
+Evade +1
+Evade +2
+Evade Down
+Adrenaline +1 
+Adrenaline +2
+Worry
+Item Use Up
+Item Use Down
+Runner
+Flat Footed
+Load Up
+Accuracy +1
+Accuracy +2
+Accuracy -1
+Accuracy -2
+Quick Eating +1
+Quick Eating +2
+Slow Life
+Carving Expert
+Quake Resist
+Evasion Up
+Unsheathe Crit
+Trap Master
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Rewards Expert
+Rewards Celeb
+Trnquilizr Guru
+Concentration
+Distraction
+Unsheathe Stun
+Blight Negated
+Resilience
+Rapid Shot +1
+DungBombExpert
+Antiseptic
+Poison Ct Add
+Parlysis Ct Add
+Sleep Ct Add
+Power Ct Add
+Razor Ct Add
+Flute Expert
+Gunnery Master
+Gunnery King
+Unleashed +1
+Unleashed +2
+Huntsman's Life
+Impudence
+Fire Element +1
+Fire Element +2
+Fire Elmnt Down
+Water Elemnt +1
+Water Elemnt +2
+WaterElmnt Down
+Thndr Elemnt +1
+Thndr Elemnt +2
+ThndrElmnt Down
+Ice Element +1
+Ice Element +2
+Ice Elemnt Down
+Dragn Elemnt +1
+Dragn Elemnt +2
+Drgn Elmnt Down
+Cutter S Add
+Fatigue Ct Add
+Exploiter
+Ruiner
+Improved KO
+Enfeebler
+Fast Sheathe
+StaminaRecov Up
+StmnaRecov Down
+No Skill
+Felyne Dismantle [Hi]
+Felyne Dismantle [Lo]
+Felyne Medicine
+Felyne Martial Arts
+Felyne Gunpowder
+Felyne Special Attack
+Felyne Defense [Hi]
+Felyne Defense [Lo]
+Felyne Woodwinds
+Felyne Frugality
+Felyne Charisma
+Felyne Combine [Hi]
+Felyne Combine [Lo]
+Felyne Gathering
+Felyne Aim
+Felyne Mega Lucky Cat
+Felyne Ultra Lucky Cat
+Felyne Heroics
+Felyne Great Break
+Felyne Escape
+Felyne Throw
+Felyne Courage
+Felyne Supercat
+Felyne Strongcat
+Felyne Fear Factor
+Felyne Explorer
+Felyne Exchanger
+Felyne Resilience [Hi]
+Felyne Resilience [Lo]
+Felyne Temper
+Felyne KickBoxer
+Felyne Fighter
+Felyne Vine Climber
+Felyne Vine Master
+Felyne Supercarver
+Felyne Paratrooper
+Felyne Dancer
+Felyne Assailant
+Felyne Retention
+Felyne Knock Out
+Felyne Philanthropist
+Felyne Demolition
+Felyne Bomber
+Felyne Guts
+Felyne Dungmaster
+Felyne Grooming
+Felyne Firewalker
+Felyne Escape Artist
+Felyne Farsight
+Felyne Grinder
+Felyne Atk Up [Sm]
+Felyne Atk Up [Med]
+Felyne Atk Up [Lg]
+Felyne Def Up [Sm]
+Felyne Def Up [Med]
+Felyne Def Up [Lg]
+Fire Res Up
+Water Res Up
+Thunder Res Up
+Ice Res Up
+Dragon Res Up
+Felyne Tumbling
+Felyne Taunt
+Felyne Guidance
+Felyne Hypnosis
+Felyne Coordinator
+Felyne Insomnia
+Felyne Springer
+Felyne Fisherman
+Language
+Sound
+BGM Volume
+SFX Volume
+Quick Continue
+Media Install
+Damage Effects
+Default Settings
+~B09Slot　~B01Rtrn
+~B00Decide　~B01Rtrn
+ENGLISH
+GERMAN
+FRENCH
+SPANISH
+ITALIAN
+STEREO
+DOLBY PRO LOGIC Ⅱ
+BOOST
+MIN
+MAX
+OFF
+ON
+NORMAL
+SIMPLE
+Select the language for in-game text.
+Set the audio output system.<NEWLINE>The standard method to play audio. Suitable for<NEWLINE>PSP~B11 (PlayStation~B11Portable) and headphone output.
+Set BGM output volume.
+Set sound effect output volume.
+When set to OFF, the character select screen<NEWLINE>will display the player model.
+Media Install data is set to OFF.
+Damage effects such as blood and critical<NEWLINE>flashes are set to normal levels.
+Return all options to their default settings.
+DOLBY PRO LOGIC II selected.<NEWLINE>Enjoy surround sound when connected to a<NEWLINE>Dolby Professional Logic II enabled AV device.
+BOOST selected.<NEWLINE>Suitable only for PSP~B11 (PlayStation~B11Portable)<NEWLINE>speaker output. Not suitable for headphone output.
+Select sound output settings.<NEWLINE>Enjoy surround sound when connected to a<NEWLINE>Dolby Professional Logic II enabled AV device.
+Select sound output settings.<NEWLINE>Suitable only for PSP~B11 (PlayStation~B11Portable)<NEWLINE>speaker output. Not suitable for headphone output.
+Return to Game Menu.
+Damage effects such as blood and critical<NEWLINE>flashes are set to reduced levels.
+When set to ON, the character select screen<NEWLINE>is simplified, reducing load times.
+Reduce load times by using install data.<NEWLINE>You must save the install data by selecting<NEWLINE>MEDIA INSTALL from the main menu first.
+Stereo sound output selected.<NEWLINE>This is the standard sound output.<NEWLINE>Suitable for playing through speakers or headphones.
+WLAN/WIRELESS was switched off.
+Open Item Bag and check current<NEWLINE>Item inventory.
+Combine items.
+Examine your Combo List.
+Check status and conditions<NEWLINE>of current quest.
+Check your Comrades' status info.<NEWLINE>In the Online Hall, you may send<NEWLINE>Comrades to other players.
+Pause game.
+Check your current status.
+View details of your equipment.
+Examine your Monster List.
+Change various game options.
+Select the action you'd like<NEWLINE>to perform
+Quit the current quest and<NEWLINE>return to the village.
+Recheck advice.
+Select the action you'd like<NEWLINE>to perform
+Check your Guild Card.
+Edit your Guild Card.
+Send your Guild Card to another<NEWLINE>player.
+Open Card List and check another<NEWLINE>player's Guild Card.<NEWLINE>
+Check your Comrades' status.
+Check your Comrades' equipment.
+Give your Comrade to another player.
+Dismiss a Comrade.
+Please select a Felyne Comrade to<NEWLINE>send. The Comrade must be available<NEWLINE>for delivery.
+Please select a player to<NEWLINE>send this Felyne Comrade.
+Please select a Felyne Comrade to<NEWLINE>dismiss.
+~C02Cannot dismiss Comrades on a quest<NEWLINE>for the Felyne Corps.~C00
+Please select a Felyne Comrade to<NEWLINE>dismiss.<NEWLINE>~C02Cannot dismiss current Comrade.<NEWLINE>~C00
+Options
+Status Display
+Map Display
+Initial Camera View
+Camera Controls
+Scope Controls
+Aiming Controls
+Aiming Camera Type
+Evasion Viewpoint
+Bowgun Sights
+Sound
+DEFAULT SETTINGS
+ＯＮ
+ＯＦＦ
+ＯＦＦ
+ＯＮ
+NORMAL
+REVERSE1
+REVERSE2
+TYPE1
+TYPE2
+TYPE3
+TYPE4
+TYPE5
+STEREO
+DPLⅡ
+BOOST
+AUTO
+MANUAL
+Turn the HUD ON/OFF.<NEWLINE><NEWLINE>The HUD is currently enabled.
+Turn the HUD ON/OFF.<NEWLINE><NEWLINE>The HUD is currently disabled.
+Turn the map ON/OFF.<NEWLINE><NEWLINE>The map is currently enabled.
+Turn the map ON/OFF.<NEWLINE><NEWLINE>The map is currently disabled.
+Set the initial camera position for<NEWLINE>quests.<NEWLINE><NEWLINE>The camera will look sharply down.
+Set the initial camera position for<NEWLINE>quests.<NEWLINE><NEWLINE>The camera will look somewhat down.
+Set the initial camera position for<NEWLINE>quests.<NEWLINE><NEWLINE>The camera will look slightly down.
+Set the initial camera position for<NEWLINE>quests.<NEWLINE><NEWLINE>The camera will look almost<NEWLINE>horizontal.
+Set the initial camera position for<NEWLINE>quests.<NEWLINE><NEWLINE>The camera will look slightly<NEWLINE>upwards.
+Set which camera controls are<NEWLINE>inverted.<NEWLINE><NEWLINE>All inputs are normal.
+Set which camera controls are<NEWLINE>inverted.<NEWLINE><NEWLINE>Invert Y axis only.
+Set which camera controls are<NEWLINE>inverted.<NEWLINE><NEWLINE>Invert both X and Y axes.
+Set which camera controls are<NEWLINE>inverted when using a Bowgun scope.<NEWLINE><NEWLINE>All inputs are normal.
+Set which camera controls are<NEWLINE>inverted when using a Bowgun scope.<NEWLINE><NEWLINE>Invert Y axis only.
+Set which camera controls are<NEWLINE>inverted when using a Bowgun scope.<NEWLINE><NEWLINE>Invert both X and Y axes.
+Set which camera controls are<NEWLINE>inverted when aiming a Bowgun or Bow.<NEWLINE><NEWLINE>All inputs are normal.
+Set which camera controls are<NEWLINE>inverted when aiming a Bowgun or Bow.<NEWLINE><NEWLINE>Invert Y axis only.
+Set which camera controls are<NEWLINE>inverted when aiming a Bowgun or Bow.<NEWLINE><NEWLINE>Invert both X and Y axes.
+Set camera behavior when aiming a<NEWLINE>Bowgun or Bow.<NEWLINE><NEWLINE>Camera follows aim.
+Set camera behavior when aiming a<NEWLINE>Bowgun or Bow.<NEWLINE><NEWLINE>Camera doesn't move.
+Set camera behavior when aiming a<NEWLINE>Bowgun or Bow.<NEWLINE><NEWLINE>Camera follows aim, and the camera<NEWLINE>view is set to Type 04 (horizontal).
+Set the viewpoint for performing<NEWLINE>consecutive evades.<NEWLINE><NEWLINE>Evade with respect to the direction<NEWLINE>the character is facing.
+Set the viewpoint for performing<NEWLINE>consecutive evades.<NEWLINE><NEWLINE>Evade with respect to the direction<NEWLINE>the camera is facing.
+Set controls for switching Bowgun<NEWLINE>aiming modes.<NEWLINE><NEWLINE>Press ~B05 to toggle scope,<NEWLINE>hold ~B04 to enable simple aim.
+Set controls for switching Bowgun<NEWLINE>aiming modes.<NEWLINE><NEWLINE>Press ~B05 to toggle scope, hold to<NEWLINE>enable simple aim.
+Set controls for switching Bowgun<NEWLINE>aiming modes.<NEWLINE><NEWLINE>Hold ~B05 to enable simple aim.<NEWLINE>Scope is disabled.
+Method to select online Hall number<NEWLINE>for Training School or Guild Hall.<NEWLINE><NEWLINE>Choose automatically.
+Method to select online Hall number<NEWLINE>for Training School or Guild Hall.<NEWLINE><NEWLINE>Choose manually.
+Select sound output settings.<NEWLINE>This is the standard audio output.<NEWLINE>Suitable for playing through speakers<NEWLINE>and headphones.
+Select sound output settings.<NEWLINE>Enjoy surround sound when<NEWLINE>connected to a<NEWLINE>Dolby Professional Logic II<NEWLINE>enabled AV device.
+Select sound output settings.<NEWLINE>Suitable only for<NEWLINE>PSP~B11 (PlayStation~B11Portable)<NEWLINE>speaker output. Not suitable for<NEWLINE>headphone output.
+Media Install data is set to OFF.
+Simultaneously load from the UMD~B10<NEWLINE>and Memory Stick Duo~B10 to<NEWLINE>shorten load times.
+Return all options to their default<NEWLINE>settings.
+Return all options to their default<NEWLINE>settings. Are you sure?
+Select an item to send to<NEWLINE>the Item Box.
+Item has been sent.
+~C02The Item Box is full. 
+Do you want to sort your items?
+Communication was disconnected.
+Discard selected item.<NEWLINE>OK?
+Select recipient.
+Is this OK?
+Select the number to give.
+Please select the number of items<NEWLINE> you would like to deliver.
+These items will be delivered.<NEWLINE>Is this OK?
+OK to sort?
+Select item destination.
+~C10Unknown
+Unknown
+~C02You have no materials.
+~C02You cannot carry any more<NEWLINE>of this item.
+~C02There is no room in your<NEWLINE>Item Bag.
+You cannot carry any more items.<NEWLINE>Please select a course of action.
+Which item do you want<NEWLINE>to exchange?
+Item will be exchanged.<NEWLINE>Is this OK?
+未調合のアイテムです。
+初期状態に戻してよろしいですか？
+~C02The Item Box is full. 
+1
+1～2
+2
+1～3
+2～4
+3
+5
+1～3
+Greet
+Bow
+Nod Head
+Shake Head
+Wave
+Praise
+Cheer
+Point
+Despair
+Frustrtd
+Kick Back
+Shadowbox
+Taunt
+Flaunt
+Prance
+Dance
+Gestures
+Yukumo Village（Offline）
+Guild Hall 
+Training Hall 
+Press the ~B00 button
+Value:
+Total Sale:
+Village Chief's Braid
+Village Chief's Glove
+Village Chief's Buckle
+Village Chief's Robe
+Jasper Box
+Storm Robe
+King's Crown
+Miniature Crown
+Copper Felyne Doll
+Silver Felyne Doll
+Gold Felyne Doll
+Expert's Manual
+Ecology Report
+Hunter's Diary
+Yukumo Scarecrow
+Comrade Banner
+Attendant's Fan
+Wyverian Artisan's Hammer
+Comrade Blacksmith Helm
+Great Felvine
+Letter To The Master
+Rosary of World Domination
+Hunter's Crest
+Proof of The Hunter
+2ndG Hunting Proof
+Selct
+Exit
+<Battle Training>
+<Special Training>
+<Group Training>
+<G Rank Training>
+Yian Kut-Ku Training
+Congalala Training
+Khezu Training
+Daimyo Hermitaur Training
+Blangonga Training
+Yian Garuga Training
+Tigrex Training
+Diablos Training
+Gravios Training
+Kirin Training
+Cephadrome Training
+Plesioth Training
+Shogun Ceanataur Training
+Rathalos Training
+Rajang Training
+Cephadrome Exercises
+Rathian Exercises
+Shogun Ceanataur Exercises
+Tigrex Exercises
+Hypnoc Training
+Green Congalala Training
+PurDaimyoHermitaur Training
+Naruga Kuruga Training
+Brown Blangonga Training
+Volganos Training
+RedShogunCeanataur Training
+Rajang Training
+dummy
+Receive Item
+Send to Item Box
+End
+Comrade Status
+LV
+Master
+Lineage
+Loyalty
+Atk Style
+Tendency
+Character
+Comment
+Special
+Comrade Equipment
+Bonus Skills
+Special：
+Wtrfll:
+Comrade Points
+Skill Slots
+Slots
+Skill
+Skill Level
+pts
+Comrade1
+Comrade2
+－－－－－－
+LV
+Weapn
+Helm
+Plate
+[Active]
+[Standby]
+Atk Type
+[Melee]
+[Ranged]
+Slash
+Impact
+Description
+Kogath
+Arnold
+Almond
+Ashley
+Sei
+Annie
+Alan
+Emmanuel
+Carrie
+Khan
+Kid
+Gilbert
+KidImposter
+Crystal
+Kei
+Kain
+Adelaine
+Conan
+Shiva
+Jim
+Jask
+Hunting Fox
+Shot
+Silvia
+Thraadash
+Scott
+Xena
+Diana
+Icowa
+Rob
+Chibi
+Kenshinjeff
+David
+Timothy
+Telly
+Blueyx
+Thomas
+Donald
+LightStixx
+Tom
+Dora
+Natalie
+Pai
+Patricia
+Hank
+Pete
+Pia
+ZackVixACD
+Fay
+Blake
+Helga
+Boyd
+Brandon
+Mack
+Marco
+Mai
+Micha
+Milo
+SoulVexxer
+Yoshitsune
+Rafael
+Rey
+Leon
+Laura
+Oscar
+Oliver
+Ken
+Bucky
+Kojiro
+Simon
+Ludovic
+Jessica
+Jasper
+HotGamerMum
+Kogapi
+Gianluigi
+Ginger
+Enric
+Spike
+Sebastian
+Sofie
+Charlie
+Tracy
+Hanzo
+Benkei
+Holly
+Maggie
+Masamune
+Misty
+Janet
+Molly
+Florian
+Ryu
+Lilly
+Laurie
+Rocky
+Akira
+Ashie
+Allen
+Izumi
+Udon
+Edge
+Edgar
+Earv
+Omar
+Origami
+Cactus
+Gaccha
+Garr
+Carrot
+Carnie
+Garon
+Gilgamesh
+Kinchyaku
+Kuu
+Keima
+Kianna
+Kemari
+Heart
+Kotaro
+Cotton
+Koma
+Cornette
+Siren
+Zack
+Saten
+Salsa
+Sancho
+Samba
+Jet
+Chiffon
+Sugar
+Jungiku
+Jiraiya
+Shirataki
+Cymbal
+Steve
+Smash
+Tiger
+Dyne
+Top
+Duncan
+Tango
+Chime
+Tsumiki
+Texas
+Denka
+Tofu
+Thorne
+Summer
+Nelle
+Hakusai
+Puzzle
+Patata
+Honey
+Hanata
+Hayato
+Barrel
+Peter
+Piko
+Hinata
+Hyou
+Felmy
+Flannel
+Bruce
+Belle
+Velvet
+Velma
+Bogey
+Polka
+Popo
+Holmes
+Von
+Bond
+Mike
+Miguel
+Miko
+Meryl
+Muslin
+Momo
+Monsieur
+Rocker
+Rush
+Latte
+Ryuuto
+Lynn
+Rumba
+Remy
+Rock
+Robert
+Ron
+Watson
+Hunter
+Comrade
+Demon Flute
+Armor Flute
+AntidoteDeodrntFlute
+Health Flute
+Mega Health Flute
+Elemental Attack Up
+Status Atk [Poison]
+StatusAtk [Paralysis]
+Status Atk [Sleep]
+Status Attack Up
+Mud/Snow Recovery
+Anti-Poison
+Windpress
+High Grade Earplug
+SoundandWind Proof
+Attack Up Small
+Attack Up Large
+Defense Up Small
+Defense Up Large
+Health Up Small
+Health Up Large
+Guard Up [Sm]
+Guard Up [Lg]
+Exploit Weakness
+Thievery Up
+Shock Trapper
+Felvine Bomb
+Large Barrel Bomb
+Bomb Str Up
+Bomb Resistance
+Large Boomerang
+Piercing Boomerang
+Cannon/BallistaAtkUp
+Instant Recovery
+Art of Eight Wonders
+RiskBreaker Technique
+Resist Fire
+Resist Water
+Resist Thunder
+Resist Ice
+Resist Dragon
+Resist all
+Farsight
+Gathering Speed up
+Fast Health Recovery
+Hunter
+Skiver
+Recovery Skiving
+Felyne Flute Harmony
+FlyneTrapCollaboration
+FelyneWorkAwareness
+Felyne Brotherhood
+Attack Up,  Def Down
+Def Up, Attack Down
+Crit Up, Def Down
+Health Up,FireResDwn
+FireResUp,DrgResDwn
+FireResUp,WaterResDwn
+ThndrResUp,Health Dwn
+IceResUp,ThndrResDwn
+Drgn Res Up, Crit Dwn
+Battlefield Awakening
+SpeedRunner Awakening
+Super Guard
+Critical Combo
+Absolute Acquisition!
+Melee Only
+Bombs Only
+Boomerangs Only
+Melee & Bomb
+Melee & Boomerang
+Bomb & Boomerang
+Does Not Attack
+ボクは近接武器の扱いが得意ニャ。<NEWLINE>武器が強くなるほど活躍するニャ！
+爆弾攻撃ならボクにお任せニャ。<NEWLINE>打ち上げタル爆弾も使えるニャ！
+ボクはブーメランの使い手だニャ。<NEWLINE>遠くから適確に獲物を攻めるニャ！
+旦那さんが獲物に近い時は近接、<NEWLINE>遠い時は爆弾で攻撃するニャ。
+旦那さんが獲物に近い時は近接、<NEWLINE>遠い時はブーメランを使うニャ。
+旦那さんが獲物に近い時はブーメ<NEWLINE>ラン、遠い時は爆弾を使うニャ。
+ボクは攻撃は、一切しないニャ。<NEWLINE>それが平和主義たる証だニャ。
+Sm Monsters Only
+PrefersSmMonsters
+Balance
+PrefersLgMonsters
+Lg Monsters Only
+ボクの目に映るのは小型モンスター<NEWLINE>だけニャ。大型には興味無いニャ！
+ボクは小型モンスターを狙うことが<NEWLINE>多いニャ。でも大型もイケるニャ。
+相手がモンスターなら、大型でも<NEWLINE>小型でも、バランス良く狙うニャ。
+ボクは大型モンスターを狙うことが<NEWLINE>多いニャ。でも小型もアリだニャ。
+ボクの目に映るのは大型モンスター<NEWLINE>のみニャ。小型は眼中に無いニャ！
+Courageous
+Cunning
+Timid
+Loyal
+Chancy
+Persistant
+Pacifist
+大型モンスターが怒ったり、自分が<NEWLINE>痛手を受けたら、怒り、戦うニャ！<NEWLINE>勇敢だからパニックにも無縁ニャ。
+大型モンスターが怒ったり、旦那さ<NEWLINE>んが痛手を受けたら、ボクが注意を<NEWLINE>引くニャ。でも自分の痛手には…。
+自分が痛手を受けたり、大型モンス<NEWLINE>ターが飛んだり潜ったりしたら、<NEWLINE>ボクは、アレを残して逃げるニャ！
+旦那さんが痛手を受けたり、拘束さ<NEWLINE>れたら、ボクは怒り、戦うニャ！<NEWLINE>拘束時にはこやし玉も投げるニャ！
+大型モンスターの疲れや、めまいを<NEWLINE>見逃さず、ラッシュ攻撃するニャ！<NEWLINE>でもパニックになる事も多いニャ。
+ボクは体力回復の早さが自慢ニャ！<NEWLINE>大型モンスターが怒ったり、自分が<NEWLINE>痛手を受けたときが、見せ場ニャ。
+ボクって争いごとが苦手だニャ。<NEWLINE>大型モンスターが怒ったりしても、<NEWLINE>とりあえず無視して採取するニャ。
+Felyne
+Tea Felyne
+Lemon
+Grape
+Muscot
+Orange
+Melynx
+Blk Melynx
+Ylw Melynx
+Moody
+Secret
+Short Hair
+Tea Tiger
+Ylw Tiger
+Ash Tiger
+Silver Tiger
+Fresh Tiger
+Red Tiger
+White
+Black
+Deep Blue
+Tea
+Brown
+Jet Black
+Pink
+Blue
+Peppermint
+Gold
+Blk & White
+Tea Spots
+Blue Spots
+Red Spots
+Purple
+Deep Sea
+Item Shop
+Travelling Peddler
+Farm Manager
+Farm Felyne
+Drink Stand
+Mega BBQ Spit
+Felyne Mining
+Mining Point
+Field
+Felyne Granny
+Comrade Blacksmith
+Felyne Corps
+Felyne Bug Catching
+Insect Trap
+Bee Hive
+Equipment Shop
+Blacksmith
+Felyne Fishing
+Fishnet
+Mushroom Tree
+Quest Counter
+Hot Spring Attendant
+Training School
+Village Elder
+Hunters Store
+Pawn Talisman
+Bishop Talisman
+Knight Talisman
+Rook Talisman
+Queen Talisman
+King Talisman
+Dragon Talisman
+A charm worn by footsoldiers<NEWLINE>starting their tour of duty.<NEWLINE>It brings good fortune.
+A charm made to pray for the<NEWLINE>victory of warriors abroad.<NEWLINE>Fends off misfortune.
+A charm given to knights for<NEWLINE>great feats of valor.<NEWLINE>Proof of the bearer's glory.
+A charm made of stone from<NEWLINE>an ancient, royal fortress.<NEWLINE>Contains an immovable power.
+A charm of the queen who<NEWLINE>forged the golden age. <NEWLINE>Contains a ruler's wisdom.
+A charm of the king who<NEWLINE>ruled the world. It grants<NEWLINE>great wisdom and power.
+A charm of dragon eye that<NEWLINE>sparkles with iridescence.<NEWLINE>Contains predatory power.
+Miracle Milk
+Miracle Macchiato
+Lucky Yogurt
+Lucky Lassi
+Celebri-tea
+Box Beer
+Harvest Wine
+Bubble Tea
+Bubble Squash
+Rifle Juice
+Sniper Punch
+Pier Rice Tea
+Badger Rice Tea
+Turret Tea
+Millenium Tea
+Hot Red Bean Soup
+Spring Water
+Thunder Soda
+Frozen Milk
+Dragon Tea
+Yukumo Coffee
+Yukumo Soda
+Yukumo Candy
+Recommended!
+Comrade Equipment
+Comrade Destinations
+Comrade１
+Comrade２
+Status
+Equipment
+Give
+Dismiss
+The same Comrade already exists.
+Comrade Roster is full, could not receive Comrade.
+Comrade Box is full, could not receive Comrade.
+Hunter

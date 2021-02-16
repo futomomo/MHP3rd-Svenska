@@ -1,0 +1,312 @@
+<EMPTY STRING>
+No Skills
+Replicates both<NEWLINE>the positive and<NEWLINE>negative bonuses<NEWLINE>of the Torso armor.
+Negates Poison or<NEWLINE>doubles duration.
+Negates Paralysis<NEWLINE>or doubles<NEWLINE>duration.
+Negates Sleep or<NEWLINE>doubles duration.
+Negates Stun,<NEWLINE>halves or doubles<NEWLINE>duration.
+Negates Mud and<NEWLINE>Snow effects.
+Reduces or<NEWLINE>increases attention<NEWLINE>from a monster when<NEWLINE>fighting in a<NEWLINE>group. 
+Increases health<NEWLINE>gauge.
+Increases or<NEWLINE>decreases recovery<NEWLINE>speed of the red<NEWLINE>health bar after<NEWLINE>taking damage.
+Decreases or<NEWLINE>increases rate of<NEWLINE>weapon sharpness<NEWLINE>consumption.<NEWLINE>~C05(Blademaster only)
+Increases overall<NEWLINE>weapon sharpness.<NEWLINE>~C05(Blademaster only)
+Attacks do not<NEWLINE>bounce.<NEWLINE>~C05(Blademaster only)
+Increases or<NEWLINE>decreases weapon<NEWLINE>critical chance.
+Increases or<NEWLINE>decreases speed<NEWLINE> of sharpening.<NEWLINE>~C05(Blademaster only)
+Decreases or<NEWLINE>increases knock<NEWLINE>back and damage<NEWLINE>when guarding.<NEWLINE>~C05(Blademaster only)
+Allows guarding<NEWLINE>against normally<NEWLINE>unblockable<NEWLINE>attacks.<NEWLINE>~C05(Blademaster only)
+Automatically<NEWLINE>blocks attacks<NEWLINE>when weapon is<NEWLINE>drawn.<NEWLINE>~C05(Blademaster only)
+Decreases or<NEWLINE>increases speed<NEWLINE>of reloading<NEWLINE>~C05(Gunner only)
+Decreases or<NEWLINE>increases recoil<NEWLINE>of bowgun shots.<NEWLINE>~C05(Bowgun only)
+Increases the<NEWLINE>power of Normal S<NEWLINE>and Rapid shots<NEWLINE>~C05(Gunner only)
+Increases the<NEWLINE>power of Pierce S<NEWLINE>and Pierce shots<NEWLINE>~C05(Gunner only)
+Increases the<NEWLINE>power of Pellet S<NEWLINE>and Scatter shots<NEWLINE>~C05(Gunner only)
+Adds Normal S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Adds Pierce S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Adds Pellet S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Adds Crag S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Adds Clust S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Increases or<NEWLINE>decreases the<NEWLINE>power of Abnormal<NEWLINE>Status attacks.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Elemental<NEWLINE>attacks.
+Increases the<NEWLINE>power and<NEWLINE>combining success<NEWLINE>rate of bombs.
+Affects the rate<NEWLINE>of decrease of the<NEWLINE>Stamina Gauge.
+Affects the amount<NEWLINE>of stamina<NEWLINE>replenished when<NEWLINE>using items.
+Increases or<NEWLINE>decreases Attack.
+Increases or<NEWLINE>decreases Defense.
+Chance of<NEWLINE>receiving more or<NEWLINE>less damage from<NEWLINE>an attack.
+Diminishes the<NEWLINE>effect of monster<NEWLINE>roars.
+Items will not<NEWLINE>be stolen.
+Some items used<NEWLINE>will also affect<NEWLINE>other hunters in<NEWLINE>the same area.
+Greatly aids<NEWLINE>in transporting<NEWLINE>carried items.
+Increases or<NEWLINE>decreases Fire<NEWLINE>Resistance.
+Increases or<NEWLINE>decreases Water<NEWLINE>Resistance.
+Increases or<NEWLINE>decreases Thunder<NEWLINE>Resistance.
+Increases or<NEWLINE>decreases Ice<NEWLINE>Resistance.
+Increases or<NEWLINE>decreases Dragon<NEWLINE>Resistance.
+Negates or<NEWLINE>increases Heat<NEWLINE>effects.
+Negates or<NEWLINE>increases Cold<NEWLINE>effects.
+Negates or<NEWLINE>decreases monster<NEWLINE>wind effects.
+Increases or<NEWLINE>decreases the<NEWLINE>results of<NEWLINE>gathering and<NEWLINE>mining.
+Increases the<NEWLINE>speed of gathering<NEWLINE>and mining.
+Affects the chance<NEWLINE>of breaking for<NEWLINE>picks, bugnets,<NEWLINE>boomerangs and<NEWLINE>flutes.
+Improves or<NEWLINE>worsens the<NEWLINE>types of rewards<NEWLINE>gained after<NEWLINE>clearing a quest.
+Displays more<NEWLINE>information about<NEWLINE>big monsters on<NEWLINE>the map.
+Increases or<NEWLINE>decreases the<NEWLINE>effectiveness of<NEWLINE>recovery items.
+Improves or<NEWLINE>worsens the<NEWLINE>success rate of<NEWLINE>combinations.
+Maximizes the<NEWLINE>amount variable<NEWLINE>of combination<NEWLINE>results.
+Increases or<NEWLINE>decreases the<NEWLINE>duration of<NEWLINE>invulnerability<NEWLINE>when evading.
+Affects Attack<NEWLINE>and Defense when<NEWLINE>the health gauge<NEWLINE>drops below a<NEWLINE>certain amount. 
+Extends or<NEWLINE>shortens the<NEWLINE>duration of<NEWLINE>consumed items.
+Decreases or<NEWLINE>increases stamina<NEWLINE>consumption of<NEWLINE>running and<NEWLINE>climbing.
+Adds 1 to all<NEWLINE>loadable bowgun<NEWLINE>ammo limits,<NEWLINE>bow charge levels<NEWLINE>and gunlance shots.
+Increases or<NEWLINE>decreases bowgun<NEWLINE>shot accuracy.<NEWLINE>~C05(Bowgun only)
+Increases or<NEWLINE>decreases speed<NEWLINE>of consuming<NEWLINE>items.
+Increases the<NEWLINE>number of carves.
+Negates the effect<NEWLINE>of monster quake.
+Increases the<NEWLINE>distance of<NEWLINE>evasion moves.
+Unsheathed attacks<NEWLINE>have a great<NEWLINE>chance of<NEWLINE>being critcal.<NEWLINE>~C05(Blademaster only)
+Increases speed of<NEWLINE>setting traps,<NEWLINE>combining traps<NEWLINE>and tranquilzer<NEWLINE>bombs.
+Decreases or<NEWLINE>increases stamina<NEWLINE>consumption of<NEWLINE>guarding and<NEWLINE>evading.
+Increases the<NEWLINE>rewards for<NEWLINE>capturing a<NEWLINE>monster.
+Indicates on the<NEWLINE>map when a<NEWLINE>monster can be<NEWLINE>captured.
+Affects the<NEWLINE>charging of Hammer,<NEWLINE>Switch Axe, Bow,<NEWLINE>Greatsword, Duals<NEWLINE>and Longword.
+Adds KO damage<NEWLINE>to unsheathed<NEWLINE>attacks.<NEWLINE>~C05(Blademaster only)
+Negates all<NEWLINE>elemental blights.
+Increases Attack<NEWLINE>after fainting<NEWLINE>in battle.
+Increases<NEWLINE>Rapidfire shots<NEWLINE>by 1.<NEWLINE>~C05(Bowgun only)
+Increases the<NEWLINE>effectiveness and<NEWLINE>combine success<NEWLINE>rate of dungbombs.
+Negates the<NEWLINE>stench effect that<NEWLINE>disables item use.
+Allows the use<NEWLINE>of Poison Coating.<NEWLINE>~C05(Bow only)
+Allows the use<NEWLINE>of Paralysis<NEWLINE>Coating.<NEWLINE>~C05(Bow only)
+Allows the use<NEWLINE>of Sleep Coating.<NEWLINE>~C05(Bow only)
+Allows the use<NEWLINE>of Power Coating.<NEWLINE>~C05(Bow only)
+Allows the use<NEWLINE>of Razor Coating.<NEWLINE>~C05(Bow only)
+Reduces chance<NEWLINE>of Flute breaking<NEWLINE>and extends<NEWLINE>Hunting Horn<NEWLINE>effect durations.
+Increases the<NEWLINE>power of Ballista,<NEWLINE>Cannon, Crag,<NEWLINE>Gunlance Shots and<NEWLINE>Wyvern Fire.
+Great strength is<NEWLINE>bestowed for a<NEWLINE>short time if<NEWLINE>special conditions<NEWLINE>are met.
+Fishing and BBQing<NEWLINE>during quests are<NEWLINE>improved and all<NEWLINE>map areas are<NEWLINE>revealed.
+Negates Defense<NEWLINE>Down status.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Fire<NEWLINE>Attacks and<NEWLINE>Fire Shots.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Water<NEWLINE>Attacks and<NEWLINE>Water Shots.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Thunder<NEWLINE>Attacks and<NEWLINE>Thunder Shots.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Ice<NEWLINE>Attacks and<NEWLINE>Ice Shots.
+Increases or<NEWLINE>decreases the<NEWLINE>power of Dragon<NEWLINE>Attacks and<NEWLINE>Dragon Shots.
+Adds Cutter S<NEWLINE>to current types<NEWLINE>of loadable ammo.<NEWLINE>~C05(Bowgun only)
+Adds Fatigue<NEWLINE>Coating to current<NEWLINE>usable coatings.<NEWLINE>~C05(Bow only)
+Higher chance<NEWLINE>of criticals when<NEWLINE>hitting monsters'<NEWLINE>vulnerable points.
+Increases power<NEWLINE>when breaking<NEWLINE>parts.
+Increases KO<NEWLINE>attack power.
+Adds Fatigue<NEWLINE>status to attacks.
+Increases speed<NEWLINE>of sheathing<NEWLINE>weapon.
+Increases speed<NEWLINE>of Stamina<NEWLINE>recovery.
+No Skills
+Negates Poison effects.
+Doubles Poison effects.
+Negates Paralysis.
+Doubles Paralysis duration.
+Negates Sleep effects.
+Doubles Sleep duration.
+Halves Stun duration.
+Negates Stun effect.
+Doubles Stun duration.
+Negates Mud and Snow effects.
+Lower chance of being targeted<NEWLINE>by monsters.
+Higher chance of being<NEWLINE>targeted by monsters.
+Increases Health by 20.
+Increases Health by 50.
+Decreases Health by 10.
+Decreases Health by 30.
+Increases speed of recovery of<NEWLINE>the red part of the Health<NEWLINE>gauge.
+Greatly increases speed of<NEWLINE>recovery of the red part of<NEWLINE>the Health gauge.
+Decreases speed of recovery of<NEWLINE>the red part of the Health<NEWLINE>gauge.
+Greatly decreases speed of<NEWLINE>recovery of the red part of<NEWLINE>the Health gauge.
+Halves consumption of<NEWLINE>sharpness.
+Doubles consumption of<NEWLINE>sharpness.
+Increases the sharpness bar<NEWLINE>by a notch.
+Attacks no longer bounce.
+Increases affinity by 10%.
+Increases affinity by 20%.
+Increases affinity by 30%.
+Decreases affinity by 5%.
+Decreases affinity by 10%.
+Decreases affinity by 15%.
+Decreases sharpening time.
+Increases sharpening time.
+Decreases knock back during<NEWLINE>guarding.
+Greatly decreases knock back<NEWLINE>during guarding.
+Increases knock back during<NEWLINE>guarding.
+Allows guarding against<NEWLINE>normally unblockable attacks.
+Guards automatically when<NEWLINE>attacked if weapon is<NEWLINE>unsheathed.
+Slightly decreases reload<NEWLINE>speed of Bowguns and Bow<NEWLINE>Coatings.
+Decreases reload speed of<NEWLINE>Bowguns. Bow Coatings are<NEWLINE>loaded automatically.
+Greatly decreases reload<NEWLINE>speed of Bowguns. Bow Coatings<NEWLINE>are loaded automatically.
+Slightly decreases reload<NEWLINE>speed of Bowguns and Bow<NEWLINE>Coatings.
+Decreases reload speed of<NEWLINE>Bowguns and Bow Coatings.
+Greatly decreases reload<NEWLINE>speed of Bowguns and Bow<NEWLINE>Coatings.
+Slightly decreases bowgun<NEWLINE>recoil.
+Decreases bowgun recoil.
+Greatly decreases bowgun<NEWLINE>recoil.
+Slightly increases bowgun<NEWLINE>recoil.
+Increases bowgun recoil.
+Greatly Increases bowgun<NEWLINE>recoil.
+Increases the attack power<NEWLINE>of Bowgun Normal S and Bow<NEWLINE>Rapid shots.
+Increases the attack power<NEWLINE>of Bowgun Pierce S and Bow<NEWLINE>Pierce shots.
+Increases the attack power<NEWLINE>of Bowgun Pellet S and Bow<NEWLINE>Scatter shots.
+Allows all Normal S levels to<NEWLINE>be usable on a Bowgun.
+Allows Level 1 Pierce S to be<NEWLINE>usable on a Bowgun.
+Allows all Pierce S levels to<NEWLINE>be usable on a Bowgun.
+Allows Level 1 Pellet S to be<NEWLINE>usable on a Bowgun.
+Allows all Pellet S levels to<NEWLINE>be usable on a Bowgun.
+Allows Level 1 Crag S to be<NEWLINE>usable on a Bowgun.
+Allows all Crag S levels to<NEWLINE>be usable on a Bowgun.
+Allows Level 1 Clust S to be<NEWLINE>usable on a Bowgun.
+Allows all Clust S levels to<NEWLINE>be usable on a Bowgun.
+Slightly increases the power<NEWLINE>of Abnormal Status attacks.
+Increases the power of<NEWLINE>Abnormal Status attacks.
+Decreases the power of<NEWLINE>Abnormal Status attacks.
+Increases the power of<NEWLINE>Elemental attacks.
+Decreases the power of<NEWLINE>Elemental attacks.
+Increases the power of bombs.<NEWLINE>Max success rate of combining<NEWLINE>bombs.
+Halves the rate of decrease<NEWLINE>of the Stamina gauge.
+Negates the decrease of the<NEWLINE>Stamina gauge.
+Increases the rate of decrease<NEWLINE>of the Stamina gauge.
+Greatly increases the rate of <NEWLINE>decrease of the Stamina gauge.
+Increases the Stamina boost of<NEWLINE>meat.
+Any consumed item has a chance<NEWLINE>of boosting stamina.
+Slightly increases Attack<NEWLINE>Power.
+Increases Attack Power.
+Greatly increases Attack<NEWLINE>Power.
+Slightly decreases Attack<NEWLINE>Power.
+Decreases Attack Power.
+Greatly decreases Attack<NEWLINE>Power.
+Slightly increases Defense.
+Increases Defense.
+Greatly increases defense.
+Slightly decreases Defense.
+Decreases Defense.
+Greatly decreases defense.
+Chance to decrease damage<NEWLINE>received.
+Chance to increase damage<NEWLINE>received.
+Negates monster roar effects<NEWLINE>to some extent.
+Negates all monster roar<NEWLINE>effects.
+Items cannot be stolen.
+Some items consumed have<NEWLINE>limited effects on other<NEWLINE>hunters in the same area.
+Some items consumed affect<NEWLINE>other hunters in the same<NEWLINE>area.
+Increases movement speed when<NEWLINE>transporting carried items. 
+Fire Res increased by 5.<NEWLINE>Small resistance against Burn.
+Fire Res increased by 10.<NEWLINE>Burn has no effect.
+Fire Res decreased by 10.<NEWLINE>Burn effects are constant<NEWLINE>and have greater effect.
+Water Res increased by 5.<NEWLINE>Small resistance against Soak.
+Water Res increased by 10.<NEWLINE>Soak has no effect.
+Water Res decreased by 10.<NEWLINE>Soak effects are constant<NEWLINE>and have greater effect.
+Thunder Res increased by 5.<NEWLINE>Small resistance against Shock.
+Thunder Res increased by 10.<NEWLINE>Shock has no effect.
+Thunder Res decreased by 10.<NEWLINE>Shock effects are constant<NEWLINE>and have greater effect.
+Ice Res increased by 5.<NEWLINE>Small resistance against Frost.
+Ice Res increased by 10.<NEWLINE>Frost has no effect.
+Ice Res decreased by 10.<NEWLINE>Frost effects are constant<NEWLINE>and have greater effect.
+Dragon Res increased by 5.
+Dragon Res increased by 10.
+Dragon Res decreased by 10.
+Heat and Lava effects are<NEWLINE>negated.
+Heat effects decrease Health<NEWLINE>faster.
+Cold effects are negated.
+Cold effects decrease Stamina<NEWLINE>faster.
+Almost all monster wind<NEWLINE>effects are negated.
+All monster wind effects<NEWLINE>are negated.
+Increases the results of<NEWLINE>gathering and mining.
+Greatly increases the results<NEWLINE>of gathering and mining.
+Decreases the results of<NEWLINE>gathering and mining.
+Increases the speed of<NEWLINE>carving, gathering, mining<NEWLINE>and bug-catching.
+Decreases the chance of<NEWLINE>breaking picks, bugnets,<NEWLINE>boomerangs and flutes. 
+Greatly decreases the chance<NEWLINE>of breaking picks, bugnets,<NEWLINE>boomerangs and flutes.
+Increases the chance of<NEWLINE>breaking picks, bugnets,<NEWLINE>boomerangs and flutes.
+Greatly increases the chance<NEWLINE>of breaking picks, bugnets,<NEWLINE>boomerangs and flutes.
+Increases the chance of<NEWLINE>getting more rewards from<NEWLINE>quests.
+Greatly increases the chance<NEWLINE>of getting more rewards<NEWLINE>quests.
+Increases the chance of<NEWLINE>getting less rewards from<NEWLINE>quests.
+Greatly increases the chance<NEWLINE>of getting less rewards<NEWLINE>quests.
+Increases information of a<NEWLINE>paintballed monster on the<NEWLINE>map.
+Always displays monster<NEWLINE>information on the map.
+Increases the effectiveness<NEWLINE>of recovery items.
+Decreases the effectiveness<NEWLINE>of recovery items.
+Increases combination<NEWLINE>success rate by 20%.
+Increases combination<NEWLINE>success rate by 45%.
+Decreases combination<NEWLINE>success rate by 10%.
+Decreases combination<NEWLINE>success rate by 20%.
+Maximises the results when<NEWLINE>combining bowgun ammo.
+Increases the duration of<NEWLINE>invulnerability when evading.
+Greatly increases the duration<NEWLINE>invulnerability when evading.
+Decreases the duration of<NEWLINE>invulnerability when evading.
+Increases defense when health<NEWLINE>is less than 40%.
+Increases defense and attack<NEWLINE>when health is less than 40%.
+Decreases defense and attack<NEWLINE>when health is less than 40%.
+Increases the duration of<NEWLINE>consumed item effects.
+Decreases the duration of<NEWLINE>consumed item effects.
+Decreases stamina consumption<NEWLINE>of running and climbing.
+Increases stamina consumption<NEWLINE>of running and climbing.
+Adds 1 to all loadable bowgun<NEWLINE>ammo limits, bow charge levels<NEWLINE>and gunlance shots.
+Decreases blur at the time of<NEWLINE>firing.
+Greatly decreases blur at the<NEWLINE>time of firing.
+Increases blur at the time of<NEWLINE>firing.
+Greatly increases blur at the<NEWLINE>time of firing.
+Increases the speed of<NEWLINE>consuming meat.
+Increases the speed of<NEWLINE>consuming meat and items.
+Decreases the speed of<NEWLINE>consuming meat.
+Adds an extra time when<NEWLINE>carving and negates knock back<NEWLINE>during carving.
+Negates wobbling caused<NEWLINE>monster tremors.
+Increases the distance of<NEWLINE>evading.
+Unsheathed attacks have 100%<NEWLINE>affinity.
+Increases speed of setting<NEWLINE>traps. Success of combining<NEWLINE>traps and tranq bombs is 100%.
+Decreases stamina consumption<NEWLINE>when guarding and evading.
+Greatly decreases stamina<NEWLINE>consumption when guarding and<NEWLINE>evading.
+Increases stamina consumption<NEWLINE>when guarding and evading.
+Greatly increases stamina<NEWLINE>consumption when guarding and<NEWLINE>evading.
+Increases rewards for<NEWLINE>capturing a monster.
+Greatly increases rewards<NEWLINE>for capturing a monster.
+Indicates on the map when a<NEWLINE>monster can be captured.
+Improves the charging of Bow,<NEWLINE>Hammer, Switch Axe, Longword,<NEWLINE>Greatsword and Dual Swords.
+Worsens the charging of Bow,<NEWLINE>Hammer, Switch Axe, Longword,<NEWLINE>Greatsword and Dual Swords.
+Adds KO damage to unsheathed<NEWLINE>attacks.
+Negates the effects of Burn,<NEWLINE>Soak, Shock and Frost.
+Increases Attack after<NEWLINE>fainting in battle.
+Adds 1 more shot to Rapid<NEWLINE>Fire.
+Increases the effectiveness of<NEWLINE>dungbombs. Success rate of<NEWLINE>combining dungbombs is 100%.
+Negates the stench effect that<NEWLINE>disables item use.
+Allows the use of Poison<NEWLINE>Coating on bows.
+Allows the use of Paralysis<NEWLINE>Coating on bows.
+Allows the use of Sleep<NEWLINE>Coating on bows.
+Allows the use of Power<NEWLINE>Coating on bows.
+Allows the use of Razor<NEWLINE>Coating on bows.
+Reduces chance of Flute<NEWLINE>breaking and extends Hunting<NEWLINE>Horn effect durations.
+Slightly increases the power<NEWLINE>of Ballista, Gunlance Shots,<NEWLINE>Cannon, Crag, and Wyvern Fire.
+Increases the power of<NEWLINE>Ballista, Gunlance Shots,<NEWLINE>Cannon, Crag, and Wyvern Fire.
+Strength is bestowed for a<NEWLINE>short time if specific<NEWLINE>conditions are met.
+Great strength is bestowed for<NEWLINE>a short time if specific<NEWLINE>conditions are met.
+Fishing and Barbecuing during<NEWLINE>quests are improved and all<NEWLINE>map areas are revealed.
+Negates Defense Down status.
+Increases the power of Fire<NEWLINE>Attacks and Fire Shots.
+Greatly increases the power<NEWLINE>of Fire Attacks and Fire<NEWLINE>Shots.
+Decreases the power of Fire<NEWLINE>Attacks and Fire Shots.
+Increases the power of Water<NEWLINE>Attacks and Water Shots.
+Greatly increases the power<NEWLINE>of Water Attacks and Water<NEWLINE>Shots.
+Decreases the power of Water<NEWLINE>Attacks and Water Shots.
+Increases the power of Thunder<NEWLINE>Attacks and Thunder Shots.
+Greatly increases the power<NEWLINE>of Thunder Attacks and Thunder<NEWLINE>Shots.
+Decreases the power of Thunder<NEWLINE>Attacks and Thunder Shots.
+Increases the power of Ice<NEWLINE>Attacks and Ice Shots.
+Greatly increases the power<NEWLINE>of Ice Attacks and Ice<NEWLINE>Shots.
+Decreases the power of Ice<NEWLINE>Attacks and Ice Shots.
+Increases the power of Dragon<NEWLINE>Attacks and Dragon Shots.
+Greatly increases the power<NEWLINE>of Dragon Attacks and Dragon<NEWLINE>Shots.
+Decreases the power of Dragon<NEWLINE>Attacks and Dragon Shots.
+Allows Cutter S to be usable<NEWLINE>on a Bowgun.
+Allows the use of Fatigue<NEWLINE>Coating on bows.
+Increases affinity when<NEWLINE>hitting monster weak points.
+Monster parts break more<NEWLINE>easily.
+Monsters KO more easily.
+Attacks have added Fatigue<NEWLINE>Status effect.
+Weapons are kept faster.
+Increases Stamina recovery<NEWLINE>speed.
+Decreases Stamina recovery<NEWLINE>speed.
