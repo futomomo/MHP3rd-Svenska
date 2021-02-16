@@ -15,7 +15,7 @@ Motgift
 Immuniserare
 Energidryck
 Springjuice
-Megaspringjuice
+MegaSpringjuice
 Demondrog
 Megademondrog
 Kraftpiller
@@ -240,208 +240,208 @@ Monsterben【S】
 Monsterben【M】
 Monsterben【L】
 Monsterben+
-Shrp Mnster Bne
-Hrd Mnster Bone
-Bird Wyvrn Bone
-Giant Bone
-Stout Bone
-Ancnt Drgn Bone
-Wyvern Fang
-Wyvern Claw 
-BrdWyvern Stone
-Wyvern Stone
-EldrDragonBlood
-Screamer
-Poison Sac
-Toxin Sac
-Paralysis Sac
-Torpor Sac
-Sleep Sac
-Coma Sac
-Flame Sac
-Inferno Sac
-Aqua Sac
-Hydro Sac
-Thunder Sac
-Frost Sac
-Glacial Sac
-Power Extract
-Pale Extract
-Monster Fluid
-Monster Broth
-Gagua Feather
-Kelbi Horn
-Warm Pelt
-High Qualty Plt
-Anteka Antlers
-Rhenoplos Shell
-Rhenoplos Crpce
-Rhnplos Skl Shl
-Zuwaroposu Hide
-Zuwaropsu Hide+
-Large Fin
-Quality Fin
-Sharp Fang
-Glossy Hide
-Bnahabra Shell
-Bnahabra Carpce
-Bnahabra Wing
-Bnahabra Stingr
-Altaroth Jaw
-Altarth Abdomen
-Quality Abdomen
-Bullfango Pelt
-Bullfango Head
-Bulldrome Hide
-Bulldrome Hide+
-Bulldrome Tusk
-Jaggi Scale
-Jaggi Scale+
-Jaggi Hide
-Brd Wyvern Fang
-Grt Jaggi Hide
-Grt Jaggi Hide+
-Grt Jaggi Claw
-Grt Jaggi Claw+
-Regal Frill
-Grt Jaggi Head
-Froggi Scale
-Froggi Scale+
-Froggi Hide
-Froggi Fang
-Grt Froggi Hide
-Grt Frggi Hide+
-Grt Frggi Arm
-Grt Frggi Arm+
-Regal Snout
-Baggi Scale
-Baggi Scale+
-Baggi Hide
-Grt Baggi Hide
-Grt Baggi Hide+
-Grt Baggi Claw
-Grt Baggi Claw+
-Regal Crest
-Aoashira Pelt
-Aoashira Pelt+
-Aoashira Shell
-Aoashira Carpce
-Aoashira Arm
-Aoashira Arm+
-Urcusis Pelt
-Urcusis Pelt+
-Urcusis Ear
-Urcusis Lng Ear
-Urcusis Belly
-UrcusisHrdBelly
-Urcusis Claw
-Urcusis Claw+
-Rangurotora Shl
-Rangurotora Cpc
-Rangurotora Clw
-Rangurtora Clw+
-Rangrtora Belly
-Qurupeco Scale
-Qurupeco Scale+
-Qurupeco Feathr
-Qurupeco Wing
-Vibrant Down
-Queer Beak
-Splendid Beak
-Flintstone
-Red Qurpeco Scl
-Red Qurpeco Wng
-Piezo Crystal
-Ludroth Hide
-Ludroth Hide+
-Juvenile Sponge
-Spongy Hide
-Spongy Hide+
-RoyalLudrothScl
-RoyalLudrthScl+
-RoyalLudrothClw
-RoyalLudrthClw+
-RyalLudrthCrest
-Exquisite Crest
-RoyalLudrthTail
-SpongyPurplHide
-PurpRylLdrthScl
-PurpRylLdrthClw
-Barroth Shell
-Barroth Carapce
-Barroth Spine
-Barroth Thracic
-Barroth Claw
-Barroth Claw+
-Barroth Skl Shl
-Barroth Tail
-Fertile Mud
-Ice Barroth Shl
-IceBarrothSpine
-Ice Barroth Clw
-IceBarrthSklShl
-IceBarrothTail
-Frozen Mucus
-Hapurubokka Shl
-Hapurubokka Cpc
-Hapurbokka Hide
-Haprbokka Hide+
-Hapurubokka Clw
-Hapurbokka Clw+
-Hprbkka Skl Shl
-Brilliant Fluid
-Chromatic Fluid
-Gigginox Hide
-Gigginox Hide+
-Uncanny Hide
-Uncanny Hide+
-Gigginox Claw
-Gigginox Claw+
-Horrific Maw
-Poison Gland
-Venom Gland
-ThdrGiggnoxHide
-ThndrGiggnoxClw
-Rathian Scale
-Rathian Scale+
-Rathian Shell
-Rathian Carapce
-Rathian Webbing
-Rathian Spike
-Rathian Spike+
+Monsterknivben
+Monsterhårdben
+Fint Fågelben
+Jätteben
+Bastantben
+Drakbensrelik
+Lindormhuggtand
+Lindormsklo
+FglLindormssten
+Lindormssten
+GammelDrakBlod
+Vrålarpåse
+Giftpåse
+Toxinpåse
+Paralyspåse
+Förlamningspåse
+Sömnpåse
+Komapåse
+Flampåse
+Helvetespåse
+Vattenpåse
+Hydropåse
+Åskpåse
+Fryspåse
+Ispåse
+Kraftextrakt
+Blekextrakt
+Monstervätska
+Monsterbuljong
+Gargwafjäder
+Kelbihorn
+Varm Päls
+Högkvalitépäls
+Antekahorn
+Rhenoplosskal
+Rhenoplos Sköld
+Rhenoplos Skalp
+Slagtothhud
+Slagtothhud+
+Stor Fena
+Kvalitativ Fena
+Vass Huggtand
+Glänsande Hud
+Bnahabraskal
+BnahaRyggsköld
+Bnahabravinge
+Bnahabragadd
+Altarothhaka
+Altarthmage
+Kvalitativ Mage
+Bullfangopäls
+Bullfangohuvud
+Bulldromepäls
+Bulldromepäls+
+Bulldromebete
+Jaggifjäll
+Jaggifjäll+
+Jaggipäls
+FglLindormstand
+Stor-Jaggipäls
+Stor-Jaggipäls+
+Stor-Jaggiklo
+Stor-Jaggiklo+
+Kungligt Krås
+Stor-Jaggihuvud
+Wroggifjäll
+Wroggifjäll+
+Wroggihud
+Wroggihuggtand
+Stor-Wroggihud
+Stor-Wroggihud
+Stor-Wroggiarm
+Stor-Wroggiarm+
+Kungligt Tryne
+Baggifjäll
+Baggifjäll+
+Baggihud
+Stor-Baggihud
+Stor-Baggihud+
+Stor-Baggiklo
+Stor-Baggiklo+
+Kunglig Kam
+Arzurospäls
+Arzurospäls+
+Arzurosskal
+ArzurosRyggskld
+Arzurosarm
+Arzurosarm+
+Lagombipäls
+Lagombipäls+
+Lagombiöra
+Lagombiöra+
+Lagombibukskld+
+Lagombibukskld+
+Lagombiklo
+Lagombiklo+
+Volvidonskal
+Volvi-ryggsköld
+Volvidonklo
+Volvidonklo+
+Volvidonbuk
+Qurupecofjäll
+Qurupecofjäll+
+Qurupecofjäder
+Qurupecovinge
+Pulserande Fjun
+Underlig Näbb
+Präktig Näbb
+Flintastone
+M.Qurpecofjäll
+M.Qurpecovinge
+Piezokristal
+Ludrothhud
+Ludrothhud+
+Ung Tvättsvamp
+Svampig Hud
+Svampig Hud+
+K.Ludrothfjäll
+K.Ludrothfjäll+
+K.Ludrothklo
+K.Ludrothklo+
+K.Ludrothkam
+K.Ludrothkam+
+K.Ludrothsvans
+SvampigLilaHud
+L.Ludrothfjäll
+L.Ludrothklo
+Barrothskal
+BarrothRyggskld
+Barrothryggrad
+Barrothryggrad+
+Barrothklo
+Barrothklo+
+Barrothskalp
+Barrothsvans
+Bördig Gyttja
+J.Barrothskal
+J.Barrothryggrd
+J.Barrothklo
+J.Barrothskalp
+J.Barrothsvans
+Fruset Slem
+Nibelsnarfskal
+Nibelryggsköld
+Nibelsnarfhud
+Nibelsnarfhud+
+Nibelsnarfklo
+Nibelsnarfklo+
+Nibelsnarfskalp
+Klar Vätska
+GlimmandeVätska
+Gigginoxhud
+Gigginoxhud+
+Kuslig Hud
+Kuslig Hud+
+Gigginoxklo
+Gigginoxklo+
+Fasansfullt Gap
+Giftkörtel
+Grym Giftkörtel
+K.Gigginoxhud
+K.Gigginoxklo
+Rathianfjäll
+Rathianfjäll+
+Rathianskal
+Rathianryggskld
+Rathianvävnad
+Rathiantagg
+Rathiantagg+
 Rathian Plate
-Rathian Ruby
-Gld Rathian Scl
-Gld Rathian Cpc
-GldRathianSpike
-Rathalos Scale
-Rathalos Scale+
-Rathalos Shell
-Rathalos Carpce
-Rathalos Webbng
-Rathalos Tail
+Rathianrubin
+G.Rathianfjäll
+G.Rthianrygskld
+G.Rathiantagg
+Rathalosfjäll
+Rathalosfjäll+
+Rathalosskal
+Rathlosryggskld
+Rathalosvävnad
+Rathalossvans
 Rathalos Plate
-Rathalos Ruby
-Slvr Rthlos Scl
-Slvr Rthlos Cpc
-Slvr RthlosTail
-Fire Wyvern Clw
-FireWyvrnMarrow
-FireWyvrnBrnStm
-FireWyvernFluid
-Jinouga Shell
-Jinouga Carapce
-Jinouga Pelt
-Jinouga Pelt+
-Jinouga Horn
-Jinouga Horn+
-Jinouga Claw
-Jinouga Claw+
-Jinouga Tail
-Static Carapace
-LightningCarpce
-Jinouga Plate
-Jinouga Jasper
+Rathalosrubin
+S.Rathalosfjäll
+S.Rthlosrygskld
+S.Rathalossvans
+Rathklo
+Rathbenmärg
+Rathbenmärg
+Rath Glödvätska
+Zinogreskal
+Zinogreryggskld
+Zinogrepäls
+Zinogrepäls+
+Zinogrehorn
+Zinogrehorn+
+Zinogreklo
+Zinogreklo+
+Zinogresvans
+Zinogreshocker
+Zinogreshocker+
+Zinogre Plate
+Zinogrejaspis
 Narga Scale
 Narga Scale+
 Black Narga Plt

@@ -22,9 +22,9 @@ Avbryt
 Ja
 Nej
 ~B12~C34Ja~C00~B13　　Nej　
-　Ja　 ~B12~C34Nej~C00~B13
-~B12~C34Exchange~C00~B13　　Remove　
-　Exchange　　~B12~C34Remove~C00~B13
+　Ja　　~B12~C34Nej~C00~B13
+~B12~C34Byt ut~C00~B13　　Ta bort　
+　Byt ut　　~B12~C34Ta bort~C00~B13
 %d
 %1d
 %2d
@@ -36,44 +36,44 @@ Nej
 %4dz
 %5dz
 %7dz
-%4dpts
-%5dpts
-%7dpts
+%4dp
+%5dp
+%7dp
 -------z
--------pts
-~B00Cfrm
-~B01Back
-~B03Back
-~B03~B01Back
+-------p
+~B00Välj
+~B01Bak
+~B03Bak
+~B03~B01Bak
 ~B02Info
-~B03Skill Info
-~B03Equip Info
-~B00Slct
-~B00Unselect
+~B03Förmågor Info
+~B03Utrustningsinfo
+~B00Välj
+~B00Avmarkera
 ~B06　Dcide
-~B07　Sort
-~B06　Camera Settings
-~B08Rotate
-~B09Camera
-~B06　Menu
-~B00Confirm
-~B00Color
-~B03Switch Equipment
-~B03~B00Cfrm
-~B06　Edit Set Name
-~B06　Reg Set
-~B01Cancel
-~B07　View by Name
+~B07　Sortera
+~B06　Kamerainställningar
+~B08Rotera
+~B09Kamera
+~B06　Meny
+~B00Bekräfta
+~B00Färg
+~B03Byt Utrustning
+~B03~B00Välj
+~B06　Redigera Setnamn
+~B06　Registrera Set
+~B01Avbryt
+~B07　Sortera efter namn
 ~B07　View by Skills
 ~B07　Sort by
-~B03Map Zoom In
-~B03Map Zoom Out
-~B02Beacon
+~B03Zooma In Kartan
+~B03Zooma Ut Kartan
+~B02Ping
 ~B03Move List
 ~B02Set Order
 ~B02Order List
 ~B07　Default
-~B02Amount
+~B02Antal
 ~B06　Begin
 ~B01Cancel
 ~B06　Back

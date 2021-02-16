@@ -1,6 +1,6 @@
 dummy
-Intro text for first-time<NEWLINE>combiners. Improves your<NEWLINE>combining success rate.
-Basic text. Together<NEWLINE>with 1, improves your<NEWLINE>combining success rate.
+Introtext för nybörjarje.<NEWLINE>Förbättrar chansen att<NEWLINE>lyckas med kombinationer.
+Grundläggande text. Till-<NEWLINE>sammans med 1:an ökar<NEWLINE>de din kombinationschans.
 Intermediate text. Along<NEWLINE>with 1 & 2, improves your<NEWLINE>combining success rate.
 Advanced text. Along with<NEWLINE>1, 2, and 3, improves your<NEWLINE>combining success rate.
 Pro text. Along with 1,<NEWLINE>2, 3, and 4, improves your<NEWLINE>combining success rate.
