@@ -58,8 +58,8 @@ Paralyskastkniv
 Lugn. kastkniv
 Bollhölje
 Färgboll
-Flash Bomb
-Sonic Bomb
+Blixtbomb
+Ljudknallsbomb
 Dynga
 Lindormsavföring
 Dyngbomb
@@ -406,10 +406,10 @@ Rathianfjäll
 Rathianfjäll+
 Rathianskal
 Rathianryggskld
-Rathianvävnad
+Rathianflyghud
 Rathiantagg
 Rathiantagg+
-Rathian Plate
+Rathianplate
 Rathianrubin
 G.Rathianfjäll
 G.Rthianrygskld
@@ -418,16 +418,16 @@ Rathalosfjäll
 Rathalosfjäll+
 Rathalosskal
 Rathlosryggskld
-Rathalosvävnad
+Rathalosflyghud
 Rathalossvans
-Rathalos Plate
+Rathalosplate
 Rathalosrubin
 S.Rathalosfjäll
 S.Rthlosrygskld
 S.Rathalossvans
 Rathklo
 Rathbenmärg
-Rathbenmärg
+Rathryggmärg
 Rath Glödvätska
 Zinogreskal
 Zinogreryggskld
@@ -440,241 +440,241 @@ Zinogreklo+
 Zinogresvans
 Zinogreshocker
 Zinogreshocker+
-Zinogre Plate
+Zinogreplate
 Zinogrejaspis
-Narga Scale
-Narga Scale+
-Black Narga Plt
-BlackNargaPelt+
-Nargacuga Tail
-Narga TailSpike
-Nargacuga Wing
-Nargacuga Wing+
-Nargacuga Fang
-Nargacuga Fang+
-Narga Marrow
-Narga Brain Stm
-Green Narga Scl
-Grn Narga Pelt
-Grn Narga Wing
-Grn Narga Fang
-Barioth Shell
-Barioth Carapce
-Barioth Pelt
-Barioth Pelt+
-Barioth Claw
-Barioth Claw+
-Barioth Spike
-Barioth Tail
-Amber Fang
-Amber Fang+
-SandBariothShl
-SandBariothPlt
-SandBariothClw
-SandBariothTail
-Sapphire Fang
-Hard Pleura
-Uragaan Scale
-Uragaan Scale+
-Uragaan Shell
-Uragaan Carapce
-Uragaan Jaw
-Uragaan Shield
-Uragaan Marrow
-Uragaan Ruby
-SteelUragaanScl
-SteelUragaanCpc
-SteelUragaanJaw
-SteelUrgnShield
-Doboru Shell
-Doboru Carapace
-Mossy Carapace
-Mossy Carapace+
-Doboru Kelp
-Doboru Tail
-Doboru Tail+
-Doboru Horn
-Doboru Horn+
-Doboru Tailbone
-Doboru Sacrum
-Tigrex Scale
-Tigrex Scale+
-Tigrex Shell
-Tigrex Carapace
-Tigrex Tail
-Tigrex Claw
-Tigrex Claw+
-Tigrex Fang
-Tigrex Fang+
-Tigrex Skl Shl
-Tigrex Jaw
-Blk Tigrex Scl
-Blk Tigrex Shl
-Blk Tigrex Claw
-Blk Tigrex Fang
-Diablos Shell
-Diablos Carapce
-Diablos Spine
-Diablos Thorcic
-DiablosTailbone
-Blos Fang
-Twisted Horn
-Majestic Horn
-Diablos Marrow
-Diablos Brnstm
-Black Blos Shl
-Blk Blos Spine
-MajesticBlkHorn
-Uroktor Scale
-Uroktor Scale+
-Agnaktor Scale
-Agnaktor Shell
-Agnaktor Carpce
-Agnaktor Hide
-Agnaktor Hide+
-Agnaktor Claw
-Agnaktor Claw+
-Agnaktor Fin
-Agnaktor Fin+
-Agnaktor Snout
-Agnaktor Tail
-Igneous Thorax
-Igneous Thorax+
-Ice Agnktor Shl
-Ice Agnktr Hide
-Ice Agnktor Clw
-Ice Agnktor Fin
-IceAgnktorSnout
-Ice Agnktr Tail
-Clammy Thorax
-Jhen Mohran Shl
-Jhen Mohran Cpc
-Jhen Mohran Scl
-Jhen Mhran Scl+
-Jhen Mohran Arm
-Jhen Mhran Arm+
-Jhen Mhran Fang
-Jhen Mhrn Fang+
-Jhen Mohran Jwl
-Deviljho Scale
-Deviljho Hide
-Deviljho Fang
-Deviljho Claw
-Dviljho Skl Shl
-Deviljho Tail
-Deviljho Drool
-Deviljho Jewel
-Akantor Scale
-Akantor Shell
-Akantor Tail
-Akantor Claw
-Akantor Fang
-Akantor Spike
-Akantor Jewel
-Ukanlos Shell
-Ukanlos Scale
-Ukanlos Tail
-Ukanlos Claw
-Ukanlos Jaw
-Ukanlos Fin
-Ukanlos Jewel
-Alatreon Shell
-Alatreon Plate
-Alatreon Claw
-Alatreon Webbng
-Alatreon Tail
-Alatreon Horn
-Skypiercer
-Alatreon Jewel
-Amatsu Shell
-Amatsu Patagium
-Amatsu Horn
-Amatsu Claw
-Amatsu Tail
-Amatsu Thorax
-Tempest Sac
-Amatsu Jewel
-Ruststone
-Ancient Stone
-Rustshard
-Lrg Ancnt Shard
-Thn Ancnt Shard
-Lng Ancnt Shard
-Steel Egg
-Silver Egg
-Golden Egg
-Commendation
-Commendation G
-Pawprint Stamp
-Yukumo Ticket
-Drink Ticket
-HotSpringTicket
-Comrade Ticket
-VeggieElderTckt
-VeggieEldrTckt+
-VegElderTcktBrz
-VegElderTcktSlv
-VegElderTcktGld
-SecretSwordBook
-SecretBowgunBk
-Secret LS Book
-Call to Arms
-Champion Proof
-Lily Proof
-Ancnt Demon Fng
-SwdMaster Book
-Detective Proof
-Leek Contract
-Magazine Ticket
-Treasure J Tckt
-Pirate J Ticket
-Legend J Ticket
-Pirate J Dbloon
-Famitsu Ticket
-Famitsu S Tckt
-Famitsu G Tckt
-Famitsu P Tckt
-Famitsu Coin
-Dengeki Ticket
-Dengeki Ticket+
-Big Boss Title
-Secret Card
-Uniqlo Ticket
-BlkCrystalTckt
-Wht Raven Quill
-DragnScaleTckt
-Mafumofu Ticket
-Felyne Diary
-MH Club Form
-Lynian Info
-Neopteron Info
-Piscine Info
-Herbivore Info
-Bird Wyvern Info 1
-Bird Wyvern Info 2
-Pelagus Info
-Brute Wyvern Info 1
-Brute Wyvern Info 2
-Doboruberuku Info
-Deviljho Info
-Leviathan Info 1
-Leviathan Info 2
-Hapurubokka info
-FlyingWyvernInfo 1
-FlyingWyvernInfo 2
-Akantor Info
-Ukanlos Info
-Jinouga Info
-Jhen Mohran Info
-Amatsu Info
-Alatreon Info
-Map
-First-Aid Med
-Ration
-Portable Spit
-Mini Whetstone
-Paw Pass Ticket
-Prtbl Shock Trap
+Nargacugafjäll
+Nargacugafjäll+
+Svart Nargapäls
+Svart Nargapäls+
+Nargacugasvans
+Nargasvanstagg
+Nargacugavinge
+Nargacugavinge+
+Nargahuggtand
+Nargahuggtand+
+Nargabenmärg
+Nargaryggmärg
+G.Nargafjäll
+G.Nargapäls
+G.Nargavinge
+G.Nargahuggtand
+Bariothfjäll
+Bariothryggskld
+Bariothpäls
+Bariothpäls+
+Bariothklo
+Bariothklo+
+Bariothtagg
+Bariothsvans
+BärnstnHuggtnd
+BärnstnHuggtnd+
+S.Bariothskal
+S.Bariothpäls
+S.Bariothklo
+S.Bariothsvans
+Safirhuggtand
+Grov Pleura
+Uragaanfjäll
+Uragaanfjäll+
+Uragaanskal
+Uragaanryggskld
+Uragaankäke
+Uragaanscute
+Uragaanbenmärg
+Uragaanrubin
+S.Uragaanfjäll
+S.UragnRyggSkld
+S.Uragaankäke
+S.Uragaanscute
+Duramborosskal
+Duramryggsköld
+MossigRyggskld
+MossigRyggskld+
+Durampuckel
+Duramsvans
+Duramnsvans+
+Duramboroshorn
+Duramboroshorn+
+Duramsvansben
+Duramkorsben
+Tigrexfjäll
+Tigrexfjäll+
+Tigrexskal
+Tigrexryggsköld
+Tigrexsvans
+Tigrexklo
+Tigrexklo+
+Tigrexhuggtand
+Tigrexhuggtand+
+Tigrexskalp
+Tigrexkäke
+V.Tigrexfjäll
+V.Tigrexskal
+V.Tigrexklo
+V.Tigrexhuggtnd
+Diablosskal
+Diablosryggskld
+Diablosryggrad
+Diablosryggrad+
+Diablossvansben
+Bloshuggtand
+Förvridet Horn
+Ståtligt Horn
+Diablosbenmärg
+Diablosryggmärg
+B.DiabRyggsköld
+B.Diablryggrad
+SvartStåtlgtHorn
+Uruktorfjäll
+Uroktorfjäll+
+Agnaktorfjäll
+Agnaktorskal
+AgnakRyggsköld
+Agnaktorhud
+Agnaktorhud+
+Agnaktorklo
+Agnaktorklo+
+Agnaktorfena
+Agnaktorfena+
+Agnaktortryne
+Agnaktorsvans
+VulkaniskThorax
+VulkaniskThorax+
+G.Agnaktorskal
+G.Agnaktorhud
+G.Agnaktorklo
+G.Agnaktorfena
+G.Agnaktortryne
+G.Agnaktorsvans
+Fuktig Thorax
+Mohranskal
+Mohranryggsköld
+Mohranfjäll
+Mohranfjäll+
+Mohranarm
+Mohranarm+
+Mohranhuggtand
+Mohranhuggtand+
+Jorddrakpärla
+Demonjhofjäll
+Demonjhohud
+Demonjhohuggtand
+Demonjhoklo
+Demonjhoskalp
+Demonjhosvans
+Demonjhodregel
+Demonjhojuvel
+Akantorfjäll
+Akantorskal
+Akantorsvans
+Akantorklo
+Akantorhuggtand
+Akantortagg
+Akantorjuvel
+Ukanlosskal
+Ukanlosfjäll
+Ukanlossvans
+Ukanlosklo
+Ukanloskäke
+Ukanlosfena
+Ukanlosjuvel
+Alatreonskal
+Alatreonplate
+Alatreonklo
+Alatreonflyghud
+Alatreonsvans
+Alatreonhorn
+Himmelsspjut
+Alatreonjuvel
+Amatsuskal
+Amatsuflyghud
+Amatsuhorn
+Amatsuklo
+Amatsusvans
+Amatsuthorax
+Stormpåse
+Amatsujuvel
+Rostskärva
+Uråldrig Skärva
+Roststump
+Stort Fragment
+Smalt Fragment
+Långt Fragment
+Stålägg
+Silverägg
+Guldägg
+Tapperhetsbevis
+TapperhetsbevisG
+Tassavtrcksmärke
+Yukumobiljett
+Dryckbiljett
+Onsenbiljett
+Kamratbiljett
+VG-biljett
+VG-deluxbiljett
+VG-bronsbiljett
+VG-silverbiljett
+VG-guldbiljett
+Vapencodex
+Armborstcodex
+Långsvärdcodex
+Beväpningsinvit
+Mästarbevis
+Liljebevis
+Antik Demontand
+Svärdmästrskrift
+Detektivbevis
+Negima!-kontrakt
+Magazinebiljett
+Skatt J-Biljett
+Pirat J-Biljett
+Legend J-Biljett
+Pirate J-dublon
+Famitsubiljett
+Famitsu S-bljett
+Famitsu G-bljett
+Famitsu P-bljett
+Famitsumynt
+Dengekibiljett
+Dengekibiljett+
+Big Boss-titel
+Hemligt Kort
+Uniqlobiljett
+SvrtKrstllBljett
+Vitkorpfjäder
+Drakfjällbiljett
+Mafumofubiljett
+Kattdagbok
+MH Klub-formulär
+Lynianinfo
+Neopteroninfo
+Piscineinfo
+Växtätarinfo
+Fågellindormsinfo 1
+Fågellindormsinfo 2
+Pelagusinfo
+Brutal Lindormsinfo 1
+Brutal Lindormsinfo 2
+Duramborosinfo
+Demonjhoinfo
+Leviataninfo 1
+Leviataninfo 2
+Nibelsnarfinfo
+Flyglindormsinfo 1
+Flyglindormsinfo 2
+Akantorinfo
+Ukanlosinfo
+Zinogreinfo
+Jhen Mohran-info
+Amatsuinfo
+Alatreoninfo
+Karta
+Nödmedicin
+Ranson
+PortabeltStksptt
+Minibrynsten
+Kattaxibiljett
+Prtabelstötfälla
 Supply Flash Bmb
 Supply Sonic Bmb
 Sply Max Potion
