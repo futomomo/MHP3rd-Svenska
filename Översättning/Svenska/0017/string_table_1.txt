@@ -1,9 +1,9 @@
 －－－－－－－－
-Kombineringsbok 1
-Kombineringsbok 2
-Kombineringsbok 3
-Kombineringsbok 4
-Kombineringsbok 5
+Kombobok Vol 1
+Kombobok Vol 2
+Kombobok Vol 3
+Kombobok Vol 4
+Kombobok Vol 5
 Organiseringsguide
 Packmästarguide
 Medicin
@@ -49,7 +49,7 @@ Varmt Kött
 Rare Fisk
 Gourmetfisk
 Bränd Fisk
-Onsen-ägg
+Yukumo Onsen-ägg
 Boomerang
 Kastkniv
 Giftkastkniv
@@ -129,13 +129,13 @@ Bedövningskula
 Färgkula
 Ingen Flaska
 Tom Flaska
-Kraftflaska
-Närstridsflaska
-Giftflaska
-Paralysflaska
-Sömnflaska
-Trötthetsflaska
-Färgflaska
+Kraftöverdrag
+Närstridsöverdrg
+Giftöverdrag
+Paralysöverdrag
+Sömnöverdrag
+Trötthetsöverdrg
+Färgöverdrag
 Mask
 Fiskefeber-bete
 Guldfiskbete
@@ -351,7 +351,7 @@ Präktig Näbb
 Flintastone
 M.Qurpecofjäll
 M.Qurpecovinge
-Piezokristal
+Piezokristall
 Ludrothhud
 Ludrothhud+
 Ung Tvättsvamp
@@ -675,305 +675,305 @@ PortabeltStksptt
 Minibrynsten
 Kattaxibiljett
 Prtabelstötfälla
-Supply Flash Bmb
-Supply Sonic Bmb
-Sply Max Potion
-Sply Pitfall Trp
-Sply Lg Brrl Bmb
-Anti-Dragon Bomb
-Ballista S
-Harpoon S
-Binder S
-Royal Honey
-Special Mushroom
-Select Mushroom
-Ripe Mushroom
-Great Mushroom
-Special Bamboo
-Aurora Plant
-Volcano Pepper
-Goldenfish
-Silverfish
-Brocadefish
-Ryl Brocadefish
-Royal Rhino
-Divine Rhino
-Silver Cricket
-Golden Cricket
-Goldstone Piece
-Goldstone Hunk
-FlowrstonePiece
-Flowrstone Hunk
-Wyvern Crystal
-Golden Bone
-Bloodstone
-Dark Bloodstone
-Coal
-Saturated Coal
-Cannon S
-Wyvern Egg
-Herbivore Egg
-Gagua Egg
-Gagua GoldenEgg
-Sootstone Ore
-Powderstone
-Gagua Dung
-White Liver
-Zuwaru Blubber
-Popo Tongue
-Secret Pouch
-Perfect Acorn
-Clean Gut
-Sparkling Gut
-Giggi Essence
-Monster Liver
-Wyvern Tears
-Wyvern Sobs
-Pelagus Tears
-Pelagus Sobs
-Wood Scraps
-Wood Scraps+
-Pumpkin Scraps
-Ore Scraps
-Ore Scraps+
-Bone Scraps
-Bone Scraps+
-Pelt Scraps
-Pelt Scraps+
-Rhnoplos Scraps
-Rhnplos Scraps+
-Zuwaru Scraps
-Zuwaru Scraps+
-Bnahabra Scraps
-Bnahbra Scraps+
-Altaroth Scraps
-Altarth Scraps+
-Bulldrme Scraps
-Bulldrm Scraps+
-GrtJaggi Scraps
-GrtJaggiScraps+
-GrtFroggiScraps
-GrtFrggiScraps+
-GrtBaggiScraps
-GrtBaggiScraps+
-Aoashira Scraps
-AoashiraScraps+
-Urcusis Scraps
-Urcusis Scraps+
-Ranguro Scraps
-Ranguro Scraps+
-Qurupeco Scraps
-Qurupco Scraps+
-Ludroth Scraps
-Ludroth Scraps+
-Barroth Scraps
-Barroth Scraps+
-Haprbkka Scraps
-Hapbkka Scraps+
-Gigginox Scraps
-Giggnox Scraps+
-Rathian Scraps
-Rathian Scraps+
-Rathalos Scraps
-Rthalos Scraps+
-Jinouga Scraps
-Jinouga Scraps+
-Narga Scraps
-Narga Scraps+
-Barioth Scraps
-Barioth Scraps+
-Uragaan Scraps
-Uragaan Scraps+
-Doboru Scraps
-Doboru Scraps+
-Tigrex Scraps
-Tigrex Scraps+
-Diablos Scraps
-Diablos Scraps+
-Agnaktor Scraps
-Agnktor Scraps+
-JhenMhranScraps
-JhenMhrnScraps+
-Deviljho Scraps
-Akantor Scraps
-Ukanlos Scraps
-Alatreon Scraps
-Amatsu Scraps
-Courage Scraps
-Courage Scraps+
-Enhance Stone
-Enhance Sphere
-Enhance Sphere+
-Hrd Enhance Sph
-Hvy Enhance Sph
-Mystery Charm
-Radiant Charm
-Ancient Charm
-Suiko Jewel
-Akito Jewel
-Battlefield Jwl
-LapisLazuli Jwl
-SteadfastJwl [1]
-VigilanceJwl [1]
-ParalysisJwl [1]
-ParalysisJwl [2]
-Pep Jewel    [1]
-Pep Jewel    [2]
-Antidote Jwl [1]
-Antidote Jwl [2]
-FortitudeJwl [1]
-Alarm Jewel  [1]
-Teflon Jewel [1]
-LubricantJwl [1]
-RetrovirlJwl [1]
-AntiviralJwl [1]
-Anchor Jewel [1]
-Tectonic Jwl [1]
-Cooling Jwl  [1]
-Warming Jwl  [1]
-Earplug Jwl  [1]
-Earplug Jwl  [3]
-WindpressJwl [1]
-WindpressJwl [2]
-Attack Jewel [1]
-Attack Jewel [2]
-Attack Jewel [3]
-Expert Jewel [1]
-Expert Jewel [2]
-Expert Jewel [3]
-SpcialAtkJwl [1]
-SpcialAtkJwl [2]
-Element Jwl  [1]
-Element Jwl  [3]
-Fire Atk Jwl [1]
-Fire Atk Jwl [2]
-WaterAtk Jwl [1]
-WaterAtk Jwl [2]
-ThndrAtk Jwl [1]
-ThndrAtk Jwl [2]
-Ice Atk Jwl  [1]
-Ice Atk Jwl  [2]
-DragnAtk Jwl [1]
-DragnAtk Jwl [2]
-DeblitateJwl [1]
-DeblitateJwl [3]
-Slam Jewel   [1]
-Slam Jewel   [3]
-Ammo Box Jwl [1]
-Ammo Box Jwl [3]
-FastChargJwl [1]
-FastChargJwl [3]
-Unlock Jewel [1]
-Unlock Jewel [2]
-KO Jewel     [1]
-KO Jewel     [2]
-FatigeAtkJwl [1]
-FatigeAtkJwl [2]
-PotentialJwl [1]
-PotentialJwl [2]
-AdversityJwl [1]
-AdversityJwl [2]
-BombrdierJwl [1]
-Fife Jewel   [1]
-Howitzer Jwl [1]
-Defense Jwl  [1]
-Defense Jwl  [2]
-Blight Jewel [1]
-Blight Jewel [3]
-Inferno Jwl  [1]
-Crimson Jwl  [1]
-Stream Jewel [1]
-Torrent Jwl  [1]
-Thunder Jwl  [1]
-LightningJwl [1]
-Freeze Jewel [1]
-Glacier Jwl  [1]
-Slayer Jewel [1]
-ExtnctionJwl [1]
-Protectn Jwl [1]
-DvnePrtctJwl [1]
-Health Jewel [1]
-FeelGood Jwl [1]
-FeelGood Jwl [2]
-Cure Jewel   [1]
-Cure Jewel   [2]
-Evade Jewel  [1]
-Evade Jewel  [2]
-Jump Jewel   [1]
-Jump Jewel   [3]
-Sheathe Jwl  [1]
-Sheathe Jwl  [2]
-TrapMastrJwl [1]
-FastEaterJwl [1]
-FastEaterJwl [3]
-Marathon Jwl [1]
-Marathon Jwl [3]
-Constutn Jwl [1]
-Constutn Jwl [2]
-WillRecovJwl [1]
-WillRecovJwl [2]
-PickyEatrJwl [1]
-Fatso Jewel  [1]
-Fate Jewel   [1]
-Fate Jewel   [3]
-Rewards Jwl  [1]
-Rewards Jwl  [3]
-HidecuttrJwl [1]
-HideCuttrJwl [3]
-BackpckngJwl [1]
-GatherngJwl  [1]
-GrabnDashJwl [1]
-GoodLuck Jwl [1]
-FriendshpJwl [1]
-FriendshpJwl [2]
-Psychic Jwl  [1]
-ProfessorJwl [1]
-Armory Jewel [1]
-StayngPwrJwl [1]
-Perceptn Jwl [1]
-DungmastrJwl [1]
-Huntsman Jwl [1]
-Ninja Jewel  [1]
-Artisan Jwl  [1]
-Artisan Jwl  [3]
-Fencing Jwl  [1]
-Fencing Jwl  [3]
-Razor Jewel  [1]
-Razor Jewel  [3]
-CritDraw Jwl [1]
-CritDraw Jwl [2]
-PunshDrw Jwl [1]
-PunshDrw Jwl [3]
-IronWall Jwl [1]
-IronWall Jwl [2]
-HardWall Jwl [1]
-HardWall Jwl [2]
-Grinder Jwl  [1]
-StrngShotJwl [1]
-StrngShotJwl [3]
-Pierce Jewel [1]
-Pierce Jewel [3]
-Pellet Jewel [1]
-Pellet Jewel [3]
-ShotBonusJwl [1]
-ShotBonusJwl [2]
-PrceBonusJwl [1]
-PlltBonusJwl [1]
-BombBonusJwl [1]
-ScttrBnusJwl [1]
-CuttrBnusJwl [1]
-RapidFireJwl [1]
-RapidFireJwl [3]
-HighSpeedJwl [1]
-HighSpeedJwl [2]
-Recoil Jewel [1]
-Recoil Jewel [3]
-Sniper Jewel [1]
-Para Ct Jwl  [1]
-Para Ct Jwl  [2]
-Sleep Ct Jwl [1]
-PoisonCt Jwl [1]
-Power Ct Jwl [1]
-Power Ct Jwl [2]
-ClsRngCt Jwl [1]
-FatigeCt Jwl [1]
+Proviantblixbomb
+Proviantljudbomb
+PrviantHemlgMdcn
+Prviantfallfälla
+PrviantStrTnnBmb
+Antidrakbomb
+Ballistkula
+Ballistbindekula
+Elastiskbndekula
+Kunglig Honung
+Unik Svamp
+Välvald Svamp
+Mogen Svamp
+Storsvamp
+Specialbambu
+Auroraplanta
+Vulkanpeppar
+Guldfisk
+Silverfisk
+Brokadfisk
+Kungl.Brokadfisk
+KnglNoshornbagge
+HeligNoshornbgge
+Silversyrsa
+Guldsyrsa
+Guldmalmsskärva
+Guldmalmsklump
+Balsammalmskärva
+Balsammalmsklump
+Lindormskristall
+Guldben
+Blodsten
+Mörk Blodsten
+Kol
+Riklig Kol
+Kannonkula
+Lindormsägg
+Vätätarägg
+Gargwaägg
+GuldigtGargwaägg
+Sotkristallsmalm
+Pulversten
+Gargwadynga
+Vit Lever
+Slagtothspäck
+Popotunga
+Hemlig Påse
+Perfekt Ekollon
+Ren Magsäck
+Skinande Magsäck
+Giggiextrakt
+Monsterlever
+Lindormstårar
+Lindormsgråt
+Pelagustårar
+Pelagusgråt
+Trärester
+Trärester+
+Pumparester
+Malmrester
+Malmrester+
+Benrester
+Benrester+
+Pälsrester
+Pälsrester+
+Rhenoplosrester
+Rhenoplosrester+
+Slagtothrester
+Slagtothrester+
+Bnahabrarester
+Bnahabrarester+
+Altarothrester
+Altarothrester+
+Bulldromerester
+Bulldromerester+
+S-Jaggirester
+S-Jaggirester+
+S-Wroggirester
+S-Wroggirester+
+S-Baggirester+
+S-Baggirester+
+Arzurosrester
+Arzurosrester+
+Lagombirester
+Lagombirester+
+Volvidonrester
+Volvidonrester+
+Qurupecorester
+Qurupecorester+
+Ludrothrester
+Ludrothrester+
+Barrothrester
+Barrothrester+
+Nibelrester
+Nibelrester+
+Gigginoxrester
+Gigginoxrester+
+Rathianrester
+Rathianrester+
+Rathalosrester
+Rathalosrester+
+Zinogrerester
+Zinogrerester+
+Nargacugarester
+Nargacugarester+
+Bariothrester
+Bariothrester+
+Uragaanrester
+Uragaanrester+
+Duramrester
+Duramrester+
+Tigrexrester
+Tigrexrester+
+Diablosrester
+Diablosrester+
+Agnaktorrester
+Agnaktorrester+
+Mohranrester
+Mohranrester+
+Demonjhorester
+Akantorrester
+Ukanlosrester
+Alatreonrester
+Amatsurester
+Tapperhetsrester
+Tapperhtsrester+
+Pansarsten
+Pansarklot
+Pansarklot+
+Hårt Pansarklot
+Tungt Pansarklot
+Mystisk Amulett
+StrålandeAmulett
+Uråldrig Amulett
+Lyster Aquajuvel
+Solspetsjuvel
+Slagfältsjuvel
+Lapis Lazuli-Jvl
+Orubblig Jvl [1]
+Vaksam Juvel [1]
+Paralysjuvel [1]
+Paralysjuvel [2]
+Livlig Juvel [1]
+Livlig Juvel [2]
+MotgiftsJuvl [1]
+MotgiftsJuvl [2]
+DefSkyddJvl  [1]
+Alarmjuvel   [1]
+SpårningsJvl [1]
+Hikingjuvel  [1]
+Steril Juvel [1]
+Aseptisk Jvl [1]
+Ankarjuvel   [1]
+TektonikJvl  [1]
+Kylande Juvl [1]
+Värmande Jvl [1]
+ÖronproppJvl [1]
+ÖronproppJvl [3]
+VindskyddJvl [1]
+VindskyddJvl [2]
+Attackjuvel  [1]
+Attackjuvel  [2]
+Attackjuvel  [3]
+Expertjuvel  [1]
+Expertjuvel  [2]
+Expertjuvel  [3]
+HandikappJvl [1]
+HandikappJvl [2]
+Elementjuvel [1]
+Elementjuvel [3]
+Brandjuvel   [1]
+Brandjuvel   [2]
+Flodjuvel    [1]
+Flodjuvel    [2]
+Blixtjuvel   [1]
+Blixtjuvel   [2]
+Köldjuvel    [1]
+Köldjuvel    [2]
+Drakjuvel    [1]
+Drakjuvel    [2]
+MörbulteJuvl [1]
+MörbulteJuvl [3]
+Förstörarjvl [1]
+Förstörarjvl [3]
+KapacitetJvl [1]
+KapacitetJvl [3]
+SnbbLaddnJvl [1]
+SnbbLaddnJvl [3]
+FullFart Jvl [1]
+FullFart Jvl [2]
+KO-juvel     [1]
+KO-juvel     [2]
+Matthetsjuvl [1]
+Matthetsjuvl [2]
+Potentialjvl [1]
+Potentialjvl [2]
+ViljekrftJvl [1]
+ViljekrftJvl [2]
+BmbfällarJvl [1]
+Tonklangsjvl [1]
+Artillerijvl [1]
+Försvarjuvel [1]
+Försvarjuvel [2]
+Motståndsjvl [1]
+Motståndsjvl [3]
+Eldres.juvel [1]
+Eld-negjuvel [1]
+Vattnres.jvl [1]
+Vattn-negjvl [1]
+Åskres.juvel [1]
+Åsk-negjuvel [1]
+Isres.juvel  [1]
+Is-negjuvel  [1]
+Drakres.juvl [1]
+Drak-negjuvl [1]
+Skyddsjuvel  [1]
+TillflyktJvl [1]
+Livskraftjvl [1]
+Avkopplarjvl [1]
+Avkopplarjvl [2]
+Medicinjuvel [1]
+Medicinjuvel [2]
+Undflyktsjvl [1]
+Undflyktsjvl [2]
+Språngjuvel  [1]
+Språngjuvel  [3]
+Mantlingsjvl [1]
+Mantlingsjvl [2]
+FällMästrJvl [1]
+Snabbätsjuvl [1]
+Snabbätsjuvl [3]
+Maratonjwl   [1]
+Maratonjwl   [3]
+Fysikjuvel   [1]
+Fysikjuvel   [2]
+Förfrisknjvl [1]
+Förfrisknjvl [2]
+Hungerfrijvl [1]
+Metablismjvl [1]
+Ödesjuvel    [1]
+Ödesjuvel    [3]
+Belöningsjvl [1]
+Belöningsjvl [3]
+Skärarjuvel  [1]
+Skärarjuvel  [3]
+Transportjvl [1]
+Samlarjuvel  [1]
+SnabbsamlJvl [1]
+Välsignlsjvl [1]
+Vänskapsjuvl [1]
+Vänskapsjuvl [2]
+Mediumjuvel  [1]
+Professorjvl [1]
+Industrijvl  [1]
+Beståendejvl [1]
+Insiktsjuvel [1]
+Dyngmästrjwl [1]
+Skogsvaktjvl [1]
+Ninjajuvel   [1]
+Hantverksjvl [1]
+Hantverksjvl [3]
+Fäktarjuvel  [1]
+Fäktarjuvel  [3]
+Rakbladsjvl  [1]
+Rakbladsjvl  [3]
+Vapendragjvl [1]
+Vapendragjvl [2]
+Gambitjuvel  [1]
+Gambitjuvel  [3]
+Järnmursjvl  [1]
+Järnmursjvl  [2]
+Sköldjuvel   [1]
+Sköldjuvel   [2]
+Sliparjuvel  [1]
+Strkskottjvl [1]
+Strkskottjvl [3]
+Borrkulejvl  [1]
+Borrkulejvl  [3]
+Hagelkulejvl [1]
+Hagelkulejvl [3]
+Skottplusjvl [1]
+Skottplusjvl [2]
+Borrplusjvl  [1]
+Hagelplusjvl [1]
+Grnatplusjvl [1]
+Klustplusjvl [1]
+Skärplusjvl  [1]
+Salvajuvel   [1]
+Salvajuvel   [3]
+Omladdngjvl  [1]
+Omladdngjvl  [2]
+Rekyljuvel   [1]
+Rekyljuvel   [3]
+Sniperjuvel  [1]
+Para-övd-jvl [1]
+Para-övd-jvl [2]
+Sömn-övd-jvl [1]
+Gift-övd-jvl [1]
+Krft-övd-jvl [1]
+Krft-övd-jvl [2]
+NS-övd-juvel [1]
+Tröttövd-jvl [1]
